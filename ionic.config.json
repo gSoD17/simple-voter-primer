@@ -1,0 +1,7 @@
+{
+  "name": "voter-primer-sweden",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
