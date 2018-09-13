@@ -1,0 +1,1221 @@
+{
+  "name": "Sweden",
+  "introduction": "A military power during the 17th century, Sweden has not participated in any war for two centuries. An armed neutrality was preserved in both world wars. Sweden's long-successful economic formula of a capitalist system intermixed with substantial welfare elements was challenged in the 1990s by high unemployment and in 2000-02 and 2009 by the global economic downturns, but fiscal discipline over the past several years has allowed the country to weather economic vagaries. Sweden joined the EU in 1995, but the public rejected the introduction of the euro in a 2003 referendum.",
+  "geography": {
+    "location": "Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, Kattegat, and Skagerrak, between Finland and Norway",
+    "geographic_coordinates": {
+      "latitude": {
+        "degrees": 62,
+        "minutes": 0,
+        "hemisphere": "N"
+      },
+      "longitude": {
+        "degrees": 15,
+        "minutes": 0,
+        "hemisphere": "E"
+      }
+    }
+  },
+  "people": {
+    "population": {
+      "total": 9960487,
+      "global_rank": 91,
+      "date": "2017-07-01"
+    },
+    "nationality": {
+      "noun": "Swede(s)",
+      "adjective": "Swedish"
+    },
+    "ethnic_groups": {
+      "ethnicity": [
+        {
+          "name": "indigenous population: Swedes with Finnish and Sami minorities; most common countries of origin among immigrants: Syria"
+        },
+        {
+          "name": "Finland"
+        },
+        {
+          "name": "Iraq"
+        },
+        {
+          "name": "Poland"
+        },
+        {
+          "name": "Iran"
+        }
+      ]
+    },
+    "languages": {
+      "language": [
+        {
+          "name": "Swedish",
+          "note": "official"
+        }
+      ],
+      "note": "Finnish, Sami, Romani, Yiddish, and Meankieli are official minority languages"
+    },
+    "religions": {
+      "religion": [
+        {
+          "name": "Church of Sweden",
+          "percent": 63.5,
+          "note": "Lutheran"
+        },
+        {
+          "name": "other",
+          "percent": 8.1,
+          "note": "includes Roman Catholic, Orthodox, Baptist Muslim, Jewish, and Buddhist"
+        },
+        {
+          "name": "none or unspecified",
+          "percent": 28.4
+        }
+      ],
+      "note": "estimates reflect registered members of faith communities eligible for state funding (not all religions are state-funded and not all people who identify with a particular religion are registered members); an estimated 60.2% of Sweden's population were members of the Church of Sweden in 2017",
+      "date": "2015"
+    },
+    "age_structure": {
+      "0_to_14": {
+        "percent": 17.43,
+        "males": 892462,
+        "females": 843375
+      },
+      "15_to_24": {
+        "percent": 11.31,
+        "males": 581025,
+        "females": 545971
+      },
+      "25_to_54": {
+        "percent": 39.42,
+        "males": 1993590,
+        "females": 1933080
+      },
+      "55_to_64": {
+        "percent": 11.58,
+        "males": 578942,
+        "females": 574479
+      },
+      "65_and_over": {
+        "percent": 20.26,
+        "males": 931593,
+        "females": 1085970
+      },
+      "date": "2017"
+    },
+    "dependency_ratios": {
+      "ratios": {
+        "total_dependency_ratio": {
+          "value": 58.5,
+          "units": "%"
+        },
+        "youth_dependency_ratio": {
+          "value": 27.4,
+          "units": "%"
+        },
+        "elderly_dependency_ratio": {
+          "value": 31.1,
+          "units": "%"
+        },
+        "potential_support_ratio": {
+          "value": 3.2,
+          "units": "%"
+        }
+      },
+      "date": "2015"
+    },
+    "median_age": {
+      "total": {
+        "value": 41.2,
+        "units": "years"
+      },
+      "male": {
+        "value": 40.2,
+        "units": "years"
+      },
+      "female": {
+        "value": 42.2,
+        "units": "years"
+      },
+      "global_rank": 41,
+      "date": "2017"
+    },
+    "population_growth_rate": {
+      "growth_rate": 0.81,
+      "global_rank": 128,
+      "date": "2017"
+    },
+    "birth_rate": {
+      "births_per_1000_population": 12.1,
+      "global_rank": 167,
+      "date": "2017"
+    },
+    "death_rate": {
+      "deaths_per_1000_population": 9.4,
+      "global_rank": 57,
+      "date": "2017"
+    },
+    "net_migration_rate": {
+      "migrants_per_1000_population": 5.3,
+      "global_rank": 23,
+      "date": "2017"
+    }
+  },
+  "government": {
+    "country_name": {
+      "conventional_long_form": "Kingdom of Sweden",
+      "conventional_short_form": "Sweden",
+      "local_long_form": "Konungariket Sverige",
+      "local_short_form": "Sverige",
+      "etymology": "name ultimately derives from the North Germanic Svear tribe, which inhabited central Sweden and is first mentioned in the first centuries A.D."
+    },
+    "government_type": "parliamentary constitutional monarchy",
+    "capital": {
+      "name": "Stockholm",
+      "geographic_coordinates": {
+        "latitude": {
+          "degrees": 59,
+          "minutes": 20,
+          "hemisphere": "N"
+        },
+        "longitude": {
+          "degrees": 18,
+          "minutes": 3,
+          "hemisphere": "E"
+        }
+      },
+      "time_difference": {
+        "timezone": 1,
+        "note": "6 hours ahead of Washington, DC, during Standard Time"
+      },
+      "daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October"
+    },
+    "administrative_divisions": [
+      {
+        "name": "Blekinge",
+        "type": "country"
+      },
+      {
+        "name": "Dalarna",
+        "type": "country"
+      },
+      {
+        "name": "Gavleborg",
+        "type": "country"
+      },
+      {
+        "name": "Gotland",
+        "type": "country"
+      },
+      {
+        "name": "Halland",
+        "type": "country"
+      },
+      {
+        "name": "Jamtland",
+        "type": "country"
+      },
+      {
+        "name": "Jonkoping",
+        "type": "country"
+      },
+      {
+        "name": "Kalmar",
+        "type": "country"
+      },
+      {
+        "name": "Kronoberg",
+        "type": "country"
+      },
+      {
+        "name": "Norrbotten",
+        "type": "country"
+      },
+      {
+        "name": "Orebro",
+        "type": "country"
+      },
+      {
+        "name": "Ostergotland",
+        "type": "country"
+      },
+      {
+        "name": "Skane",
+        "type": "country"
+      },
+      {
+        "name": "Sodermanland",
+        "type": "country"
+      },
+      {
+        "name": "Stockholm",
+        "type": "country"
+      },
+      {
+        "name": "Uppsala",
+        "type": "country"
+      },
+      {
+        "name": "Varmland",
+        "type": "country"
+      },
+      {
+        "name": "Vasterbotten",
+        "type": "country"
+      },
+      {
+        "name": "Vasternorrland",
+        "type": "country"
+      },
+      {
+        "name": "Vastmanland",
+        "type": "country"
+      },
+      {
+        "name": "Vastra Gotaland",
+        "type": "country"
+      }
+    ],
+    "independence": {
+      "date": "1523-06-06",
+      "note": "Gustav VASA elected king of Sweden, marking the abolishment of the Kalmar Union between Denmark, Norway, and Sweden"
+    },
+    "national_holidays": [
+      {
+        "name": "National Day",
+        "day": "6 June",
+        "original_year": "1983",
+        "note": "from 1916 to 1982 this date was celebrated as Swedish Flag Day"
+      }
+    ],
+    "constitution": {
+      "history": "several previous; latest adopted 1 January 1975",
+      "amendments": "proposed by Parliament; passage requires simple majority vote in two consecutive parliamentary terms with an intervening general election; passage also requires approval by simple majority vote in a referendum if Parliament approves a motion for a referendum by one-third of its members; amended several times, last in 2014 (changes to the \"Instrument of Government\") (2016)"
+    },
+    "legal_system": "civil law system influenced by Roman-Germanic law and customary law",
+    "international_law_organization_participation": [
+      "accepts compulsory ICJ jurisdiction with reservations",
+      "accepts ICCt jurisdiction"
+    ],
+    "citizenship": {
+      "citizenship_by_birth": "no",
+      "citizenship_by_descent_only": "the father must be a citizen of Sweden; in the case of a child born out of wedlock, the mother must be a citizen of Sweden and the father unknown",
+      "dual_citizenship_recognized": "no, unless the other citizenship was acquired involuntarily",
+      "residency_requirement_for_naturalization": "5 years"
+    },
+    "suffrage": {
+      "age": 18,
+      "universal": true,
+      "compulsory": false
+    },
+    "executive_branch": {
+      "chief_of_state": "King CARL XVI GUSTAF (since 19 September 1973); Heir Apparent Princess VICTORIA Ingrid Alice Desiree, daughter of the monarch (born 14 July 1977)",
+      "head_of_government": "Prime Minister Stefan LOFVEN (since 3 October 2014); Deputy Prime Minister Isabella LOVIN (since 25 May 2016)",
+      "cabinet": "Cabinet appointed by the prime minister",
+      "elections_appointments": "the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister"
+    },
+    "legislative_branch": {
+      "description": "unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by proportional representation vote and 39 members in \"at-large\" seats directly elected by proportional representation vote; members serve 4-year terms)",
+      "elections": "last held on 14 September 2014 (next to be held on or before 9 September 2018)",
+      "election_results": "percent of vote by party - SAP 31.0%, M 23.3%, SD 12.9%, MP 6.9%, C 6.1%, V 5.7%, L 5.4%, KD 4.6%, other 4.1%; seats by party - SAP 113, M 84, SD 49, MP 25, C 22, V 21, L 19, KD 16"
+    },
+    "judicial_branch": {
+      "highest_courts": "Supreme Court of Sweden (consists of 16 justices including the court chairman); Supreme Administrative Court (consists of 18 justices including the court president)",
+      "judge_selection_and_term_of_office": "Supreme Court and Supreme Administrative Court justices nominated by the Board of Judges, a 9-member nominating body consisting of high-level judges, prosecutors, and members of Parliament; justices appointed by the Government; following a probationary period, justices' appointments are permanent",
+      "subordinate_courts": "first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents"
+    },
+    "political_parties_and_leaders": {
+      "parties": [
+        {
+          "party_id": 1,
+          "name": "Center Party",
+          "name_alternative": "C",
+          "leaders": [
+            "Annie Loof"
+          ],
+          "ideology": [
+            "Liberalism",
+            "Green Liberalism",
+            "Social Liberalism",
+            "Decentralisation",
+            "Agrarianism"
+          ],
+          "political_position": "centre to centre-right",
+          "bloc_affiliation": "Alliance",
+          "policy_stances": [
+            {
+              "issue_id": 1,
+              "issue_area": "Immigration",
+              "issue_stance": "We live in a globalized world. More people in the world migrate, both to seek protection from war, terror and oppression, but also for work and study. We stand for regulated immigration, a migration policy that unites order and deal with humanity and humanism. We want open labor immigration for both low and high-skilled workers. Sweden's growth is dependent on foreign skills.",
+              "voter_percent_importance": 27
+            },
+            {
+              "issue_id": 2,
+              "issue_area": "Healthcare",
+              "issue_stance": "No matter where in the country you live, you should have access to high quality care. Queues in healthcare must be shortened and it should be easier to get a doctor in times of sickness. The conditions of care personnel must be better. We also want you as a patient to have increased opportunities to choose care across the country.",
+              "voter_percent_importance": 19
+            },
+            {
+              "issue_id": 3,
+              "issue_area": "Education",
+              "issue_stance": "We need schools where every student gets the chance to succeed. Wherever in the country you live or what background you have should not matter. Education should be of high quality, from pre-school, up to university and research levels. Education is one of the pillars of our democratic society.",
+              "voter_percent_importance": 15
+            },
+            {
+              "issue_id": 4,
+              "issue_area": "Environment",
+              "issue_stance": "No one can choose not to be influenced by what happens to nature and the climate. In order for us to achieve a sustainable society, everyone must take responsibility. But it must also be easy to recycle, drive a car that is environmentally friendly or for farmers to produce food in a sustainable way.",
+              "voter_percent_importance": 10
+            },
+            {
+              "issue_id": 5,
+              "issue_area": "Elder care",
+              "issue_stance": "Although older people are satisfied with their care, the quality of care and care for the elderly needs to be increased. Quality can be about having permanent contact with a doctor, and not have to sit waiting for the emergency room. It may also be that you can choose who will come and clean at home or the option to choose what type of accommodation to stay at. All of these aspects must be part of creating better care for the elderly.",
+              "voter_percent_importance": 8
+            },
+            {
+              "issue_id": 6,
+              "issue_area": "Employment",
+              "issue_stance": "Small business owners are our job creators. But in order for them to create new jobs, simpler rules and less hassle are needed. Hiring workers needs to be cheaper and more labor mobility is needed. When we dare to think more to change jobs and more get a job to go to.",
+              "voter_percent_importance": 7
+            },
+            {
+              "issue_id": 7,
+              "issue_area": "Law and prder",
+              "issue_stance": "You should be able to live without fear of being subjected to crime. For us, safety means you can fall asleep without worry of burglary, children going to school without worry of bullying and other abuse - or go shopping without fear of being robbed. The police should be present, available and visible to you locally.",
+              "voter_percent_importance": 5
+            },
+            {
+              "issue_id": 8,
+              "issue_area": "Welfare",
+              "issue_stance": "",
+              "voter_percent_importance": 4
+            },
+            {
+              "issue_id": 9,
+              "issue_area": "Taxes",
+              "issue_stance": "Lower income taxes increases self-determination and a stronger economy. Higher taxes should be placed on environmentally damaging activities through an implementation of a green tax.",
+              "voter_percent_importance": 3
+            },
+            {
+              "issue_id": 10,
+              "issue_area": "Economy",
+              "issue_stance": "Sweden has fantastic conditions. We are a country whose success is based on world trade, creativity and hard work. The Swedish economy is going well and our wealth is growing. But everyone does not get the same chance.",
+              "voter_percent_importance": 3
+            }
+          ],
+          "note": "Centerpartiet"
+        },
+        {
+          "party_id": 2,
+          "name": "Christian Democrats",
+          "name_alternative": "KD",
+          "leaders": [
+            "Ebba Busch Thor"
+          ],
+          "ideology": [
+            "Christian Democracy",
+            "Conservatism",
+            "Social Conservatism",
+            "Economic Liberalism"
+          ],
+          "political_position": "centre-right to right-wing",
+          "bloc_affiliation": "Alliance",
+          "policy_stances": [
+            {
+              "issue_id": 1,
+              "issue_area": "Immigration",
+              "issue_stance": "We want controlled and transparent immigration. Those seeking asylum will be given a quick and legal trial, and those whose applications are rejected will promptly leave the country. Persons who come here for protection shall be granted temporary residence permits and small children shall not be separated from their parents. Regulated labor migration is important because Sweden needs good access to skilled labor. The Christian Democrats also believe that we need to be better at highlighting those values ​​that are not eligible in our society.",
+              "voter_percent_importance": 27
+            },
+            {
+              "issue_id": 2,
+              "issue_area": "Healthcare",
+              "issue_stance": "The task of healthcare is to provide a quality, accessible and efficient, well-adapted care. Curing, relieving and comforting still apply as the primary task of healthcare and everyone should be able to feel safe and trust that publicly funded healthcare can meet their needs. The basic principle is that healthcare should be jointly funded and needs-oriented. Preventive work, patient care and quality and patient safety are some of our priority areas.",
+              "voter_percent_importance": 19
+            },
+            {
+              "issue_id": 3,
+              "issue_area": "Education",
+              "issue_stance": "The task of schools is to provide each student with the skills necessary to live and work in a modern society and to educate students to be responsible citizens. With a school policy focusing on security, knowledge and unity and where every school has great freedom to design its own business, the Christian Democrats want to give students, teachers and school leaders the prerequisites for fulfilling this task.",
+              "voter_percent_importance": 15
+            },
+            {
+              "issue_id": 4,
+              "issue_area": "Environment",
+              "issue_stance": "Christian Democrats' environmental policy is based on the trustworthy spirit of ownership, which permeates all our positions. Our goal is for the world to be left to future generations in a better condition than we received ourselves. It is important to invest resources in research and development of renewable fuels and energy sources. It is also important to preserve and promote biodiversity so that our ecosystems are strengthened.",
+              "voter_percent_importance": 10
+            },
+            {
+              "issue_id": 5,
+              "issue_area": "Elder care",
+              "issue_stance": "Today, the care of severely ill elderly people is not characterized by the overall perspective required, instead, punctual efforts are made independently of each other and often without follow-up. Through home care, the elderly receive good care based on individual needs. Home care will consist of teams with nurses, district nurses, occupational therapists, physiotherapists, dieticians and dementia nurses. For a functioning care chain, a significant medical effect is required. Therefore, we want a permanent doctor who has overall responsibility for the elderly.",
+              "voter_percent_importance": 8
+            },
+            {
+              "issue_id": 6,
+              "issue_area": "Employment",
+              "issue_stance": "Having a job creates community, responsibility and development. When more people are employed, welfare resources are also strengthened. Despite the upswing, the gap in the labor market is increasing. It must therefore change to fit more. Jobs are one of the keys to good integration. We also see how important the values ​​are in the integration work. A society is built on a common value base, where certain values ​​are not eligible.",
+              "voter_percent_importance": 7
+            },
+            {
+              "issue_id": 7,
+              "issue_area": "Law and prder",
+              "issue_stance": "One of the state's basic tasks is to ensure that citizens are safe. You should be able to trust that the police come when you are alerting. Therefore, we want to see more police officers, and they should have resources to prevent, prevent and intervene against crime. When people are subjected to violent crime, robbery, sexual harassment or burglary in their homes, the judiciary must act. And we'll always be on the crime victim's side.",
+              "voter_percent_importance": 5
+            },
+            {
+              "issue_id": 8,
+              "issue_area": "Welfare",
+              "issue_stance": "Welfare policy must be general in the sense that it provides basic safety for all - in case of illness, unemployment, occupational injury and retirement. Distribution policy measures should be addressed to those with the greatest need for support and assistance and designed to encourage people's own power, self-responsibility and commitment, and to offset dependency. Municipalities are obliged to provide support support and other measures when assistance needs arise. The social contributions should be the same throughout the country, but municipalities should have the right to set their own contribution levels as local conditions vary.",
+              "voter_percent_importance": 4
+            },
+            {
+              "issue_id": 9,
+              "issue_area": "Taxes",
+              "issue_stance": "Taxes will finance well-being and public expenditures and govern economic development in a social and ecological direction. The tax system should be designed to stimulate work, honesty, savings and entrepreneurship. The individual shall, as far as possible, retain his own salary before additional contributions are paid.",
+              "voter_percent_importance": 3
+            },
+            {
+              "issue_id": 10,
+              "issue_area": "Economy",
+              "issue_stance": "Christian Democrats' economic policies are based on what we call social market economy. This means that the market economy must be combined with a socially responsible policy to contribute welfare and a reasonable level of living for all. Tax and contribution systems should be designed so that people's own power and commitment are encouraged and contributed to dependence.",
+              "voter_percent_importance": 3
+            }
+          ],
+          "note": "Kristdemokraterna"
+        },
+        {
+          "party_id": 3,
+          "name": "Green Party",
+          "name_alternative": "MP",
+          "leaders": [
+            "Isabella Lovin",
+            "Gustav Fridolin" 
+          ],
+          "ideology": [
+            "Green Politics"
+          ],
+          "political_position": "centre-left",
+          "bloc_affiliation": "Red-Greens",
+          "policy_stances": [
+            {
+              "issue_id": 1,
+              "issue_area": "Immigration",
+              "issue_stance": "The Green Party has a vision of a world without borders, where all people can move, and no one is forced to fly. We do not believe in countries' right to choose their residents, we believe in people's right to choose where they want to live. We will meet people with opportunities, not walls. Everyone should be able to live, work and realize their dreams wherever they wish. Free movement should be a human right.",
+              "voter_percent_importance": 27
+            },
+            {
+              "issue_id": 2,
+              "issue_area": "Healthcare",
+              "issue_stance": "Sweden should promote health, equal and modern health care. Healthcare should be of good quality, available, distributed as needed and be jointly funded. Dentistry should have the same conditions as other care and should therefore be part of publicly funded care and be part of a common high-cost protection.",
+              "voter_percent_importance": 19
+            },
+            {
+              "issue_id": 3,
+              "issue_area": "Education",
+              "issue_stance": "Through school, children and young people will have the will and tools to learn and develop through life. In school, each child will learn to read, write and count, create and participate in community discussion, collaborate and socialize with others and influence their own life situation. Schools should give each child the opportunity to be themselves and grow to what he or she wants to be. There should be no successful and failed students, neither good nor bad schools - everyone is entitled to succeed and develop.",
+              "voter_percent_importance": 15
+            },
+            {
+              "issue_id": 4,
+              "issue_area": "Environment",
+              "issue_stance": "Man has a responsibility that stretches beyond his own person and beyond his generation. Our living opportunities are determined by how well we can live in harmony with the ecological system. Green ideology is not just about human relationships, but also our dependence on all that we have about us. This conversion requires more efficient housekeeping with natural resources and a more even distribution. We in the rich countries need to adjust our consumption so that our ecological footprints per person quickly reach a globally sustainable level. In order to protect the environment, the precautionary principle must be applied as far as possible.",
+              "voter_percent_importance": 10
+            },
+            {
+              "issue_id": 5,
+              "issue_area": "Elder care",
+              "issue_stance": "Many live an active life much longer than previous generations have had the opportunity to. More and more people experience their centenary. Many older people are healthy, which is a great social resource. Elderly knowledge and experience are invaluable in many areas, for example, as still active or as mentors to younger ones. In the voluntary sector and the community, many older people make great efforts. However, all elderly people are not healthy and many need more help. Therefore, it is important to have a safe and good care for the elderly based on the individual needs of the elderly.",
+              "voter_percent_importance": 8
+            },
+            {
+              "issue_id": 6,
+              "issue_area": "Employment",
+              "issue_stance": "Labor market policies should promote a well-functioning labor market across the country. In that work, education policy and economic policy play an important role. The labor market needs to be better at matching employers and employees. We protect the Swedish model where the social partners jointly negotiate what will apply to the labor market through collective agreements. The model is based on the fact that a high proportion of workers are union affiliates, and union organization should be encouraged. Our policy will give all people the opportunity to contribute to society through their work conditions.",
+              "voter_percent_importance": 7
+            },
+            {
+              "issue_id": 7,
+              "issue_area": "Law and prder",
+              "issue_stance": "One of the prerequisites for a well functioning democracy is that people can feel safe and secure. It is important to rely on public power. This requires transparency and openness as well as an efficient and well-functioning justice system that has public confidence. There must be good civic insight into all law enforcement and law enforcement activities and it is important that a variety of backgrounds and perspectives are represented in both the police, prosecutor's office and courts. We want to safeguard civic participation in the judicial process, and therefore want to develop the members' system by allowing more than the political parties to nominate committee members.",
+              "voter_percent_importance": 5
+            },
+            {
+              "issue_id": 8,
+              "issue_area": "Welfare",
+              "issue_stance": "The welfare state's security system must be inclusive, general and robust. Everyone is entitled to financial security. Community services should be of high quality and be accessible to all. An equal society is safer for all residents. Therefore, we want to counter economic inequality. Even those who are unemployed or ill must be able to participate in society.",
+              "voter_percent_importance": 4
+            },
+            {
+              "issue_id": 9,
+              "issue_area": "Taxes",
+              "issue_stance": "Costs that affect the environment shall be included through taxes, fees or other appropriate instruments. This is a particularly important principle of climate policy, where all goods and services climate impacts should also be seen in the price. We want to see a tax on some financial transactions. A breakdown of banks' activities between traditional business and more speculative investment activities should be considered.",
+              "voter_percent_importance": 3
+            },
+            {
+              "issue_id": 10,
+              "issue_area": "Economy",
+              "issue_stance": "We have to readjust to an economy that takes human well-being and the environment into long-term consideration. Constant economic growth in the traditional sense is not possible on a planet with limited resources. It’s a political responsibility to design market conditions to ensure that resources are used in accordance with the requirements for a sustainable society. ",
+              "voter_percent_importance": 3
+            }
+          ],
+          "note": "Miljopartiet de Grona"
+        },
+        {
+          "party_id": 4,
+          "name": "Left Party",
+          "name_alternative": "V",
+          "leaders": [
+            "Jonas Sjostedt"
+          ],
+          "ideology": [
+            "Socialism",
+            "Feminism",
+            "Euroscepticism"
+          ],
+          "political_position": "left-wing",
+          "bloc_affiliation": "Red-Greens (non-member)",
+          "policy_stances": [
+            {
+              "issue_id": 1,
+              "issue_area": "Immigration",
+              "issue_stance": "The Left Party wants to create a human, welcoming and regulated refugee policy in Sweden and Europe. All people should be able to seek protection from persecution and oppression and have their asylum reasons tried in a legal manner. The Left Party wants a community for everyone, not just a few. It requires a policy that gives everyone the same opportunities and the same right to good education, work and accommodation, regardless of background, religion, skin color, sex or sexuality. For the Left Party, integration means bringing an inclusive policy that underpins a more equitable society.",
+              "voter_percent_importance": 27
+            },
+            {
+              "issue_id": 2,
+              "issue_area": "Healthcare",
+              "issue_stance": "Everyone has the right to equal and good health care, not just those who can afford private health insurance. The basic principle is that care should be given to people's needs. By making profit as a driver in health care, the possibility of managing the care to those with the greatest needs is complicated. We do not think that profit-making companies should be able to do business with tax assets in the core business of healthcare.",
+              "voter_percent_importance": 19
+            },
+            {
+              "issue_id": 3,
+              "issue_area": "Education",
+              "issue_stance": "School should be equivalent and give all students the same opportunities for a good education. The amount of pupils learning today depends more and more on what school they end up in and what parents they have. This does not have to be. Swedish schools are divided and students with different backgrounds and study conditions are gathered at different schools. One explanation is free school choice. The Left Party does not want students and parents to be forced to choose between 'better' and 'worse' schools. Everyone should be able to trust that the school closest to home is a good school with the ability to give the students the knowledge they are entitled to.",
+              "voter_percent_importance": 15
+            },
+            {
+              "issue_id": 4,
+              "issue_area": "Environment",
+              "issue_stance": "The Left Party has a basic ecological approach. For us, environmental considerations are more important than short-term profit interests. We want to use our common resources for long-term sustainable investments such as renewable energy, sustainable transport and the protection of natural areas. Only through reduced gaps between poor and rich and between men and women can we achieve an ecologically sustainable society and justify the limited environment space fairly. Biodiversity must be safeguarded by taking environmental concerns into account before the company's profit interests",
+              "voter_percent_importance": 10
+            },
+            {
+              "issue_id": 5,
+              "issue_area": "Elder care",
+              "issue_stance": "Elderly care concerns all of us. Either we are older and are in the care of elderly people, maybe we work there, or in many cases sooner or later we will end up there. In order for everyone - not only those who can afford to buy private services to receive valuable care, resources are needed in the form of, in particular, staff. In addition, profit interests in elderly care need to disappear. In order to achieve equal care for the elderly, municipalities need sufficient resources and the working conditions for the elderly care staff are improved. Therefore, the Left Party has pushed through a SEK $2 billion effort annually to strengthen staffing.",
+              "voter_percent_importance": 8
+            },
+            {
+              "issue_id": 6,
+              "issue_area": "Employment",
+              "issue_stance": "The Left Party wants to see an economic policy where full employment is the most important goal. Our goal is for everyone who has the opportunity to work to do it. A safe income gives people greater freedom. Unemployment is a social failure and a huge waste of human resources. The bourgeois government said tax cuts would lead to reduced unemployment. It did not. On the contrary, unemployment rose during their time in power and they left a large deficit in public finances. Since the 2014 election, the Left Party has had cooperation with the government on the state budget. Among other things, we have received a total of SEK $10 billion for the welfare, a major housing package for investment, renovation and energy efficiency and focus on more staff in the field of elderly care and health care. Now we see the result of the led policy. Employment rates increased while unemployment droped.",
+              "voter_percent_importance": 7
+            },
+            {
+              "issue_id": 7,
+              "issue_area": "Law and prder",
+              "issue_stance": "The Left Party is working for a society where no one has the opportunity to see crime as a solution. We want to give all children an upbringing that gives them opportunities in life, from preschool, to school and the first job. For those who seriously want to reduce violence and crime, the reason is to build a fair society. Basically, a policy of economic equality and a strong welfare society requires no private and no residential area to be allowed to fall. Where there is future confidence and opportunities for everyone, there reduces incentives to commit crimes, and it will also make it more difficult for criminal gangs to recruit.",
+              "voter_percent_importance": 5
+            },
+            {
+              "issue_id": 8,
+              "issue_area": "Welfare",
+              "issue_stance": "Welfare is a prerequisite for the freedom of many people. It should be trusted that your child meets school safety, that your parents receive warmth and care at the elderly and that you receive the best care when you feel bad. General welfare includes all who are in need of it, no matter how big your wallet is. General welfare involves a solidarity redistribution of financial resources between women and men, between low-paid and high-paid workers, between different periods of our lives and between healthy and ill. The Left Party's starting point is very simple: welfare is for all of us - not to give profit to owners.",
+              "voter_percent_importance": 4
+            },
+            {
+              "issue_id": 9,
+              "issue_area": "Taxes",
+              "issue_stance": "The Left Party wants to build a strong country capable of providing good health care, school and safe old age to all people. We all help to make it possible by paying taxes, and the vast majority of government and municipal income comes from taxes paid by people with ordinary wages. But we also want to use taxes to redistribute between rich and poor. Therefore, we want to increase taxes for the richest. Today the tax system is rigged for the rich. In fact, Sweden is a country in the EU's core countries, which has the least redistributive tax system. Sweden is one of the few countries within the OECD who have neither wealth tax, inheritance tax, gift tax or property tax linked to the value of the property. Today, small local businesses often pay more in taxes than large, profitable multinational companies. That's not fair. Corporate taxation needs to be changed and the tax evasion regime tightened.",
+              "voter_percent_importance": 3
+            },
+            {
+              "issue_id": 10,
+              "issue_area": "Economy",
+              "issue_stance": "The Left Party wants a country that is for everyone, not just for the rich. Welfare has undergone major changes through extensive privatization, making it vulnerable and a target for unfaithful entrepreneurs and economic crime. The Left Party, therefore, wishes to make a series of changes. Among other things, we want to reintroduce an audit obligation for smaller limited companies and the monthly report on the number of employees.",
+              "voter_percent_importance": 3
+            }
+          ],
+          "note": "Vansterpartiet"
+        },
+        {
+          "party_id": 5,
+          "name": "Liberals",
+          "name_alternative": "L",
+          "leaders": [
+            "Jan Bjorklund"
+          ],
+          "ideology": [
+            "Liberalism",
+            "Social Liberalism",
+            "Pro-Europeanism"
+          ],
+          "political_position": "centre-right",
+          "bloc_affiliation": "Alliance",
+          "policy_stances": [
+            {
+              "issue_id": 1,
+              "issue_area": "Immigration",
+              "issue_stance": "The world gets better when people travel and move between countries. Liberals want people to be able to shape their lives and follow their dreams. However, if integration is to work and the welfare state to remain, refugee and immigration policy must be based on both humanism and realism. Transparency makes our country richer. Sweden needs more people who move here to work and study. We want to simplify labor immigration both to Sweden and the EU. People who work and do well should not be expelled. People on the run must get support and help from the outside world. Sweden and Europe will stand up for a human and solidarity asylum policy.",
+              "voter_percent_importance": 27
+            },
+            {
+              "issue_id": 2,
+              "issue_area": "Healthcare",
+              "issue_stance": "Every person should have the freedom to control his life, his health and his future. Patients are strengthened by the power and knowledge to choose, the opportunity to participate and treatment that makes their healthcare personal and that sees individual needs. Career services with higher pay to specialist nurses.  More simple jobs in care. Choice in care. Permanent GPs should coordinate care. Everyone must choose a health center. Stop the medical care carousel for the most sick elderly.",
+              "voter_percent_importance": 19
+            },
+            {
+              "issue_id": 3,
+              "issue_area": "Education",
+              "issue_stance": "For liberals, school is the way to give all children a chance to find their way and achieve their dream. The liberals are - and have always been - the school party. We simply love knowledge, because it is the ticket to a life that you control over yourself. Swedish schools are going to peak again, and every student should have learned the basics before their last day. Elementary schooling needs to be ten years, and there should be more lesson hours. Teachers should spend their time on what they are educated for: teaching their students. Then they need both clear powers, good leadership training, more administrative support of, for example, teacher assistants, and backing up of student health teams outside the classroom. The teaching profession should be a well-paid and attractive academic profession that attracts the most suitable. Teachers should be able to feel proud of their profession and have good conditions in their daily lives. Skilled teachers should have high pay and clear career paths.",
+              "voter_percent_importance": 15
+            },
+            {
+              "issue_id": 4,
+              "issue_area": "Environment",
+              "issue_stance": "We are responsible for managing environment and nature so that we leave a world in ecological balance for future generations. As liberals, we believe in market economy, but market forces sometimes do not work well enough, for example, to protect and conserve nature, the garden and biodiversity. Therefore, we must jointly finance efforts that preserve valuable nature such as beaches and ancient forests and protect the animals.",
+              "voter_percent_importance": 10
+            },
+            {
+              "issue_id": 5,
+              "issue_area": "Elder care",
+              "issue_stance": "Older people are often treated today as a collective and not as individual people. We want to see a difference. Every person should of course be entitled to decide on his everyday life and his elderly care. There should be less bureaucracy around aid assessement, more places in care housing, develop social content relating to mental health in elderly care, and support for relatives caring for their loved ones.",
+              "voter_percent_importance": 8
+            },
+            {
+              "issue_id": 6,
+              "issue_area": "Employment",
+              "issue_stance": "To have a dream and work hard to fulfill it, to be able to control their own lives - freedom should have more experience. It will be worth working and it must be easier to go from education to work. We want to see more simple jobs for those who find it hard to get a foot in the Swedish labor market. If more people have the freedom to have their own salary, there must also be jobs for those who lack education, experience and contacts. We want to introduce a new form of employment with slightly lower entry salary and abolished employer fees for young and new arrivals.",
+              "voter_percent_importance": 7
+            },
+            {
+              "issue_id": 7,
+              "issue_area": "Law and prder",
+              "issue_stance": "Since 2014, Sweden has not received a single police officer. On the contrary, the police have become fewer. Many places in police training centers are empty. We want to solve the police crisis through higher wages and better conditions. Within seven years, Sweden will have at least 25,000 police officers.",
+              "voter_percent_importance": 5
+            },
+            {
+              "issue_id": 8,
+              "issue_area": "Welfare",
+              "issue_stance": "Liberal social insurance is based on a few simple principles. There is a connection between fees and benefits, the fee is proportional to income, compensation is paid against loss of income and the insurance covers all. One of the most important aspects of social insurance is that they level out risks between people and over time.",
+              "voter_percent_importance": 4
+            },
+            {
+              "issue_id": 9,
+              "issue_area": "Taxes",
+              "issue_stance": "In order to finance welfare and security initiatives, reduced taxes at work and entrepreneurship, and a school with knowledge for all, it is crucial that Sweden has a fiscal policy framework for policy in a strict and responsible direction. Financial policy needs to be both well-balanced and sustainable.",
+              "voter_percent_importance": 3
+            },
+            {
+              "issue_id": 10,
+              "issue_area": "Economy",
+              "issue_stance": "Getting a job and taking responsibility for your own economy is the basis for an independent life. It's also when people work and pay taxes as we can afford high quality welfare. A policy for more jobs is therefore the best allocation policy. The gaps in society can never be reduced by keeping people back, but must be combated by giving people space to grow. The labor and housing market should therefore not close out people, and high marginal taxes on work must never dampen people's ambitions, student motivation and accountability.",
+              "voter_percent_importance": 3
+            }
+          ],
+          "note": "Liberalerna"
+        },
+        {
+          "party_id": 6,
+          "name": "Moderate Party",
+          "name_alternative": "M",
+          "leaders": [
+            "Ulf Kristersson"
+          ],
+          "ideology": [
+            "Liberal Conservatism",
+            "Economic Liberalism"
+          ],
+          "political_position": "centre-right",
+          "bloc_affiliation": "Alliance",
+          "policy_stances": [
+            {
+              "issue_id": 1,
+              "issue_area": "Immigration",
+              "issue_stance": "Addressing openness to the outside world is not the same as unregulated immigration. Sweden has taken and takes great responsibility for people on the run. For many years, we have been one of the countries in the EU that have had the highest level of refugees in relation to population. Migration policy must be designed in view of the major refugee influx we have had and the major integration problems we have. Therefore, Sweden needs to receive fewer asylum seekers, and has a permanent tightened asylum law. Laws and rules should be designed in a manner that is in line with other countries in our vicinity. Our asylum system must be legal and predictable.",
+              "voter_percent_importance": 27
+            },
+            {
+              "issue_id": 2,
+              "issue_area": "Healthcare",
+              "issue_stance": "At present, over 86,000 people are in custody for care. Care cures for surgery have more than doubled since the last election. Almost half of patients in cancer care do not receive care on time. The waiting times also vary greatly between different county councils and regions. Whe need to address an emergency situation. Patients' waiting times need to be considerably shorter. Primary care must be expanded and become more accessible. Children and elderly people should not be forced to the emergency room because there is no time at the health center.",
+              "voter_percent_importance": 19
+            },
+            {
+              "issue_id": 3,
+              "issue_area": "Education",
+              "issue_stance": "Much in Swedish school works well. There are many classrooms with students equiped with knowledge for life and with teachers that make them grow and dare more. Unfortunately, it is not the same for everyone. Parts of the Swedish school have difficult problems. Almost every fifth ninth grade class, equivalent to approximately 18,600 students, left primary school last year without being eligible for high school. The Moderates' proposals are that elementary schools should last 10 years and start at the age pf 6, increased teaching time in elementary school by one hour each day, national tests should be corrected centrally, diagnostic tests for all students from the lower secondary school, homework help should be available to all students in grade 4-9, and a compulsory school of law in grades 6-9 for students at risk of slipping.",
+              "voter_percent_importance": 15
+            },
+            {
+              "issue_id": 4,
+              "issue_area": "Environment",
+              "issue_stance": "Swedish greenhouse gas emissions come mainly from transport and the base industry. They account for one third of Sweden's emissions. Major efforts are needed here. To reduce the emissions of the basic industry, significant technological development is required. For example, it may be about producing fossil-free steel or fossil-free concrete. Support for investment in new technology will increase. Such innovations are effective both in Sweden and globally. The Moderates propose climate deductions for industrial companies to radically reduce emissions, government research policy with targeted funds for sustained reduction of emissions in the basic industry, investment in infrastructure for carbon-free road transport, such as charging posts, with technology-neutral support, effective measures for a green shift in flight, and staging a reduction of carbon dioxide and energy taxes for mining industry.",
+              "voter_percent_importance": 10
+            },
+            {
+              "issue_id": 5,
+              "issue_area": "Elder care",
+              "issue_stance": "Over the coming decades, the number of people aged 85 and older is expected to increase sharply. It's basically good news. But it also means that a limited number of elderly patients will account for a very high proportion of healthcare resources. It requires the care and care of the elderly with several diseases to work. Many are sent today from one device to the other without anyone taking responsibility for the whole. We need to build effective care chains for multicultural seniors. Nearly six out of ten older people say they feel alone. Solitude leads to exclusion and isolation. Strengthening the rights of older people to dignified life is basically about security and well-being. It consists of several parts - belonging to a community, influence and choice, service and consideration. Every elder should have a good living and a worthy care for the elderly.",
+              "voter_percent_importance": 8
+            },
+            {
+              "issue_id": 6,
+              "issue_area": "Employment",
+              "issue_stance": "Despite a good business cycle, many employers have been harder to find labor. In the long run, new technology will lead to replacement of certain jobs and new qualification requirements. At the same time, many unemployed are far from the labor market. Unemployment is not evenly distributed, but affects those who, for various reasons, find it hard to get a job in the labor market. This applies especially to new arrivals, immigrants and young people. Whoever does not get his first job never gets his second or third. Now we are taking the power to break that development. Everyone who can work must get a job. Moderates' proposals includes replacing the Employment Service with a new, smaller, and more efficient authority, allow independent actors to to take over matching job vacancies with job seekers, more places at university, college, and vocational education, remove difficult subsidies for different jobs - instead simplifying employment support.",
+              "voter_percent_importance": 7
+            },
+            {
+              "issue_id": 7,
+              "issue_area": "Law and prder",
+              "issue_stance": "There is a lack of police in Sweden. In parts of the country, the police are perceived as absent. The situation within the police authority is strained and record cops leave the profession. Major crime reports are coming to high. The investigation results fall into several categories of crime. The police need more resources, increased powers and better conditions. Sweden's citizens have the right to a police who works, which effectively prevents and investigates crime, and who can be trusted.",
+              "voter_percent_importance": 5
+            },
+            {
+              "issue_id": 8,
+              "issue_area": "Welfare",
+              "issue_stance": "Social services are one of the pillars of welfare society. It is the ultimate protection net for the children, adults and families who for various reasons need urgent help or long-term support. It also needs to be able to work preventively. By 2016, 30500 children and young people received care under the Social Services Act or the Act according to the Act on Special Care for Young People (LVU) at any time during the year. The most common placement is family home. These must have reasonable conditions and conditions so that children and young people get the help they need.",
+              "voter_percent_importance": 4
+            },
+            {
+              "issue_id": 9,
+              "issue_area": "Taxes",
+              "issue_stance": "Today, it is not enough in Sweden to go from contributions to work, to training or to work for more hours. Therefore, we want to lower the tax for everyone who works. We are implementing the largest tax cuts since 2006. We lower the most, in relation to income, for those who earn the least. It is both right and fair.",
+              "voter_percent_importance": 3
+            },
+            {
+              "issue_id": 10,
+              "issue_area": "Economy",
+              "issue_stance": "Entrepreneurs should be appreciated more than they are taxed. Four out of five jobs are created in small and medium-sized companies. Therefore, it is worrying that new business in Sweden is the lowest in ten years. At the same time, headquarters leave the country. It must be easier to start, run, develop and own companies in Sweden. Entrepreneurs should have the prerequisites to want and dare to invest in their ideas. Work on implementing regulatory improvements will be prioritized, both at home and at EU level. Taxes should not put sticks in the wheel for companies that want to grow. In order to take advantage of the opportunities of the new technology and to develop Sweden's international competitiveness, a coherent and offensive digitization policy is needed.",
+              "voter_percent_importance": 3
+            }
+          ],
+          "note": "Moderaterna"
+        },
+        {
+          "party_id": 7,
+          "name": "Swedish Social Democratic Party",
+          "name_alternative": "SAP",
+          "leaders": [
+            "Stefan Lofven"
+          ],
+          "ideology": [
+            "Social Democracy"
+          ],
+          "political_position": "centre-left",
+          "bloc_affiliation": "Red-Greens",
+          "policy_stances": [
+            {
+              "issue_id": 1,
+              "issue_area": "Immigration",
+              "issue_stance": "We Social Democrats support regulated immigration. It is essential that people fleeing from danger get help and be entitled to receive asylum. But there must be more responsible immigration policy. We have revised legislation so that more people apply for asylum in other countries rather than Sweden. As the receiving of refugees must by met with solidarity with others in the EU, so to must our refugees be received and distributed throughout the country. We want new and more restrictive asylum legisation that does not differ significantly from others in the EU. We want to continue to work both globally and within the EU to get more countries to take responsibility for refugees. And that our current model of accomodations for refugees and migrants should be replaced with a better system that counteracts segregation.",
+              "voter_percent_importance": 27
+            },
+            {
+              "issue_id": 2,
+              "issue_area": "Healthcare",
+              "issue_stance": "Healthcare is part of what makes Sweden unique. Swedish healthcare is available to all and is of very good quality, even of world class. But it's not enough. Every third patient waits longer than the 90 days for treatment, and every fourth may wait too long for a specialist. This is unacceptable and is not worthy of a strong welfare state like ours. Therefore, we Social Democrats want another 3 billion kronor invested into our care services as well as 14000 more care workers by 2022.",
+              "voter_percent_importance": 19
+            },
+            {
+              "issue_id": 3,
+              "issue_area": "Education",
+              "issue_stance": "In a strong society there are educational opportunities for everyone - no matter where you live or where you are in life. Education and knowledge enable us as individuals to realize our dreams and is also a prerequisite for Sweden to be a competitive country. Investments in education and research lay the foundation for job and welfare. We have tried tax cuts and privatizations. It did not make Sweden better. Instead, unemployment rose and competitiveness fell. Knowledge outcomes fell and the number of places in education are declining. The result was a recruitment gap in the labor market and sky-high youth unemployment. We need to continue investing in the entire education system, from pre-school to college, educate and hire more teachers and other educational staff, breaking up with marketing and competition, rebuilding educational institutions in society, religious independent schools should be banned, and we should improve the ability for people to receive training throughout lives.",
+              "voter_percent_importance": 15
+            },
+            {
+              "issue_id": 4,
+              "issue_area": "Environment",
+              "issue_stance": "Sweden is an environmental country. In a stronger society we can manage Swedish environmental goals through investments and new rules that reduce greenhouse gas emissions, protect biodiversity, create a poison-free environment and a better marine environment. Sweden must be the first fossil-free welfare state, we need to enforce tougher chemicals rules in the EU and introduce domestic taxes on hazardous substances.",
+              "voter_percent_importance": 10
+            },
+            {
+              "issue_id": 5,
+              "issue_area": "Elder care",
+              "issue_stance": "Social Democrats want older people to decide for themselves about their lives, whether it's about participation in working life or what they want to get help from home care. Social Democrats want to stop the profit hunt in elderly care and improve staff conditions to increase the safety of the elderly, we want to introduce a permanent care contact in home care and more social cohesion through a commitment to sports and outdoor living for the elderly, employ more people in elderly care, improve working conditions and strengthen their knowledge and skills, develop a long-term quality plan for elderly care. Our goal is to achieve a balanced and equal quality of care for the elderly throughout the country.",
+              "voter_percent_importance": 8
+            },
+            {
+              "issue_id": 6,
+              "issue_area": "Employment",
+              "issue_stance": "Everyone who can work should work and a person who works should be able to live on his salary and have a safe working environment. We will live in a country where women and men go to work, feel safe and can combine family and work. Social Democrats want to introduce full-time jobs as a norm and increase job security and reduce stress and mental health in working life. We want to make major investments in education and that social partners with the state should develop better systems for skills supply, conversion and rehabilitation. We want to improve the system of short-term work in a recession so that wage earners can develop skills while retaining their employment and introduce an extra week's leave a year for all parents",
+              "voter_percent_importance": 7
+            },
+            {
+              "issue_id": 7,
+              "issue_area": "Law and prder",
+              "issue_stance": "Violence poses a threat to the whole of democratic society and it should to be combated by all means. It is when faith in the future is lost that gangs and violence becomes an option. We will fight the crimes, but also the causes of the crime. The most effective way to prevent young people from choosing crime is to offer something better: a good education, something meaningful to do in your spare time, a first job, the opportunity to move away from home. Successful law enforcement requires early prevention efforts and the whole of society's commitment. Social Democrats want 10000 more police officers by 2024, and that 7.3 billion extra kronor be made available for our police services. Stopping gangs by abolishing penalties for 18-21 year olds, and introducing social intervention for groups. We want to fight men's violence against women by raising the punishment for rape and that sexual offenses should lead to more convictions.",
+              "voter_percent_importance": 5
+            },
+            {
+              "issue_id": 8,
+              "issue_area": "Welfare",
+              "issue_stance": "Our common welfare model is part of what makes Sweden amazing. By demanding each other and helping us, we develop our common community model. When welfare works and covers all, we dare more; change jobs, start a business, form a family and get children, move or start studying. We all earn it. When welfare embraces all, the freedom of individual human beings can grow. Then everyone can get the chance to realize their life dreams. This is the basis of social democratic policy. Therefore, we prioritize investment in education, welfare, infrastructure and housing. Responsible economic policy is the guarantor of Swedish welfare. With more jobs we can afford a welfare to be proud of.",
+              "voter_percent_importance": 4
+            },
+            {
+              "issue_id": 9,
+              "issue_area": "Taxes",
+              "issue_stance": "Taxes are needed to finance what we together benefit from. Sweden has major investment in railways, roads, housing, education and research. Police and security against crime need to be strengthened. Efforts to combat tax fraud should be increased. The municipal tax alleviation and state subsidies to the municipal sector are important for reducing county and municipal taxes.",
+              "voter_percent_importance": 3
+            },
+            {
+              "issue_id": 10,
+              "issue_area": "Economy",
+              "issue_stance": "A strong economy is the foundation of a stronger society. Social Democrats want to increase investment in welfare by at least 30 billion, invest more into the labor market, support local job training, education, validation and language training that leads to more people coming to work, and safeguard the fiscal framework that sets targets for public saving and create long-term stability in public finances.",
+              "voter_percent_importance": 3
+            }
+          ],
+          "note": "Socialdemokraterna"
+        },
+        {
+          "party_id": 8,
+          "name": "Sweden Democrats",
+          "name_alternative": "SD",
+          "leaders": [
+            "Jimmie Akesson"
+          ],
+          "ideology": [
+            "Swedish Nationalism",
+            "Social Conservatism",
+            "Euroscepticism"
+          ],
+          "political_position": "right-wing to far-right",
+          "bloc_affiliation": "None",
+          "policy_stances": [
+            {
+              "issue_id": 1,
+              "issue_area": "Immigration",
+              "issue_stance": "Sweden's migration policy has been dealt with in an ignorant manner for decades, with serious consequences for Swedish society. A very high level of asylum and relatives has fragmented society, cultivated exclusion, and worsened welfare. At the same time, security has been jeopardized because demands and controls have been weak, both in terms of residence in the country or the granting of citizenship. Today tens of thousands of people live illegally within the country's borders, and Sweden has become known internationally for unrest, rape and civilians active in terror networks. We suggest that there should be a change in asylum legislation so that Sweden only receives asylum seekers from our neighbors and stop all asylum reception as long as Sweden's vicinity is safe. We suggest a change in regulations for labor immigration so that the needs of the Swedish labor market comes first. We suggest that we should make it impossible for employers to use foreign labor to circumvent Swedish working conditions.",
+              "voter_percent_importance": 27
+            },
+            {
+              "issue_id": 2,
+              "issue_area": "Healthcare",
+              "issue_stance": "Swedish healthcare has previously been a model for the rest of the world. Unfortunately, it's no longer the case. Today, Sweden has one of the longest care queues in Europe, and too many patients have to wait longer than the 90-day care guarantee. Corresponding development is within emergency care, where even the youngest and most vulnerable are affected because there are no intensive care facilities for children. Sweden Democrats therefore see accessibility in primary care and shorter waiting times for emergency services as particularly prioritized areas. In Sweden, all citizens must be offered the best possible healthcare within a reasonable time, regardless of location or wallet. We want to give the healthcare staff the appreciation they deserve in terms of reasonable wages and a good working environment. We want to see Sweden where quality, accessibility and security are guaranteed by well-trained and committed staff, a Sweden where native Swedes are not discriminated against in relation to persons staying illegally in the country.",
+              "voter_percent_importance": 19
+            },
+            {
+              "issue_id": 3,
+              "issue_area": "Education",
+              "issue_stance": "International surveys show that Sweden is lagging behind. Within the primary and secondary school there is no clear knowledge focus and opportunity for the student to develop at his own pace. Tools also need to be addressed to solve these problems and there should be good career paths for teachers. In addition, there is a need for effective school health care and study guidance and that teachers are relieved in the administrative work. The Swedish Democrats' education policy is partly based on a return to what has worked well, partly on inspiration from the countries that are doing the best today.",
+              "voter_percent_importance": 15
+            },
+            {
+              "issue_id": 4,
+              "issue_area": "Environment",
+              "issue_stance": "Sweden has a rich and valuable nature that must be protected and preserved. We value the varied cultural landscape, beautiful scenery should be experienced and we want it to be possible to live in the countryside. Therefore, we emphasize the management spirit and active agriculture and forestry in parallel with the work to preserve untouched nature. Biodiversity is found in forests and nature reserves, but also in farmland. Sweden's greenhouse gas emissions are low for an industrialized country. The Swedish Democrats' environmental policy is constructive, realistic and is based on how we can combat global environmental pollution and greenhouse gas emissions globally, in the most cost-effective way, without losing weight for rural and industrial areas. Environmental problems in general and greenhouse gases in particular do not take national boundaries into account. Based on the principle most beneficial per capita, we prefer investments on international measures and research in the face of increased fuel prices, vehicle taxes and other measures that fight Swedish jobs and rural areas without any measurable impact on environmental problems globally.",
+              "voter_percent_importance": 10
+            },
+            {
+              "issue_id": 5,
+              "issue_area": "Elder care",
+              "issue_stance": "Sweden's elderly deserve to get the world's best care for the elderly. We can not accept that the elderly die alone, ending their lives socially isolated or that people feel strongly worried about getting old due to lack of care and poorer pension conditions. All people should be able to age with dignity. On the day of struggling, society will come in and provide the help needed for the elderly to continue to live a safe and meaningful life. Older people should be able to stay at home, even if care needs increased. No one should be forced to separate from friends, relatives and pets other than when necessary for, for example, hospital care. Sweden's elderly should not have to face stressed and exhausted staff. We therefore prioritize the issue of the elderly care working conditions through proposals for the elimination of involuntary shared trips. We also want to give staff a greater influence over working hours and ensure sufficient skills through a special ID for the Nursing profession.",
+              "voter_percent_importance": 8
+            },
+            {
+              "issue_id": 6,
+              "issue_area": "Employment",
+              "issue_stance": "The problems in the Swedish labor market today are complex, and education and unemployment levels differ strongly between groups. The Swedish Democrats seek an active but clearly defined labor market policy. We assume a pragmatic, cross-political attitude with the aim of safeguarding the nation's overall interests. This means that we do not carry either classic right or left politics. Instead, we are based on a target image based on labor market balance, unemployment in times of unemployment, improved conditions for SMEs, safe workplaces and cost-effective matching. We also see the need to give the country's entrepreneurs the recognition and support they deserve. We want to see Sweden where it pays to work, create jobs and take risks for a better future.",
+              "voter_percent_importance": 7
+            },
+            {
+              "issue_id": 7,
+              "issue_area": "Law and prder",
+              "issue_stance": "Our country is not good. Women, children and elderly are afraid to go out alone in the evening. There are fights in the streets between rival suburbs. Police officers and their families are shrouded at home and their cars blasted while police support is unclear. Current and former governments have seriously damaged confidence in the judiciary. Police officers resign themselves as a result of poor working conditions and a growing threats. Fire brigades and ambulances can not enter in immigrant domains without armed escort. Those who live and work in our suburbs may have their shops robbed, closed down or taken over by criminals. The few perpetrators who are actually convicted of gross crimes are released with mild punishment, while their victims barely receive support. As a result of uncontrolled immigration, terrorists with war experience travel freely on streets and squares and exploit our welfare and asylum system. Antisemitism is growing stronger and Jews fly Swedish cities. Sweden Democrats want a Sweden where people can feel safe - no matter what time of day, regardless of location. A country characterized by loyalty, solidarity and trust towards each other and where the public space is not controlled by criminals. A society where victims of crime receive support and resettlement while the perpetrators receive a punishment in proportion to the seriousness of the crime. A modern public home where we meet those who maintain the system with respect - and not with hatred and violence.",
+              "voter_percent_importance": 5
+            },
+            {
+              "issue_id": 8,
+              "issue_area": "Welfare",
+              "issue_stance": "We think Swedish welfare should prioritize Swedish citizens. Medical care should be available throughout our country, regardless of the size of the wallet. We want to provide healthcare staff with an improved work environment, good development opportunities and a good salary level. We want a school that prioritizes knowledge and order, where both teachers and students enjoy and can perform. In our Sweden, older people get a pension that they can really live on.",
+              "voter_percent_importance": 4
+            },
+            {
+              "issue_id": 9,
+              "issue_area": "Taxes",
+              "issue_stance": "",
+              "voter_percent_importance": 3
+            },
+            {
+              "issue_id": 10,
+              "issue_area": "Economy",
+              "issue_stance": "",
+              "voter_percent_importance": 3
+            }
+          ],
+          "note": "Sverigedemokraterna"
+        }
+      ]
+    },
+    "international_organization_participation": [
+      {
+        "organization": "ADB ",
+        "note": "nonregional member"
+      },
+      {
+        "organization": "AfDB ",
+        "note": "nonregional member"
+      },
+      {
+        "organization": "Arctic Council"
+      },
+      {
+        "organization": "Australia Group"
+      },
+      {
+        "organization": "BIS"
+      },
+      {
+        "organization": "CBSS"
+      },
+      {
+        "organization": "CD"
+      },
+      {
+        "organization": "CE"
+      },
+      {
+        "organization": "CERN"
+      },
+      {
+        "organization": "EAPC"
+      },
+      {
+        "organization": "EBRD"
+      },
+      {
+        "organization": "ECB"
+      },
+      {
+        "organization": "EIB"
+      },
+      {
+        "organization": "EITI ",
+        "note": "implementing country"
+      },
+      {
+        "organization": "EMU"
+      },
+      {
+        "organization": "ESA"
+      },
+      {
+        "organization": "EU"
+      },
+      {
+        "organization": "FAO"
+      },
+      {
+        "organization": "FATF"
+      },
+      {
+        "organization": "G-9"
+      },
+      {
+        "organization": "G-10"
+      },
+      {
+        "organization": "IADB"
+      },
+      {
+        "organization": "IAEA"
+      },
+      {
+        "organization": "IBRD"
+      },
+      {
+        "organization": "ICAO"
+      },
+      {
+        "organization": "ICC ",
+        "note": "national committees"
+      },
+      {
+        "organization": "ICCt"
+      },
+      {
+        "organization": "ICRM"
+      },
+      {
+        "organization": "IDA"
+      },
+      {
+        "organization": "IEA"
+      },
+      {
+        "organization": "IFAD"
+      },
+      {
+        "organization": "IFC"
+      },
+      {
+        "organization": "IFRCS"
+      },
+      {
+        "organization": "IGAD ",
+        "note": "partners"
+      },
+      {
+        "organization": "IHO"
+      },
+      {
+        "organization": "ILO"
+      },
+      {
+        "organization": "IMF"
+      },
+      {
+        "organization": "IMO"
+      },
+      {
+        "organization": "IMSO"
+      },
+      {
+        "organization": "Interpol"
+      },
+      {
+        "organization": "IOC"
+      },
+      {
+        "organization": "IOM"
+      },
+      {
+        "organization": "IPU"
+      },
+      {
+        "organization": "ISO"
+      },
+      {
+        "organization": "ITSO"
+      },
+      {
+        "organization": "ITU"
+      },
+      {
+        "organization": "ITUC ",
+        "note": "NGOs"
+      },
+      {
+        "organization": "MIGA"
+      },
+      {
+        "organization": "MINUSMA"
+      },
+      {
+        "organization": "MONUSCO"
+      },
+      {
+        "organization": "NC"
+      },
+      {
+        "organization": "NEA"
+      },
+      {
+        "organization": "NIB"
+      },
+      {
+        "organization": "NSG"
+      },
+      {
+        "organization": "OAS ",
+        "note": "observer"
+      },
+      {
+        "organization": "OECD"
+      },
+      {
+        "organization": "OPCW"
+      },
+      {
+        "organization": "OSCE"
+      },
+      {
+        "organization": "Paris Club"
+      },
+      {
+        "organization": "PCA"
+      },
+      {
+        "organization": "PFP"
+      },
+      {
+        "organization": "Schengen Convention"
+      },
+      {
+        "organization": "UN"
+      },
+      {
+        "organization": "UN Security Council ",
+        "note": "temporary"
+      },
+      {
+        "organization": "UNCTAD"
+      },
+      {
+        "organization": "UNESCO"
+      },
+      {
+        "organization": "UNHCR"
+      },
+      {
+        "organization": "UNIDO"
+      },
+      {
+        "organization": "UNMISS"
+      },
+      {
+        "organization": "UNMOGIP"
+      },
+      {
+        "organization": "UNRWA"
+      },
+      {
+        "organization": "UNTSO"
+      },
+      {
+        "organization": "UPU"
+      },
+      {
+        "organization": "WCO"
+      },
+      {
+        "organization": "WFTU ",
+        "note": "NGOs"
+      },
+      {
+        "organization": "WHO"
+      },
+      {
+        "organization": "WIPO"
+      },
+      {
+        "organization": "WMO"
+      },
+      {
+        "organization": "WTO"
+      },
+      {
+        "organization": "ZC"
+      }
+    ],
+    "diplomatic_representation": {
+      "in_united_states": {
+        "chief_of_mission": "Ambassador Karin Ulrika OLOFSDOTTER (since 17 September 2017)",
+        "chancery": "The House of Sweden, 2900 K Street NW, Washington, DC 20007",
+        "telephone": "[1] (202) 467-2600",
+        "fax": "[1] (202) 467-2699",
+        "consulates_general": "New York"
+      },
+      "from_united_states": {
+        "chief_of_mission": "Ambassador (vacant); Charge d'Affaires David E. LINDWALL (since 20 January 2017)",
+        "embassy": "Dag Hammarskjolds Vag 31, SE-11589 Stockholm",
+        "mailing_address": "American Embassy Stockholm, US Department of State, 5750 Stockholm Place, Washington, DC 20521-5750",
+        "telephone": "[46] (08) 783 53 00",
+        "fax": "[46] (08) 661 19 64"
+      }
+    }
+  }
+}
