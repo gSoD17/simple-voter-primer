@@ -1,12 +1,25 @@
 <ion-header>
 
-  <ion-navbar>
-    <ion-title>party-info</ion-title>
+  <ion-navbar text-center>
+    <ion-title>Positions and Stances</ion-title>
   </ion-navbar>
 
 </ion-header>
 
 
-<ion-content padding>
+<ion-content>
+
+  <ion-grid *ngFor="let partyStances of countryData">
+
+    <ion-row>
+      <ion-col col-12>
+        <ion-list *ngFor="let stances of partyStances.government.political_parties_and_leaders.parties">
+          <ion-item>{{stances.political_position}}</ion-item>
+          <img src={{stances.party_logo}}>
+        </ion-list>
+      </ion-col>
+    </ion-row>
+
+  </ion-grid>
 
 </ion-content>

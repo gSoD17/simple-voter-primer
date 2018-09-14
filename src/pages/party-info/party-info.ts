@@ -8,11 +8,18 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class PartyInfoPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  countryData: any;
+
+  constructor(
+    public navCtrl: NavController, 
+    public navParams: NavParams
+    ) {
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad PartyInfoPage');
+
+    this.countryData = this.navParams.data;
+
   }
 
 }

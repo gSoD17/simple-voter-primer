@@ -11,6 +11,7 @@ import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
 export class PartiesPage {
 
   countryData: any;
+  partyInfos = 'PartyInfoPage';
 
   constructor(
     public navCtrl: NavController, 
@@ -23,7 +24,6 @@ export class PartiesPage {
   ionViewDidLoad() {
 
     this.dataFetch.fetchLocalData().subscribe(data => {
-      console.log(data)
       this.countryData = data;
     })
 

@@ -22,7 +22,6 @@ export class HomePage {
   ionViewDidLoad() {
     
     this.dataFetch.fetchLocalData().subscribe(data => {
-      console.log(data)
       this.countryData = data;
     })
     

@@ -7,13 +7,18 @@
 </ion-header>
 
 
-<ion-content padding>
+<ion-content>
 
   <ion-grid *ngFor="let country of countryData">
     <ion-row>
       <ion-col col-12>
         <ion-list >
-          <button ion-item *ngFor="let party of country.government.political_parties_and_leaders.parties">{{party.name}}</button>
+          <button ion-item 
+            *ngFor="let party of country.government.political_parties_and_leaders.parties" 
+            [navPush]="partyInfos" 
+            [navParams]="countryData">
+            {{party.name}}
+          </button>
         </ion-list>
       </ion-col>
     </ion-row>
