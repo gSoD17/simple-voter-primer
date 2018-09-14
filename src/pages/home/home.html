@@ -1,17 +1,25 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>
-      Ionic Blank
+    <ion-title text-center>
+      Country
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
 
-  <ion-list>
+  <!-- <ion-list>
       <button ion-item *ngFor="let data of countryData">
-        <p>{{ data.name }}</p>
+        <p>{{ data.government.political_parties_and_leaders }}</p>
       </button>
-  </ion-list>
+  </ion-list> -->
+
+  <ion-grid *ngFor="let country of countryData">
+    <ion-row>
+      <ion-col col-12>
+        <img src={{country.flag}}>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
 
 </ion-content>
