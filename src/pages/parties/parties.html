@@ -1,12 +1,22 @@
 <ion-header>
 
-  <ion-navbar>
-    <ion-title>parties</ion-title>
+  <ion-navbar text-center>
+    <ion-title>Main Political Parties</ion-title>
   </ion-navbar>
 
 </ion-header>
 
 
 <ion-content padding>
+
+  <ion-grid *ngFor="let country of countryData">
+    <ion-row>
+      <ion-col col-12>
+        <ion-list >
+          <button ion-item *ngFor="let party of country.government.political_parties_and_leaders.parties">{{party.name}}</button>
+        </ion-list>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
 
 </ion-content>

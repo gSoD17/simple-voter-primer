@@ -12,7 +12,10 @@ export class HomePage {
 
   countryData: any;
 
-  constructor(public navCtrl: NavController, public dataFetch: DataFetcherProvider) {
+  constructor(
+    public navCtrl: NavController, 
+    public dataFetch: DataFetcherProvider
+    ) {
 
   }
 

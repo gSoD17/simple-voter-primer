@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
+import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
+
 @IonicPage()
 @Component({
   selector: 'page-parties',
@@ -8,11 +10,23 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class PartiesPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  countryData: any;
+
+  constructor(
+    public navCtrl: NavController, 
+    public navParams: NavParams, 
+    public dataFetch: DataFetcherProvider
+    ) {
+
   }
 
   ionViewDidLoad() {
-    console.log('ionViewDidLoad PartiesPage');
+
+    this.dataFetch.fetchLocalData().subscribe(data => {
+      console.log(data)
+      this.countryData = data;
+    })
+
   }
 
 }
