@@ -10,8 +10,19 @@ import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
 })
 export class HomePage {
 
+  countryData: any;
+
   constructor(public navCtrl: NavController, public dataFetch: DataFetcherProvider) {
 
+  }
+
+  ionViewDidLoad() {
+    
+    this.dataFetch.fetchLocalData().subscribe(data => {
+      console.log(data)
+      this.countryData = data;
+    })
+    
   }
 
 }

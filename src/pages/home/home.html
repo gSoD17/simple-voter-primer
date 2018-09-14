@@ -7,4 +7,11 @@
 </ion-header>
 
 <ion-content padding>
+
+  <ion-list>
+      <button ion-item *ngFor="let data of countryData">
+        <p>{{ data.name }}</p>
+      </button>
+  </ion-list>
+
 </ion-content>
