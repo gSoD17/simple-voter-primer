@@ -1,25 +1,74 @@
 <ion-header>
   <ion-navbar>
-    <ion-title text-center>
-      Country
+    <ion-title>
+      
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
 
-  <!-- <ion-list>
-      <button ion-item *ngFor="let data of countryData">
-        <p>{{ data.government.political_parties_and_leaders }}</p>
-      </button>
-  </ion-list> -->
-
   <ion-grid *ngFor="let country of countryData">
-    <ion-row>
+
+    <ion-row text-center class="name-row">
+      <ion-col col-12>
+        <h1>{{country.government.country_name.conventional_long_form}}</h1>
+        <h3>{{country.government.country_name.local_long_form}}</h3>
+      </ion-col>
+    </ion-row>
+
+    <ion-row class="flag-row">
       <ion-col col-12>
         <img src={{country.flag}}>
       </ion-col>
     </ion-row>
+
+    <ion-row>
+      <ion-col col-12>
+        <ion-list>
+          <ion-item>
+            <p><strong>Capital:</strong></p>
+            <br>
+            <p>{{country.government.capital.name}}</p>
+          </ion-item>
+
+          <ion-item text-wrap>
+            <p><strong>Government:</strong></p>
+            <br>
+            <p>{{country.government.government_type}}</p>
+          </ion-item>
+
+          <ion-item text-wrap>
+            <p><strong>Official Language(s)</strong></p>
+            <br>
+            <p>{{country.people.languages.language[0].name}},</p>
+            <br>
+            <p>{{country.people.languages.note}}</p>
+          </ion-item>
+
+          <ion-item text-wrap>
+            <p><strong>Establishment:</strong></p>
+            <br>
+            <p>{{country.government.independence.date}}</p>
+            <br>
+            <p>{{country.government.independence.note}}</p>
+          </ion-item>
+
+          <ion-item>
+            <p><strong>Population:</strong></p>
+            <br>
+            <p>{{country.people.population.total}}</p>
+          </ion-item>
+
+          <ion-item text-wrap>
+            <p><strong>Introduction:</strong></p>
+            <br>
+            <p>{{country.introduction}}</p>
+          </ion-item>
+        </ion-list>
+      </ion-col>
+    </ion-row>
+
   </ion-grid>
 
 </ion-content>
