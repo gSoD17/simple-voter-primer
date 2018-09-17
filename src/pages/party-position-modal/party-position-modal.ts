@@ -14,6 +14,10 @@ export class PartyPositionModalPage {
     ) {
   }
 
+  ionViewDidLoad() {
+    console.log(this.navParams.get('stanceLink'))
+  }
+
   dismissModal() {
     this.viewCtrl.dismiss();
   }
