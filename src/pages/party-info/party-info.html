@@ -22,6 +22,26 @@
           <ion-item text-center>
               <img src={{partyLink.party_logo}}>
           </ion-item>
+
+          <ion-item text-center>
+            <p><strong>Political Alignment:</strong></p>
+            <br>
+            <p>{{partyLink.political_position}}</p>
+          </ion-item>
+
+          <ion-item text-center>
+            <p><strong>Coalition Bloc:</strong></p>
+            <br>
+            <p>{{partyLink.bloc_affiliation}}</p>
+          </ion-item>
+
+          <ion-item text-center>
+            <p><strong>Ideology: </strong></p>
+            <br>
+            <p *ngFor="let ideology of partyLink.ideology">
+              {{ideology}}
+            </p>
+          </ion-item>
         </ion-list>
       </ion-col>
     </ion-row>
