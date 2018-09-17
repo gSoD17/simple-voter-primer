@@ -19,7 +19,7 @@ export class PartyInfoPage {
   }
 
   expandPolicyModal(stances) {
-    let positionsModal = this.modalCtrl.create('PartyPositionModalPage', { stanceLink: stances });
+    let positionsModal = this.modalCtrl.create('PartyPositionModalPage', { dataLink: stances });
     positionsModal.present();
   }
 

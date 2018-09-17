@@ -8,14 +8,13 @@ import { IonicPage, NavController, NavParams, ViewController } from 'ionic-angul
 })
 export class PartyPositionModalPage {
 
+  stanceLink: {}[];
+
   constructor(public navCtrl: NavController, 
     public navParams: NavParams,
     public viewCtrl: ViewController
     ) {
-  }
-
-  ionViewDidLoad() {
-    console.log(this.navParams.get('stanceLink'))
+      this.stanceLink = this.navParams.get('dataLink')
   }
 
   dismissModal() {
