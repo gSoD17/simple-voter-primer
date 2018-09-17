@@ -28,8 +28,8 @@ export class PartiesPage {
 
   }
 
-  gotoPartyDetails() {
-    this.navCtrl.push('PartyInfoPage', { dataLink: this.countryData })
+  gotoPartyDetails(party) {
+    this.navCtrl.push('PartyInfoPage', { dataLink: party })
   }
 
 }

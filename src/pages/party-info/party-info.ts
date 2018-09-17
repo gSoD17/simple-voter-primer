@@ -8,18 +8,13 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class PartyInfoPage {
 
-  countryLink: {}[];
+  partyLink: {}[];
 
   constructor(
     public navCtrl: NavController, 
     public navParams: NavParams
     ) {
-  }
-
-  ionViewDidLoad() {
-
-    this.countryLink = this.navParams.get('dataLink');
-
+      this.partyLink = this.navParams.get('dataLink');
   }
 
 }

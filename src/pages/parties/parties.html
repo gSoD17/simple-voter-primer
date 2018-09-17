@@ -15,7 +15,7 @@
         <ion-list >
           <button ion-item 
             *ngFor="let party of country.government.political_parties_and_leaders"
-            (click)="gotoPartyDetails()">
+            (click)="gotoPartyDetails(party)">
             {{party.name}}
           </button>
         </ion-list>

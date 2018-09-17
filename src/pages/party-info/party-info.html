@@ -8,13 +8,20 @@
 
 
 <ion-content>
-
-  <ion-grid *ngFor="let data of countryLink">
+  
+  <ion-grid>
 
     <ion-row>
       <ion-col col-12>
         <ion-list>
-          <p>{{data.name}}</p>
+          <ion-item text-center>
+            <h1>{{partyLink.name}}</h1>
+            <h2>{{partyLink.note}}</h2>
+          </ion-item>
+
+          <ion-item text-center>
+              <img src={{partyLink.party_logo}}>
+          </ion-item>
         </ion-list>
       </ion-col>
     </ion-row>
