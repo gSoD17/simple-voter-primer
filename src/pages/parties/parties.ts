@@ -29,7 +29,7 @@ export class PartiesPage {
   }
 
   gotoPartyDetails() {
-    this.navCtrl.push('PartyInfoPage', this.countryData)
+    this.navCtrl.push('PartyInfoPage', { dataLink: this.countryData })
   }
 
 }

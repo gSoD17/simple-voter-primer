@@ -9,18 +9,16 @@
 
 <ion-content>
 
-  <!-- <ion-grid *ngFor="let data of countryData">
+  <ion-grid *ngFor="let data of countryLink">
 
     <ion-row>
       <ion-col col-12>
-        <ion-list *ngFor="let info of data.government.political_parties_and_leaders">
-          <ion-item>{{stances.political_position}}</ion-item>
-          <img src={{stances.party_logo}}>
-          <ion-item>{{info.name}}</ion-item>
+        <ion-list>
+          <p>{{data.name}}</p>
         </ion-list>
       </ion-col>
     </ion-row>
 
-  </ion-grid> -->
+  </ion-grid>
 
 </ion-content>
