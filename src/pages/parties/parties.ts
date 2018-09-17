@@ -11,7 +11,6 @@ import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
 export class PartiesPage {
 
   countryData: any;
-  partyInfos = 'PartyInfoPage';
 
   constructor(
     public navCtrl: NavController, 
@@ -27,6 +26,10 @@ export class PartiesPage {
       this.countryData = data;
     })
 
+  }
+
+  gotoPartyDetails() {
+    this.navCtrl.push('PartyInfoPage', this.countryData)
   }
 
 }
