@@ -18,8 +18,9 @@ export class PartyInfoPage {
       this.partyLink = this.navParams.get('dataLink');
   }
 
-  // expandPolicyModal() {
-  //   let positionsModal = this.modalCtrl.create
-  // }
+  expandPolicyModal() {
+    let positionsModal = this.modalCtrl.create('PartyPositionModalPage');
+    positionsModal.present();
+  }
 
 }
