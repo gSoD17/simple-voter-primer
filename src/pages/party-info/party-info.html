@@ -43,9 +43,19 @@
             </p>
           </ion-item>
 
-          <button ion-item (click)="expandPolicyModal()">
+          <ion-item text-center>
+            <p><strong>Issue Stances:</strong></p>
+            <br>
+            <button ion-item text-center
+            *ngFor="let stances of partyLink.policy_stances"
+            (click)="expandPolicyModal()">
+              <p>{{stances.issue_area}}</p>
+            </button>
+          </ion-item>
+
+          <!-- <button ion-item (click)="expandPolicyModal()">
             Button
-          </button>
+          </button> -->
         </ion-list>
       </ion-col>
     </ion-row>
