@@ -12,7 +12,7 @@
   <ion-grid *ngFor="let country of countryData">
     <ion-row>
       <ion-col col-12>
-        <ion-list >
+        <ion-list>
           <button ion-item 
             *ngFor="let party of country.government.political_parties_and_leaders"
             (click)="gotoPartyDetails(party)">
