@@ -21,6 +21,13 @@
             <br>
             <p>{{stanceLink.issue_stance}}</p>
           </ion-item>
+          <ion-item text-center text-wrap>
+            <ion-list *ngFor="let wants of stanceLink.policy_wants">
+              <ion-item>
+                <p>{{wants}}</p>
+              </ion-item>
+            </ion-list>
+          </ion-item>
         </ion-list>
       </ion-col>
     </ion-row>

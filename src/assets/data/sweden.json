@@ -347,61 +347,116 @@
             {
               "issue_id": 1,
               "issue_area": "Immigration",
-              "issue_stance": "We live in a globalized world. More people in the world migrate, both to seek protection from war, terror and oppression, but also for work and study. We stand for regulated immigration, a migration policy that unites order and deal with humanity and humanism. We want open labor immigration for both low and high-skilled workers. Sweden's growth is dependent on foreign skills.",
+              "issue_stance": "We live in a globalized world.  More people in the world migrate, not just only to seek protection from war, terror and oppression, but also for work and study.  We stand for regulated immigration, a migration policy that combines concerns for order with concerns for humanity.  We want open labor immigration for both low and high-skilled workers.  Sweden’s growth is dependent on foreign skills.",
+              "policy_wants": [
+                "- Protecting the right of asylum and the ability of children to unite with their parents", 
+                "- More resources should be allocated to the most vulnerable, such as quota refugees", 
+                "- The right to protection is more important than quick access to all welfare benefits", 
+                "- The EU to take joint responsibility by ensuring a more even distribution of refugees"
+              ],
               "voter_percent_importance": 27
             },
             {
               "issue_id": 2,
               "issue_area": "Healthcare",
-              "issue_stance": "No matter where in the country you live, you should have access to high quality care. Queues in healthcare must be shortened and it should be easier to get a doctor in times of sickness. The conditions of care personnel must be better. We also want you as a patient to have increased opportunities to choose care across the country.",
+              "issue_stance": "No matter wherever in the country you live, you should have access to high quality care.  Queues in healthcare must be shortened and it should be easier to get a doctor in times of sickness.  The conditions for those working within the care sector must be better.  We also want you as a patient to have increased opportunities and greater choice in care across the country.",
+              "policy_wants": [
+                "- Care services should be more readily available, and that high-quality standards are maintained throughout the country",
+                "- Shorter queues in health care and getting more people to have permanent doctor’s contact",
+                "- Greater variety of care options to improve choices for patients"
+              ],
               "voter_percent_importance": 19
             },
             {
               "issue_id": 3,
               "issue_area": "Education",
-              "issue_stance": "We need schools where every student gets the chance to succeed. Wherever in the country you live or what background you have should not matter. Education should be of high quality, from pre-school, up to university and research levels. Education is one of the pillars of our democratic society.",
+              "issue_stance": "We need to have schools where every student gets the chance to succeed.  Wherever in the country that you live or what background you have should not matter.  Education should be of high standards, from pre-school, up to university and research levels.  Education is one of the pillars of our democratic society.",
+              "policy_wants": [
+                "- Raise the status of our teachers by giving them greater career improvement opportunities and rewarding skilled teachers",
+                "- Give students, parents and teachers greater freedom of choice in schools",
+                "- Ensuring that our education system leads to job creation"
+              ],
               "voter_percent_importance": 15
             },
             {
               "issue_id": 4,
               "issue_area": "Environment",
-              "issue_stance": "No one can choose not to be influenced by what happens to nature and the climate. In order for us to achieve a sustainable society, everyone must take responsibility. But it must also be easy to recycle, drive a car that is environmentally friendly or for farmers to produce food in a sustainable way.",
+              "issue_stance": "No one can choose not to be influenced by what happens in nature or the climate.  In order for us to achieve a sustainable society, everyone must take responsibility.  It should be easier for people to recycle, get a car that is environmentally friendly, or drive development in sustainable agriculture.",
+              "policy_wants": [
+                "- Make it easier to drive and own environmentally friendly cars, such as those that run on electricity",
+                "- Making sure that our everyday life is free from any toxins or pollutants",
+                "- Giving farmers the opportunity to produce food in a sustainable way"
+              ],
               "voter_percent_importance": 10
             },
             {
               "issue_id": 5,
               "issue_area": "Elder care",
-              "issue_stance": "Although older people are satisfied with their care, the quality of care and care for the elderly needs to be increased. Quality can be about having permanent contact with a doctor, and not have to sit waiting for the emergency room. It may also be that you can choose who will come and clean at home or the option to choose what type of accommodation to stay at. All of these aspects must be part of creating better care for the elderly.",
+              "issue_stance": "Although our elderly people are satisfied with the current care they receive, the quality of our elderly care needs to be increased.  Good quality care services can be about having a permanent contact with a doctor and not have to sit waiting for an emergency room.  It may also be that you can choose who will come and clean at home or the option to choose what type of retirement accommodation to stay at.  All these aspects must be part of creating better care for the elderly.",
+              "policy_wants": [
+                "- Provide safer elderly care by giving them a more permanent contact with a doctor",
+                "- Increase choice for our elderly in what kinds of services they can receive",
+                "- Improve preventative health for the elderly"
+              ],
               "voter_percent_importance": 8
             },
             {
               "issue_id": 6,
               "issue_area": "Employment",
-              "issue_stance": "Small business owners are our job creators. But in order for them to create new jobs, simpler rules and less hassle are needed. Hiring workers needs to be cheaper and more labor mobility is needed. When we dare to think more to change jobs and more get a job to go to.",
+              "issue_stance": "Small business owners are our job creators.  But in order to create new jobs, simpler rules and less hassle are needed.  The process of hiring workers should be made cheaper and greater labor mobility is needed.  We believe that there should be greater change in the way our people can get a job and having jobs available, not least young people starting to enter the workforce and new arrivals.",
+              "policy_wants": [
+                "- Make it easier to start and run companies – so that more people can have opportunities to get their first job",
+                "- Have better communications on job vacancies",
+                "- Exclude small and medium-sized enterprises from the law on employment protection – a law that regulates the termination and resignation of workers"
+              ],
               "voter_percent_importance": 7
             },
             {
               "issue_id": 7,
               "issue_area": "Law and prder",
-              "issue_stance": "You should be able to live without fear of being subjected to crime. For us, safety means you can fall asleep without worry of burglary, children going to school without worry of bullying and other abuse - or go shopping without fear of being robbed. The police should be present, available and visible to you locally.",
+              "issue_stance": "You should be able to live without the fear of having to be the victim of a crime.  For us, safety means that you can fall asleep without having to worry about being burgled, children not worrying about being bullied or abused – or go out shopping without the fear of being robbed.  The police should be present, available and visible to you.",
+              "policy_wants": [
+                "- Have more police officers in every city",
+                "- Have a zero-tolerance policy against crime, including minor crimes, starting off in vulnerable areas in the country",
+                "- Focus more on local crime prevention work",
+                "- Harsher punishments for sexual offences"
+              ],
               "voter_percent_importance": 5
             },
             {
               "issue_id": 8,
               "issue_area": "Welfare",
-              "issue_stance": "",
+              "issue_stance": "When something bad happens in your life, you may need help from society.  You may have children, lost a job, got sick, or somehow failed to support yourself, either way, there should be a sustainable social welfare system that will help you in these troubling moments and to move on.",
+              "policy_wants": [
+                "- See an initial higher rate of unemployment subsidies that decrease at a much faster rate later on compared to current policy",
+                "- Make it easier for people on welfare support to transition to a new job",
+                "- To ensure that entrepreneurs have the same right to social insurance policies that employees have"
+              ],
               "voter_percent_importance": 4
             },
             {
               "issue_id": 9,
               "issue_area": "Taxes",
-              "issue_stance": "Lower income taxes increases self-determination and a stronger economy. Higher taxes should be placed on environmentally damaging activities through an implementation of a green tax.",
+              "issue_stance": "People should have the right to decide what happens in their lives.  Taxes are needed to fund our common welfare, but should be taken with moderation.  People should be able to decide what they want to do with the money they have worked for.  Therefore, we want to lower taxes on work and entrepreneurship.  Lower taxes increase people’s self-determination and makes it more profitable to run a business and work.  In the long run, this will strengthen the entire country’s economy.  We also want to shift taxes in a green tax change, charging more taxes on environmentally damaging activities while at the same time lowering taxes for work, companies and investment.",
+              "policy_wants": [
+                "- Have a wide tax cut that mainly benefits those with the lowest incomes, both for people who work and for retirees",
+                "- Raise the limit for when the state income tax is to be paid and restore the job tax deduction",
+                "- Lower taxes for older people who work through a reinforced job tax deduction",
+                "- Introduce a green car bonus and a bonus on trucks running on biofuel",
+                "- Introduce tax on waste incineration",
+                "- Introduce a widespread chemical tax"
+              ],
               "voter_percent_importance": 3
             },
             {
               "issue_id": 10,
               "issue_area": "Economy",
-              "issue_stance": "Sweden has fantastic conditions. We are a country whose success is based on world trade, creativity and hard work. The Swedish economy is going well and our wealth is growing. But everyone does not get the same chance.",
+              "issue_stance": "Sweden has fantastic conditions. We are a country whose success is based on world trade, creativity and hard work. The Swedish economy is going well and our wealth is growing. But everyone does not get the same chance.  We propose powerful reforms combined with order and a recovery in government finances so that more people can get a job and to grow the economy.",
+              "policy_wants": [
+                "- Make it easier and cheaper to hire so that more jobs are created",
+                "- Build and expand the nation’s infrastructure so that the country can grow",
+                "- Reduce taxes on work and make it more expensive to damage the environment"
+              ],
               "voter_percent_importance": 3
             }
           ],
@@ -427,61 +482,114 @@
             {
               "issue_id": 1,
               "issue_area": "Immigration",
-              "issue_stance": "We want controlled and transparent immigration. Those seeking asylum will be given a quick and legal trial, and those whose applications are rejected will promptly leave the country. Persons who come here for protection shall be granted temporary residence permits and small children shall not be separated from their parents. Regulated labor migration is important because Sweden needs good access to skilled labor. The Christian Democrats also believe that we need to be better at highlighting those values ​​that are not eligible in our society.",
+              "issue_stance": "We want controlled and transparent immigration. Those seeking asylum will be given a quick and legal trial, and those whose applications are rejected will promptly leave the country. Persons who come here for protection shall be granted temporary residence permits and small children shall not be separated from their parents. Regulated labor migration is important because Sweden needs good access to skilled labor.  The Christian Democrats also believe that we need to be better at highlighting and counteracting values that some immigrants have that would not be compatible in our society.",
+              "policy_wants": [
+                "- Anyone seeking asylum in Sweden should be referred to asylum applications near our major border crossings.  The application for asylum is registered and an initial sorting of the cases is made.  This way we get a faster registration and decision-making process that is both legal and effective",
+                "- The Christian Democrats want integration to start from day one. We want to introduce an asylum program with clear requirements for participation in Swedish education, social orientation and work",
+                "- In order for the asylum system to have legitimacy and immigration to remain regulated, it is important that rejections are handled better. In order to enforce more rejections and expulsions, we propose more defenses and more resources to the police. It is also important for Sweden to include more bilateral agreements (so-called readmission agreements) with the main beneficiary countries in order for these countries to receive their citizens",
+                "- Good values are crucial for creating a good society and a good community.  In Sweden we will live side by side as neighbors - not as strangers.  There should be a common ethical and cultural mother tongue where certain values are not eligible.  For example, child marriages and polygamy are incompatible with a good society.  Those escaping from war and oppression should feel welcome to create a good life in freedom here, become part of the community and become Swedish.  Of course, you cannot, and do not have to, leave your cultural legacy behind.  But you should adopt the values of the place you come to. We need to be better at highlighting what's going on here and what values are not eligible.  Otherwise, we will see both growing xenophobia and growing exclusion",
+                "- People granted asylum in Sweden will be granted a temporary residence permit for three years.  If the need for protection persists after three years or if the asylum seeker has received a job, a permanent residence permit should be granted.  The right to family reunification shall apply",
+                "- We want to strengthen work on honorary cultures and honor violence, by introducing honor crimes as a special crime classification.  We also want to set up a special unit, a 'Forced Marriage Unit', within the police authority whose task is to help girls and boys who are at risk of getting married against their will",
+                "- We want to introduce entry level jobs that significantly lowers the cost for companies to hire new arrivals.  The employer's fee is terminated for three years and the employee receives a lower salary, but also gets training or learning the job at work"
+              ],
               "voter_percent_importance": 27
             },
             {
               "issue_id": 2,
               "issue_area": "Healthcare",
-              "issue_stance": "The task of healthcare is to provide a quality, accessible and efficient, well-adapted care. Curing, relieving and comforting still apply as the primary task of healthcare and everyone should be able to feel safe and trust that publicly funded healthcare can meet their needs. The basic principle is that healthcare should be jointly funded and needs-oriented. Preventive work, patient care and quality and patient safety are some of our priority areas.",
+              "issue_stance": "The role of healthcare is to provide a quality, accessible and efficient, well-adapted care.  Everyone should be able to feel safe in and trust that publicly funded healthcare can meet their needs.  The basic principle is that healthcare should be jointly funded and needs-oriented.  Preventive work, patient care and quality and patient safety are some of our priority areas.",
+              "policy_wants": [
+                "- Today there are large and unreasonable differences between how different county councils succeed in delivering good and qualitative care.  It is unacceptable that the place of residence is crucial to gaining access to the best treatment methods and the chance of survival.  We propose that the state be given primary responsibility for healthcare so that everyone has access to high quality, effective and equal care",
+                "- A person who is sick must be able to meet a doctor no later than the next day. Therefore, the Christian Democrats want to focus on primary care.  Health centers and emergency medical clinics will have open evenings and weekends and be able to do more things.  In this way, healthcare services are relieved of hard-hired emergency services and the waiting times are shorter",
+                "- The current work situation has adversely affected our health and safety personnel.  Doctors, nurses and care workers want to provide a more qualitative care, but time shortage compels them too often to compromise.  We want to introduce a so-called healthcare team that can relieve health professionals from the important tasks, but do not require long-term care education.  In this way, doctors, nurses and care workers can have more time"
+              ],
               "voter_percent_importance": 19
             },
             {
               "issue_id": 3,
               "issue_area": "Education",
-              "issue_stance": "The task of schools is to provide each student with the skills necessary to live and work in a modern society and to educate students to be responsible citizens. With a school policy focusing on security, knowledge and unity and where every school has great freedom to design its own business, the Christian Democrats want to give students, teachers and school leaders the prerequisites for fulfilling this task.",
+              "issue_stance": "Our schools should provide each student with the skills necessary to live and work in a modern society and to educate students to be responsible citizens.  With a school policy focusing on security, knowledge and unity and where every school has great freedom to design its own business, the Christian Democrats want to give students, teachers and school leaders the prerequisites for fulfilling this task.",
+              "policy_wants": [
+                "- We want to give early support to students with special needs.  Today there is a lack of specialist teachers.  Therefore, we are investing SEK 230 million a year to train more specialist teachers",
+                "- Skilled teachers are a demonstrable success factor in school.  Today, there is a great deal of lack of teachers.  Anyone is not made to become a teacher.  We want to see increased eligibility requirements for teacher education, as a quality stamp on the profession.  We also want to work for more graduates to become teachers.  We also support career services that provide teachers with the opportunity to earn a substantial salary.  In addition, we want to reduce the administrative burden for teachers."
+              ],
               "voter_percent_importance": 15
             },
             {
               "issue_id": 4,
               "issue_area": "Environment",
-              "issue_stance": "Christian Democrats' environmental policy is based on the trustworthy spirit of ownership, which permeates all our positions. Our goal is for the world to be left to future generations in a better condition than we received ourselves. It is important to invest resources in research and development of renewable fuels and energy sources. It is also important to preserve and promote biodiversity so that our ecosystems are strengthened.",
+              "issue_stance": "Christian Democrats' environmental policy is based on the trustworthy spirit of ownership, which permeates all our positions.  Our goal is for the world to be left to future generations in a better condition than we received ourselves.  It is important to invest resources in research and development of renewable fuels and energy sources.  It is also important to preserve and promote biodiversity so that our ecosystems are strengthened.",
+              "policy_wants": [
+                "- Christian Democrats want at all levels to contribute to meeting the goal of reducing global warming to a maximum of 1.5 degrees",
+                "- We want to cut taxes on work while increasing taxes on environmentally harmful activities.  We also want to introduce new taxes on plastic bags and non-reusable textiles",
+                "- We want to increase opportunities for individual countries and for different operators to phase out toxic substances.  Today, harmful chemicals are largely present in everyday products such as clothing, electronics and cosmetics.  Efforts are needed to replace these with better alternatives",
+                "- The Baltic Sea is a world-wide, open-water ocean with particularly sensitive ecosystems.  Therefore, we propose additional measures to protect the Baltic Sea, including the stopping of extraction of oil from the seabed.  Eutrophication must be prevented through better purification methods in neighboring countries and we want Sweden to help other Baltic countries with this.  At the same time, a large-scale effort is needed to actively oxygenate the seabed sufferers of oxygen deficiency.",
+                "- Although imprisonment today is in the penal scale for environmental crime, it is extremely rare to be convicted of such a crime.  The Christian Democrats therefore propose stricter penalties for major environmental crimes, so that prison sentences will be judged in practice.  By doing so, environmental offenses will also be prioritized higher by prosecutors"
+              ],
               "voter_percent_importance": 10
             },
             {
               "issue_id": 5,
               "issue_area": "Elder care",
-              "issue_stance": "Today, the care of severely ill elderly people is not characterized by the overall perspective required, instead, punctual efforts are made independently of each other and often without follow-up. Through home care, the elderly receive good care based on individual needs. Home care will consist of teams with nurses, district nurses, occupational therapists, physiotherapists, dieticians and dementia nurses. For a functioning care chain, a significant medical effect is required. Therefore, we want a permanent doctor who has overall responsibility for the elderly.",
+              "issue_stance": "Today, the care of severely ill elderly people is not characterized by the overall perspective of their needs, instead, punctual efforts are made independently of each other and often without follow-up.  Through home care, the elderly can receive good care based on individual needs.  Home care will consist of teams with nurses, district nurses, occupational therapists, physiotherapists, dieticians and dementia nurses.  For a functioning care chain, a significant medical effect is required.  Therefore, we want a permanent doctor who has overall responsibility for the elderly.",
+              "policy_wants": [
+                "- Many elderly people want to stay in their homes for as long as possible.  At the same time there is a large group of elderly people who feel that they need a different type of accommodation but are denied a place.  Assistance assessments have become harder.  We therefore want to introduce a retirement guarantee where each person over 85 years has a statutory right to get a place in a retirement home whenever and wherever they wish.  In addition, we want to introduce an elderly environment to obtain more retirement homes",
+                "- To increase the safety and reduce the risk of our elderly receiving repeated hospital care, we want to introduce a home team.  This means that staff are involved in planning a home trip, arranging food and medication for the first few days, and perhaps even help to improve and adapt their accommodations",
+                "- Many elderly people feel insecure when there are is a continuous stream of new people from home care.  A comparison between the municipalities shows that the elderly receives visits ranging from four to 26 different people from the home service for two weeks.  We believe that good relationships and trust between home care staff and the elderly are a prerequisite for security, good quality of life and joy of life. We therefore want to invest 800 million kronor per year on those who manage to limit the number of staff to a maximum of ten in a two-week period"
+              ],
               "voter_percent_importance": 8
             },
             {
               "issue_id": 6,
               "issue_area": "Employment",
-              "issue_stance": "Having a job creates community, responsibility and development. When more people are employed, welfare resources are also strengthened. Despite the upswing, the gap in the labor market is increasing. It must therefore change to fit more. Jobs are one of the keys to good integration. We also see how important the values ​​are in the integration work. A society is built on a common value base, where certain values ​​are not eligible.",
+              "issue_stance": "Having a job creates community, responsibility and development.  When more people are employed, welfare resources are also strengthened.  Despite the upswing, the gap in the labor market is increasing.  Jobs are one of the keys to good integration. We also see how important the values are in the integration work.",
+              "policy_wants": [
+                "- The high thresholds for entering the labor market need to be lowered partly for those who want to further their education, but also for those who do not manage or want to study for various reasons.  The Alliance therefore wishes to introduce Enrollment, a simplified employment system for new arrivals and young people up to 23 years of age without a high school diploma.  This form of employment will enable more people to get a job in the labor market, gain valuable experience and thus move on to work.  It will make it cheaper for companies to hire and take a bet on receiving a previously untrained person",
+                "- Extend tax relief for people who come from long-term unemployment or sick leave, for young people under the age of 25, or for new arrivals during the first five years in Sweden.  These groups often stand out of the labor market and have fewer financial margins.  This is fully paid up to income of SEK 18,000 and is then gradually increased by monthly income up to SEK 26,000. This gives about 1500 kr more in job tax deductions",
+                "- The fact that more people choose to work longer than the age of 65 has many positive effects.  This will make the economy better, both for the individual and for society at large.  Therefore, we propose a double tax deduction from the age of 64.  We also want to remove the special payroll tax for the elderly, which made it significantly more expensive for employers to hire older people",
+                "- We want to expand the number of vocational education programs in the coming years.  Christian Democrats want to invest 300 million more than the government 2018-2020.  An expansion of Occupational Adult Sites does not just mean that more people who are unemployed today are given jobs, but also that the whole community works better when shortages can be provided with skilled staff"
+              ],
               "voter_percent_importance": 7
             },
             {
               "issue_id": 7,
               "issue_area": "Law and prder",
-              "issue_stance": "One of the state's basic tasks is to ensure that citizens are safe. You should be able to trust that the police come when you are alerting. Therefore, we want to see more police officers, and they should have resources to prevent, prevent and intervene against crime. When people are subjected to violent crime, robbery, sexual harassment or burglary in their homes, the judiciary must act. And we'll always be on the crime victim's side.",
+              "issue_stance": "One of the state's basic tasks is to ensure that citizens are safe.  You should be able to trust that the police will come when you are in danger.  Therefore, we want to see more police officers, and that they should have resources to prevent and intervene against crime.  When people are subjected to violent crime, robbery, sexual harassment or burglary in their homes, the judiciary must act.  And we'll always be on the victim's side.",
+              "policy_wants": [
+                "- Swedish police are in crisis.  Serious crimes are forced to be prioritized due to resource shortages.  This trend has to be reversed, therefore the Christian Democrats demand a strong effort to improve the Swedish police.  We propose 10,000 more policemen and improve working conditions and pay",
+                "- In order to reduce the risk of people becoming criminals, we want to strengthen cooperation between police and social services.  We also want to improve co-operation between school, parents and police in order to catch young people at risk at an early stage, as well as enable faster response efforts through enhanced local police activities",
+                "- The increasing activity of violence-raising Islamism in Europe means that Sweden must strengthen its readiness to prevent, respond and combat terrorism.  Among our actions, we are doubling the capacity of intervention forces and strengthening the security forces' resources",
+                "- We are on the victim's side.  Those who fall victim to a crime should be able to expect the support they are entitled to.  From initial contact with the police, through legal proceedings and afterwards.  Nonprofit organizations are very important in this work, and we therefore want to increase support for victims of crime"
+              ],
               "voter_percent_importance": 5
             },
             {
               "issue_id": 8,
               "issue_area": "Welfare",
-              "issue_stance": "Welfare policy must be general in the sense that it provides basic safety for all - in case of illness, unemployment, occupational injury and retirement. Distribution policy measures should be addressed to those with the greatest need for support and assistance and designed to encourage people's own power, self-responsibility and commitment, and to offset dependency. Municipalities are obliged to provide support support and other measures when assistance needs arise. The social contributions should be the same throughout the country, but municipalities should have the right to set their own contribution levels as local conditions vary.",
+              "issue_stance": "Welfare policy must be general in the sense that it provides basic safety for all - in case of illness, unemployment, occupational injury and retirement.  Distribution policy measures should be addressed to those with the greatest need for support and assistance and designed to encourage people's own power, self-responsibility and commitment, and to offset dependency. Municipalities are obliged to provide support and other measures when assistance needs arise.  Social contributions should be the same throughout the country, but municipalities should have the right to set their own contribution levels as local conditions vary.",
+              "policy_wants": [
+                ""
+              ],
               "voter_percent_importance": 4
             },
             {
               "issue_id": 9,
               "issue_area": "Taxes",
-              "issue_stance": "Taxes will finance well-being and public expenditures and govern economic development in a social and ecological direction. The tax system should be designed to stimulate work, honesty, savings and entrepreneurship. The individual shall, as far as possible, retain his own salary before additional contributions are paid.",
+              "issue_stance": "Taxes will finance well-being, public expenditures and govern economic development in a social and ecological direction.  The tax system should be designed to stimulate work, honesty, savings and entrepreneurship.  The individual shall, as far as possible, retain his own salary before additional contributions are paid.",
+              "policy_wants": [
+                "- We want to close the tax gap between pensioners and wage earners and abolish the so-called pensioners tax.  Pension is deferred salary.  It is not fair for people who have worked for a lifetime to pay more in taxes when they retire than those who work today",
+                "- In order to strengthen families with children, we want to introduce a tax deduction for parents of SEK 500 per parent and month.  For parents with children 0-3 years, the deduction also applies to other incomes, such as parental allowance or cash register",
+                "- In order to make it more profitable to work, tax cuts should be designed so that those who work and those who are retired receive twice as much tax relief as those who have insurance income"
+              ],
               "voter_percent_importance": 3
             },
             {
               "issue_id": 10,
               "issue_area": "Economy",
-              "issue_stance": "Christian Democrats' economic policies are based on what we call social market economy. This means that the market economy must be combined with a socially responsible policy to contribute welfare and a reasonable level of living for all. Tax and contribution systems should be designed so that people's own power and commitment are encouraged and contributed to dependence.",
+              "issue_stance": "Christian Democrats' economic policies are based on what we call social market economy.  This means that the market economy must be combined with a socially responsible policy to contribute welfare and a reasonable standard of living for all.  Tax and contribution systems should be designed so that people's own power and commitment are encouraged and contributed to dependence.",
+              "policy_wants": [
+                ""
+              ],
               "voter_percent_importance": 3
             }
           ],
@@ -506,60 +614,70 @@
               "issue_id": 1,
               "issue_area": "Immigration",
               "issue_stance": "The Green Party has a vision of a world without borders, where all people can move, and no one is forced to fly. We do not believe in countries' right to choose their residents, we believe in people's right to choose where they want to live. We will meet people with opportunities, not walls. Everyone should be able to live, work and realize their dreams wherever they wish. Free movement should be a human right.",
+              "policy_wants": [""],
               "voter_percent_importance": 27
             },
             {
               "issue_id": 2,
               "issue_area": "Healthcare",
               "issue_stance": "Sweden should promote health, equal and modern health care. Healthcare should be of good quality, available, distributed as needed and be jointly funded. Dentistry should have the same conditions as other care and should therefore be part of publicly funded care and be part of a common high-cost protection.",
+              "policy_wants": [""],
               "voter_percent_importance": 19
             },
             {
               "issue_id": 3,
               "issue_area": "Education",
               "issue_stance": "Through school, children and young people will have the will and tools to learn and develop through life. In school, each child will learn to read, write and count, create and participate in community discussion, collaborate and socialize with others and influence their own life situation. Schools should give each child the opportunity to be themselves and grow to what he or she wants to be. There should be no successful and failed students, neither good nor bad schools - everyone is entitled to succeed and develop.",
+              "policy_wants": [""],
               "voter_percent_importance": 15
             },
             {
               "issue_id": 4,
               "issue_area": "Environment",
               "issue_stance": "Man has a responsibility that stretches beyond his own person and beyond his generation. Our living opportunities are determined by how well we can live in harmony with the ecological system. Green ideology is not just about human relationships, but also our dependence on all that we have about us. This conversion requires more efficient housekeeping with natural resources and a more even distribution. We in the rich countries need to adjust our consumption so that our ecological footprints per person quickly reach a globally sustainable level. In order to protect the environment, the precautionary principle must be applied as far as possible.",
+              "policy_wants": [""],
               "voter_percent_importance": 10
             },
             {
               "issue_id": 5,
               "issue_area": "Elder care",
               "issue_stance": "Many live an active life much longer than previous generations have had the opportunity to. More and more people experience their centenary. Many older people are healthy, which is a great social resource. Elderly knowledge and experience are invaluable in many areas, for example, as still active or as mentors to younger ones. In the voluntary sector and the community, many older people make great efforts. However, all elderly people are not healthy and many need more help. Therefore, it is important to have a safe and good care for the elderly based on the individual needs of the elderly.",
+              "policy_wants": [""],
               "voter_percent_importance": 8
             },
             {
               "issue_id": 6,
               "issue_area": "Employment",
               "issue_stance": "Labor market policies should promote a well-functioning labor market across the country. In that work, education policy and economic policy play an important role. The labor market needs to be better at matching employers and employees. We protect the Swedish model where the social partners jointly negotiate what will apply to the labor market through collective agreements. The model is based on the fact that a high proportion of workers are union affiliates, and union organization should be encouraged. Our policy will give all people the opportunity to contribute to society through their work conditions.",
+              "policy_wants": [""],
               "voter_percent_importance": 7
             },
             {
               "issue_id": 7,
               "issue_area": "Law and prder",
               "issue_stance": "One of the prerequisites for a well functioning democracy is that people can feel safe and secure. It is important to rely on public power. This requires transparency and openness as well as an efficient and well-functioning justice system that has public confidence. There must be good civic insight into all law enforcement and law enforcement activities and it is important that a variety of backgrounds and perspectives are represented in both the police, prosecutor's office and courts. We want to safeguard civic participation in the judicial process, and therefore want to develop the members' system by allowing more than the political parties to nominate committee members.",
+              "policy_wants": [""],
               "voter_percent_importance": 5
             },
             {
               "issue_id": 8,
               "issue_area": "Welfare",
               "issue_stance": "The welfare state's security system must be inclusive, general and robust. Everyone is entitled to financial security. Community services should be of high quality and be accessible to all. An equal society is safer for all residents. Therefore, we want to counter economic inequality. Even those who are unemployed or ill must be able to participate in society.",
+              "policy_wants": [""],
               "voter_percent_importance": 4
             },
             {
               "issue_id": 9,
               "issue_area": "Taxes",
               "issue_stance": "Costs that affect the environment shall be included through taxes, fees or other appropriate instruments. This is a particularly important principle of climate policy, where all goods and services climate impacts should also be seen in the price. We want to see a tax on some financial transactions. A breakdown of banks' activities between traditional business and more speculative investment activities should be considered.",
+              "policy_wants": [""],
               "voter_percent_importance": 3
             },
             {
               "issue_id": 10,
               "issue_area": "Economy",
               "issue_stance": "We have to readjust to an economy that takes human well-being and the environment into long-term consideration. Constant economic growth in the traditional sense is not possible on a planet with limited resources. It’s a political responsibility to design market conditions to ensure that resources are used in accordance with the requirements for a sustainable society. ",
+              "policy_wants": [""],
               "voter_percent_importance": 3
             }
           ],
@@ -585,60 +703,70 @@
               "issue_id": 1,
               "issue_area": "Immigration",
               "issue_stance": "The Left Party wants to create a human, welcoming and regulated refugee policy in Sweden and Europe. All people should be able to seek protection from persecution and oppression and have their asylum reasons tried in a legal manner. The Left Party wants a community for everyone, not just a few. It requires a policy that gives everyone the same opportunities and the same right to good education, work and accommodation, regardless of background, religion, skin color, sex or sexuality. For the Left Party, integration means bringing an inclusive policy that underpins a more equitable society.",
+              "policy_wants": [""],
               "voter_percent_importance": 27
             },
             {
               "issue_id": 2,
               "issue_area": "Healthcare",
               "issue_stance": "Everyone has the right to equal and good health care, not just those who can afford private health insurance. The basic principle is that care should be given to people's needs. By making profit as a driver in health care, the possibility of managing the care to those with the greatest needs is complicated. We do not think that profit-making companies should be able to do business with tax assets in the core business of healthcare.",
+              "policy_wants": [""],
               "voter_percent_importance": 19
             },
             {
               "issue_id": 3,
               "issue_area": "Education",
               "issue_stance": "School should be equivalent and give all students the same opportunities for a good education. The amount of pupils learning today depends more and more on what school they end up in and what parents they have. This does not have to be. Swedish schools are divided and students with different backgrounds and study conditions are gathered at different schools. One explanation is free school choice. The Left Party does not want students and parents to be forced to choose between 'better' and 'worse' schools. Everyone should be able to trust that the school closest to home is a good school with the ability to give the students the knowledge they are entitled to.",
+              "policy_wants": [""],
               "voter_percent_importance": 15
             },
             {
               "issue_id": 4,
               "issue_area": "Environment",
               "issue_stance": "The Left Party has a basic ecological approach. For us, environmental considerations are more important than short-term profit interests. We want to use our common resources for long-term sustainable investments such as renewable energy, sustainable transport and the protection of natural areas. Only through reduced gaps between poor and rich and between men and women can we achieve an ecologically sustainable society and justify the limited environment space fairly. Biodiversity must be safeguarded by taking environmental concerns into account before the company's profit interests",
+              "policy_wants": [""],
               "voter_percent_importance": 10
             },
             {
               "issue_id": 5,
               "issue_area": "Elder care",
               "issue_stance": "Elderly care concerns all of us. Either we are older and are in the care of elderly people, maybe we work there, or in many cases sooner or later we will end up there. In order for everyone - not only those who can afford to buy private services to receive valuable care, resources are needed in the form of, in particular, staff. In addition, profit interests in elderly care need to disappear. In order to achieve equal care for the elderly, municipalities need sufficient resources and the working conditions for the elderly care staff are improved. Therefore, the Left Party has pushed through a SEK $2 billion effort annually to strengthen staffing.",
+              "policy_wants": [""],
               "voter_percent_importance": 8
             },
             {
               "issue_id": 6,
               "issue_area": "Employment",
               "issue_stance": "The Left Party wants to see an economic policy where full employment is the most important goal. Our goal is for everyone who has the opportunity to work to do it. A safe income gives people greater freedom. Unemployment is a social failure and a huge waste of human resources. The bourgeois government said tax cuts would lead to reduced unemployment. It did not. On the contrary, unemployment rose during their time in power and they left a large deficit in public finances. Since the 2014 election, the Left Party has had cooperation with the government on the state budget. Among other things, we have received a total of SEK $10 billion for the welfare, a major housing package for investment, renovation and energy efficiency and focus on more staff in the field of elderly care and health care. Now we see the result of the led policy. Employment rates increased while unemployment droped.",
+              "policy_wants": [""],
               "voter_percent_importance": 7
             },
             {
               "issue_id": 7,
               "issue_area": "Law and prder",
               "issue_stance": "The Left Party is working for a society where no one has the opportunity to see crime as a solution. We want to give all children an upbringing that gives them opportunities in life, from preschool, to school and the first job. For those who seriously want to reduce violence and crime, the reason is to build a fair society. Basically, a policy of economic equality and a strong welfare society requires no private and no residential area to be allowed to fall. Where there is future confidence and opportunities for everyone, there reduces incentives to commit crimes, and it will also make it more difficult for criminal gangs to recruit.",
+              "policy_wants": [""],
               "voter_percent_importance": 5
             },
             {
               "issue_id": 8,
               "issue_area": "Welfare",
               "issue_stance": "Welfare is a prerequisite for the freedom of many people. It should be trusted that your child meets school safety, that your parents receive warmth and care at the elderly and that you receive the best care when you feel bad. General welfare includes all who are in need of it, no matter how big your wallet is. General welfare involves a solidarity redistribution of financial resources between women and men, between low-paid and high-paid workers, between different periods of our lives and between healthy and ill. The Left Party's starting point is very simple: welfare is for all of us - not to give profit to owners.",
+              "policy_wants": [""],
               "voter_percent_importance": 4
             },
             {
               "issue_id": 9,
               "issue_area": "Taxes",
               "issue_stance": "The Left Party wants to build a strong country capable of providing good health care, school and safe old age to all people. We all help to make it possible by paying taxes, and the vast majority of government and municipal income comes from taxes paid by people with ordinary wages. But we also want to use taxes to redistribute between rich and poor. Therefore, we want to increase taxes for the richest. Today the tax system is rigged for the rich. In fact, Sweden is a country in the EU's core countries, which has the least redistributive tax system. Sweden is one of the few countries within the OECD who have neither wealth tax, inheritance tax, gift tax or property tax linked to the value of the property. Today, small local businesses often pay more in taxes than large, profitable multinational companies. That's not fair. Corporate taxation needs to be changed and the tax evasion regime tightened.",
+              "policy_wants": [""],
               "voter_percent_importance": 3
             },
             {
               "issue_id": 10,
               "issue_area": "Economy",
               "issue_stance": "The Left Party wants a country that is for everyone, not just for the rich. Welfare has undergone major changes through extensive privatization, making it vulnerable and a target for unfaithful entrepreneurs and economic crime. The Left Party, therefore, wishes to make a series of changes. Among other things, we want to reintroduce an audit obligation for smaller limited companies and the monthly report on the number of employees.",
+              "policy_wants": [""],
               "voter_percent_importance": 3
             }
           ],
