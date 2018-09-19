@@ -15,13 +15,13 @@
 
     <ion-row>
       <ion-col col-12>
-        <ion-list>
-          <ion-item text-center text-wrap>
-            <p><strong>Their View on {{stanceLink.issue_area}}:</strong></p>
+        <ion-list text-wrap>
+          <ion-item>
+            <p text-center><strong>Their View on {{stanceLink.issue_area}}:</strong></p>
             <br>
             <p>{{stanceLink.issue_stance}}</p>
           </ion-item>
-          <ion-item text-center text-wrap>
+          <ion-item>
             <ion-list *ngFor="let wants of stanceLink.policy_wants">
               <ion-item>
                 <p>{{wants}}</p>
