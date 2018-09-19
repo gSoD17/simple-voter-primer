@@ -613,71 +613,118 @@
             {
               "issue_id": 1,
               "issue_area": "Immigration",
-              "issue_stance": "The Green Party has a vision of a world without borders, where all people can move, and no one is forced to fly. We do not believe in countries' right to choose their residents, we believe in people's right to choose where they want to live. We will meet people with opportunities, not walls. Everyone should be able to live, work and realize their dreams wherever they wish. Free movement should be a human right.",
-              "policy_wants": [""],
+              "issue_stance": "The Green Party has a vision of a world without borders, where all people can move, and no one is forced to flee.  We do not believe in countries' right to choose their residents, we believe in people's right to choose where they want to live.  We will greet people with opportunities, not walls.  Everyone should be able to live, work and realize their dreams wherever they wish.  Free movement should be a human right.",
+              "policy_wants": [
+                "Protecting asylum rights and giving families the right and opportunity to reunite, introduce permanent residence, and especially protect the young and sick",
+                "Facilitate the establishment of new arrivals and improve the situation of unaccompanied young people",
+                "Stand for peace, justice and climate in the world, no exporting of weapons to dictatorships, and no to NATO membership"
+              ],
               "voter_percent_importance": 27
             },
             {
               "issue_id": 2,
               "issue_area": "Healthcare",
-              "issue_stance": "Sweden should promote health, equal and modern health care. Healthcare should be of good quality, available, distributed as needed and be jointly funded. Dentistry should have the same conditions as other care and should therefore be part of publicly funded care and be part of a common high-cost protection.",
-              "policy_wants": [""],
+              "issue_stance": "Sweden should promote an equal and modern healthcare system.  Healthcare should be of good quality, be available and distributed as needed and be jointly funded.  Dentistry should have the same conditions as other care services and should therefore be part of publicly funded care.",
+              "policy_wants": [
+                "Better policies to counter increasing mental illness",
+                "Shorten care queues and a greater focus on better quality and accessibility in our healthcare",
+                "Educate more doctors and specialist nurses",
+                "Healthcare should not be pursued in a for profit basis"
+              ],
               "voter_percent_importance": 19
             },
             {
               "issue_id": 3,
               "issue_area": "Education",
-              "issue_stance": "Through school, children and young people will have the will and tools to learn and develop through life. In school, each child will learn to read, write and count, create and participate in community discussion, collaborate and socialize with others and influence their own life situation. Schools should give each child the opportunity to be themselves and grow to what he or she wants to be. There should be no successful and failed students, neither good nor bad schools - everyone is entitled to succeed and develop.",
-              "policy_wants": [""],
+              "issue_stance": "Our schools help to develop our children and young people to have both the tools and the knowledge that will help them to develop their skills throughout their lives.  In our schools, each and every child will learn to read, write, count, create and participate in community discussions, and to collaborate and socialize with others as well as to develop the ability to influence their own life situation.  Schools should give each child the opportunity to be themselves and to grow up into what he or she wants to be.  There should be no successful or failed students, nor there should good or bad schools – everyone is entitled to succeed and develop as an individual and Sweden should be a country where everyone has the opportunity to lifelong learning.",
+              "policy_wants": [
+                "Make it the state's responsibility to breakup inequality within our schools",
+                "Tackle youth mental illness - all students should be entitled to good mental health",
+                "Encourage more people to become teachers and that all teachers should be able to develop in their professions through higher pay, better terms and better professional development"
+              ],
               "voter_percent_importance": 15
             },
             {
               "issue_id": 4,
               "issue_area": "Environment",
-              "issue_stance": "Man has a responsibility that stretches beyond his own person and beyond his generation. Our living opportunities are determined by how well we can live in harmony with the ecological system. Green ideology is not just about human relationships, but also our dependence on all that we have about us. This conversion requires more efficient housekeeping with natural resources and a more even distribution. We in the rich countries need to adjust our consumption so that our ecological footprints per person quickly reach a globally sustainable level. In order to protect the environment, the precautionary principle must be applied as far as possible.",
-              "policy_wants": [""],
+              "issue_stance": "Humanity has a responsibility that stretches beyond a single person or generation.  Our living opportunities are determined by how well we can live in harmony with nature.  Green ideology is not just about human relationships, but also about the interdependence that we have amongst all of us and our environment.  Conversion to a greener society requires more efficient housekeeping with our natural resources and a more even distribution of the Earth’s resources.  We in the rich countries need to adjust our consumption levels so that our ecological footprints per person quickly reach what is globally sustainable.  In order to protect the environment, the precautionary principle must be applied as far as possible.",
+              "policy_wants": [
+                "Building a sustainable society where it is easier to live in an environmentally friendly manner",
+                "Invest in our forests to promote careful forestry and better protection for nature, endangered animals and plants",
+                "Focus on climate-smart, organic food that is free of poisions and can be consumed sustainably",
+                "Fight for cleaner seas and cleaner waters around the world",
+                "Make Sweden the world's first fossil-free welfare country"
+              ],
               "voter_percent_importance": 10
             },
             {
               "issue_id": 5,
               "issue_area": "Elder care",
-              "issue_stance": "Many live an active life much longer than previous generations have had the opportunity to. More and more people experience their centenary. Many older people are healthy, which is a great social resource. Elderly knowledge and experience are invaluable in many areas, for example, as still active or as mentors to younger ones. In the voluntary sector and the community, many older people make great efforts. However, all elderly people are not healthy and many need more help. Therefore, it is important to have a safe and good care for the elderly based on the individual needs of the elderly.",
-              "policy_wants": [""],
+              "issue_stance": "Many people live a much more active life than previous generations have had the opportunity to.  More and more people experience their centenary.  Many older people are healthy, which is a great social resource.  Elderly knowledge and experience are invaluable in many areas, for example, to help serve as mentors to younger people.  In the voluntary sector and within our communities, many older people make great efforts in making our society better.  However, not all elderly people are healthy and many need more help.  Therefore it is important to have a safe and good care system for the elderly based on their individual needs.",
+              "policy_wants": [
+                "Older people should continue to freely decide their living accomodations and how they want to live their lives",
+                "Older people who need help should get the help they need",
+                "Better working conditions for those working in elderly care",
+                "Anyone who wants to continue to work, should be able to worker longer than 67 years"
+              ],
               "voter_percent_importance": 8
             },
             {
               "issue_id": 6,
               "issue_area": "Employment",
-              "issue_stance": "Labor market policies should promote a well-functioning labor market across the country. In that work, education policy and economic policy play an important role. The labor market needs to be better at matching employers and employees. We protect the Swedish model where the social partners jointly negotiate what will apply to the labor market through collective agreements. The model is based on the fact that a high proportion of workers are union affiliates, and union organization should be encouraged. Our policy will give all people the opportunity to contribute to society through their work conditions.",
-              "policy_wants": [""],
+              "issue_stance": "Labor market policies should promote a well-functioning labor market across the country.  In that area, education policy and economic policy play an important role. The labor market needs to be better at matching employers with employees.  We want to protect the Swedish model where social partners of labor and business negotiate what rules will apply in the labor market through collective agreements.  The model is based on the fact that a high proportion of workers are members of unions, and union organization should be encouraged.  Our policy will help to give all people the opportunity to contribute to society through their work.",
+              "policy_wants": [
+                "Protect working people and giving employees influence over both the content of their work and their working hours",
+                "Improve working conditions and the rights of workers working within the more vulnerable sectors of the labor market",
+                "Fight discrimination in the workplace, support equal pay between men and women",
+                "Promoting a better work-life balance for our workers by reducing the normal working week to 35 hours"
+              ],
               "voter_percent_importance": 7
             },
             {
               "issue_id": 7,
               "issue_area": "Law and prder",
-              "issue_stance": "One of the prerequisites for a well functioning democracy is that people can feel safe and secure. It is important to rely on public power. This requires transparency and openness as well as an efficient and well-functioning justice system that has public confidence. There must be good civic insight into all law enforcement and law enforcement activities and it is important that a variety of backgrounds and perspectives are represented in both the police, prosecutor's office and courts. We want to safeguard civic participation in the judicial process, and therefore want to develop the members' system by allowing more than the political parties to nominate committee members.",
-              "policy_wants": [""],
+              "issue_stance": "One of the prerequisites for a well-functioning democracy is that people can feel safe and secure.  It is important to rely on public power to enforce law and order.  This however requires transparency and openness as well as having a well-functioning justice system that the public has confidence in.  There must be good civic oversight in our law enforcement and their activities, and it is important that a variety of backgrounds and perspectives are represented in both the police, prosecutor’s office and the courts.  We want to safeguard civic participation in the judicial process, and therefore want to reform the nominating system for selecting the officers and members of our courts by allowing more than just the political parties to nominate members.",
+              "policy_wants": [
+                "For on early prevention efforts so people do not choose to become criminals",
+                "Prevent young people from entering into a life of crime",
+                "Give the police more resources and promote more police living closer to our citizens",
+                "Defend democracy against organized crime and violent extremism",
+                "Counteract men's violence against women and counter honor-related violence and oppression"
+              ],
               "voter_percent_importance": 5
             },
             {
               "issue_id": 8,
               "issue_area": "Welfare",
-              "issue_stance": "The welfare state's security system must be inclusive, general and robust. Everyone is entitled to financial security. Community services should be of high quality and be accessible to all. An equal society is safer for all residents. Therefore, we want to counter economic inequality. Even those who are unemployed or ill must be able to participate in society.",
-              "policy_wants": [""],
+              "issue_stance": "The welfare state must be inclusive, general, and robust.  Everyone is entitled to financial security.  Community services should be of high quality and accessible to all.  An equal society is safer for all residents.  Therefore we want to counter economic inequality.  Even those who are unemployed or ill must be able to participate in society.",
+              "policy_wants": [
+                "Welfare activities must not be managed by the market, we are not consumers in relation to welfare, we are citizens. Welfare is too important to be governed by short-term profit interests",
+                "Welfare services should be designed to ensure high quality and be able to meet social, ecological, and economic requirements",
+                "Strengthen the people's opportunity to truly choose the welfare that suits them, engaging more citizens in the design and delivery of welfare services"
+              ],
               "voter_percent_importance": 4
             },
             {
               "issue_id": 9,
               "issue_area": "Taxes",
-              "issue_stance": "Costs that affect the environment shall be included through taxes, fees or other appropriate instruments. This is a particularly important principle of climate policy, where all goods and services climate impacts should also be seen in the price. We want to see a tax on some financial transactions. A breakdown of banks' activities between traditional business and more speculative investment activities should be considered.",
-              "policy_wants": [""],
+              "issue_stance": "Activities that affect the environment should be included through taxes, fees, or other appropriate instruments.  This is particularly important principle of climate policy, where are goods and services that impacts the climate, should also be seen in the price.",
+              "policy_wants": [
+                "Reduce small business tax on work, raise taxes on environmental degredation",
+                "Reduce costs for environmentally beneficial activities"
+              ],
               "voter_percent_importance": 3
             },
             {
               "issue_id": 10,
               "issue_area": "Economy",
-              "issue_stance": "We have to readjust to an economy that takes human well-being and the environment into long-term consideration. Constant economic growth in the traditional sense is not possible on a planet with limited resources. It’s a political responsibility to design market conditions to ensure that resources are used in accordance with the requirements for a sustainable society. ",
-              "policy_wants": [""],
+              "issue_stance": "Our economy must be readjusted so that it takes in human well-being and long-term environmental considerations into account.  Constant economic growth in the traditional sense is not possible on a planet with limited resources.  It’s a political responsibility to design market conditions to ensure that resources are used in accordance with the requirements for a sustainable society.",
+              "policy_wants": [
+                "Reward ethical entrepreneurship",
+                "Curbing greed and speculation in our financial sector, their activities should be channeled in a way that supports the real economy through savings, investments, and providing payment services and risk-sharing",
+                "Sweden should have an open economy to the outside world and work for free trade on fair terms",
+                "Using economic instruments and market regulations to channel developments that meet environmental and resource challenges"
+              ],
               "voter_percent_importance": 3
             }
           ],
