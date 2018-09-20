@@ -1042,71 +1042,126 @@
             {
               "issue_id": 1,
               "issue_area": "Immigration",
-              "issue_stance": "Addressing openness to the outside world is not the same as unregulated immigration. Sweden has taken and takes great responsibility for people on the run. For many years, we have been one of the countries in the EU that have had the highest level of refugees in relation to population. Migration policy must be designed in view of the major refugee influx we have had and the major integration problems we have. Therefore, Sweden needs to receive fewer asylum seekers, and has a permanent tightened asylum law. Laws and rules should be designed in a manner that is in line with other countries in our vicinity. Our asylum system must be legal and predictable.",
-              "policy_wants": [""],
+              "issue_stance": "Addressing openness to the outside world is not the same as unregulated immigration.  Sweden has taken and takes great responsibility for refugees.  For many years, we have been one of the countries in the EU that have had the highest level of refugees in relation to population.  Migration policy must be designed in view of the major refugee influx we have had and the major integration problems we are experiencing.  Therefore, Sweden needs to receive fewer asylum seekers, and should have a permanent tightened asylum law.  Laws and rules should be designed in a manner that is in line with other countries in our vicinity.  Our asylum system must be legal and predictable.",
+              "policy_wants": [
+                "- Sweden should receive fewer asylum seekers than in recent years",
+                "- Temporary residence permits should be the main rule",
+                "- Requirements for self-sufficiency and knowledge in Swedish for permanent residence",
+                "- A common quota system in the EU"
+              ],
               "voter_percent_importance": 27
             },
             {
               "issue_id": 2,
               "issue_area": "Healthcare",
-              "issue_stance": "At present, over 86,000 people are in custody for care. Care cures for surgery have more than doubled since the last election. Almost half of patients in cancer care do not receive care on time. The waiting times also vary greatly between different county councils and regions. Whe need to address an emergency situation. Patients' waiting times need to be considerably shorter. Primary care must be expanded and become more accessible. Children and elderly people should not be forced to the emergency room because there is no time at the health center.",
-              "policy_wants": [""],
+              "issue_stance": "At present, over 86,000 people are in custody for care.  Queues for surgery have more than doubled since the last election.  Almost half of patients in cancer care do not receive care on time.  Waiting times vary greatly between different county councils and regions. We need to address these situations.  Patients' waiting times need to be considerably shorter.  Primary care must be expanded and become more accessible.  Children and elderly people should not be forced to go the emergency room because there is no time at a health center.",
+              "policy_wants": [
+                "- Reinstate and develop the killaries agreement to quickly shorten nursury queues",
+                "- Strengthen the healthcare guarantee.  In the long term, patients should receive surgery or treatment in specialist care within 60 days of a medical recommendation instead of the current 90 days",
+                "- Primary care reform.  Build healthcare centers closer to patients",
+                "- Give patients permanent contact with a care worker",
+                "- Utilize the full potential of digitization to create more accessible healthcare"
+              ],
               "voter_percent_importance": 19
             },
             {
               "issue_id": 3,
               "issue_area": "Education",
-              "issue_stance": "Much in Swedish school works well. There are many classrooms with students equiped with knowledge for life and with teachers that make them grow and dare more. Unfortunately, it is not the same for everyone. Parts of the Swedish school have difficult problems. Almost every fifth ninth grade class, equivalent to approximately 18,600 students, left primary school last year without being eligible for high school. The Moderates' proposals are that elementary schools should last 10 years and start at the age pf 6, increased teaching time in elementary school by one hour each day, national tests should be corrected centrally, diagnostic tests for all students from the lower secondary school, homework help should be available to all students in grade 4-9, and a compulsory school of law in grades 6-9 for students at risk of slipping.",
-              "policy_wants": [""],
+              "issue_stance": "There is much in Swedish school works well.  There are many classrooms where students are equipped with the knowledge for life, and with teachers that helps them to grow and dare for more.  Unfortunately, it is not the same for everyone.  Parts of the Swedish school system have difficult problems.  Almost a fifth of ninth graders, equivalent to approximately 18,600 students, left primary school last year without being eligible for high school.",
+              "policy_wants": [
+                "- Elementary school should last ten years and start at the age of 6",
+                "- Increase teaching times in elementary school by 1 hour each day so that all students can learn to read, write and count",
+                "- National tests should be corrected centrally, for example by the Swedish National Agency for Education",
+                "- Diagnostic tests for all students from lower seconday school",
+                "- Homework help should be available to all students grade 4-9",
+                "- Compulsory schooling in grades 6-9 for students at risk of slipping"
+              ],
               "voter_percent_importance": 15
             },
             {
               "issue_id": 4,
               "issue_area": "Environment",
-              "issue_stance": "Swedish greenhouse gas emissions come mainly from transport and the base industry. They account for one third of Sweden's emissions. Major efforts are needed here. To reduce the emissions of the basic industry, significant technological development is required. For example, it may be about producing fossil-free steel or fossil-free concrete. Support for investment in new technology will increase. Such innovations are effective both in Sweden and globally. The Moderates propose climate deductions for industrial companies to radically reduce emissions, government research policy with targeted funds for sustained reduction of emissions in the basic industry, investment in infrastructure for carbon-free road transport, such as charging posts, with technology-neutral support, effective measures for a green shift in flight, and staging a reduction of carbon dioxide and energy taxes for mining industry.",
-              "policy_wants": [""],
+              "issue_stance": "Swedish greenhouse gas emissions comes mainly from transportation and industry.  The sources of these emissions accounts for one third of Sweden's greenhouse gas emissions.  To reduce emissions in our industrial sector, significant technological development is required.  An example would be to support investment into new technologies like fossil-free production methods in steel and concrete.  Supporting such innovations will be effective in combating emissions both in Sweden and globally.  A prerequisite for green conversion within the transportation sector rests on several factors.  Electricity, biofuels, hydrogen and other environmentally friendly technologies must compete on equal terms.  Infrastructure for these changes needs to be built and a faster shift in these green innovations must also be applied to both air and sea transportation.  Because Sweden is a large country, taxes and regulations should be made to penalize emissions and not on the distance traveled.",
+              "policy_wants": [
+                "- Climate deductions for industrial companies to radically reduce emissions",
+                "- Government research policy with targeted funds for sustained reductions on emissions in industries",
+                "- Invest in infrastructure for carbon-free road transportation such as charging posts",
+                "- Effective measures for a green shift on air transportation",
+                "- Energy taxes on the mining industry"
+              ],
               "voter_percent_importance": 10
             },
             {
               "issue_id": 5,
               "issue_area": "Elder care",
-              "issue_stance": "Over the coming decades, the number of people aged 85 and older is expected to increase sharply. It's basically good news. But it also means that a limited number of elderly patients will account for a very high proportion of healthcare resources. It requires the care and care of the elderly with several diseases to work. Many are sent today from one device to the other without anyone taking responsibility for the whole. We need to build effective care chains for multicultural seniors. Nearly six out of ten older people say they feel alone. Solitude leads to exclusion and isolation. Strengthening the rights of older people to dignified life is basically about security and well-being. It consists of several parts - belonging to a community, influence and choice, service and consideration. Every elder should have a good living and a worthy care for the elderly.",
-              "policy_wants": [""],
+              "issue_stance": "Over the coming decades, the number of people aged 85 and older is expected to increase sharply.  It's basically good news.  But it also means that the number of elderly patients will account for a very high proportion of healthcare resources.  We need to build effective care chains for seniors.  Nearly six out of ten older people say they feel alone.  Solitude leads to exclusion and isolation.  Strengthening the rights of older people to a dignified life is basically about security and well-being.  It consists of several parts - belonging to a community, influence and choice, service and consideration.  Every elder should have a good living and a worthy care for the elderly.",
+              "policy_wants": [
+                "- General strengthening of elderly welfare through more money being allocated to municipalities",
+                "- Prioritize a coherent care system for those who are most ill and are suffering from multiple chronic conditions",
+                "- Simplify aid assessments so that older poeple can get support, such as in home care",
+                "- Strengthen mobile home healthcare",
+                "- National quality requirements for care workers working with the elderly with tighter sanctions on bad activities",
+                "- Promote new digital tools for elderly care without compromising personal information"
+              ],
               "voter_percent_importance": 8
             },
             {
               "issue_id": 6,
               "issue_area": "Employment",
-              "issue_stance": "Despite a good business cycle, many employers have been harder to find labor. In the long run, new technology will lead to replacement of certain jobs and new qualification requirements. At the same time, many unemployed are far from the labor market. Unemployment is not evenly distributed, but affects those who, for various reasons, find it hard to get a job in the labor market. This applies especially to new arrivals, immigrants and young people. Whoever does not get his first job never gets his second or third. Now we are taking the power to break that development. Everyone who can work must get a job. Moderates' proposals includes replacing the Employment Service with a new, smaller, and more efficient authority, allow independent actors to to take over matching job vacancies with job seekers, more places at university, college, and vocational education, remove difficult subsidies for different jobs - instead simplifying employment support.",
-              "policy_wants": [""],
+              "issue_stance": "The Moderates are the party for those who work, those who want to work and those who have worked.  That is the basis of our prosperity.  When more people work, there is more money to support our common welfare.",
+              "policy_wants": [
+                "- Replace the current Employment Service with a new, smaller and more efficient authority.  Allow independent actors to take over the responsibility for matching job vacancies with job seekers",
+                "- More places at universities, colleges, and vocational education",
+                "- Remove the complex system of different subsidies for different jobs, simplify employment support"
+              ],
               "voter_percent_importance": 7
             },
             {
               "issue_id": 7,
               "issue_area": "Law and order",
-              "issue_stance": "There is a lack of police in Sweden. In parts of the country, the police are perceived as absent. The situation within the police authority is strained and record cops leave the profession. Major crime reports are coming to high. The investigation results fall into several categories of crime. The police need more resources, increased powers and better conditions. Sweden's citizens have the right to a police who works, which effectively prevents and investigates crime, and who can be trusted.",
-              "policy_wants": [""],
+              "issue_stance": "There is a lack of police in Sweden.  In parts of the country, the police are perceived as being absent.  The situation within the police authority is strained and a record number of cops are leaving the profession.  Major crime reports are coming to an all-time high.  The police needs more resources, increased powers and better conditions.  Sweden's citizens have the right to a police service that works to effectively prevent and investigate crime and can be trusted.",
+              "policy_wants": [
+                "- At least 10000 more police officers by 2024",
+                "- Increase police wages by an average of SEK 3000 a month",
+                "- There should be more police training places and it should be paid",
+                "- The police must have modern equipment that can be adapted to multiple tasks",
+                "- The police service's core task should be to intervene, investigate and clear up crimes"
+              ],
               "voter_percent_importance": 5
             },
             {
               "issue_id": 8,
               "issue_area": "Welfare",
-              "issue_stance": "Social services are one of the pillars of welfare society. It is the ultimate protection net for the children, adults and families who for various reasons need urgent help or long-term support. It also needs to be able to work preventively. By 2016, 30500 children and young people received care under the Social Services Act or the Act according to the Act on Special Care for Young People (LVU) at any time during the year. The most common placement is family home. These must have reasonable conditions and conditions so that children and young people get the help they need.",
-              "policy_wants": [""],
+              "issue_stance": "Social services are one of the pillars of our welfare society.  It is the ultimate protection net for children, adults and families who, for various reasons, need urgent help or long-term support.  It also needs to be able to work preventatively.  Today, social services are in a strained position.  There are no more than 1000 Social Security Officers.  Eight out of ten municipalities have difficulties recruiting new officers.  At the same time, there is a lack of experienced employees: one in three social secretaries are completely new to the profession.  The Social Services Act is outdated and needs to be updated in order for social services to be able to perform their duties in a manner that is both legal and of high quality.",
+              "policy_wants": [
+                "- Develop a new and modern social service team",
+                "- More social security officers should be able to work externally and with the police",
+                "- Increased knowledge requirements for social care workers, particularly for vulnerable children and young people",
+                "- A special unit within the Prison Service shall take over the responsibilities of the Social Service in cases of young people between the ages of 15-17 who commited gross crimes",
+                "- Social workers must have good working conditions",
+                "- Professionalize family homes and shelters"
+              ],
               "voter_percent_importance": 4
             },
             {
               "issue_id": 9,
               "issue_area": "Taxes",
-              "issue_stance": "Today, it is not enough in Sweden to go from contributions to work, to training or to work for more hours. Therefore, we want to lower the tax for everyone who works. We are implementing the largest tax cuts since 2006. We lower the most, in relation to income, for those who earn the least. It is both right and fair.",
-              "policy_wants": [""],
+              "issue_stance": "Today it is not enough in Sweden to go from contributions to work, to training or to work longer hours.  Therefore, we want to lower taxes for everyone who works.  We want to implement the largest tax cuts since 2006.  We want to make sure that we lower the most taxes, in relation to income, on those who earn the least.  It is both right and fair.",
+              "policy_wants": [
+                "- Lower taxes on those who are working.  Our policy gives SEK 500 more in the wallets of workers every month for a regular full-time job"
+              ],
               "voter_percent_importance": 3
             },
             {
               "issue_id": 10,
               "issue_area": "Economy",
-              "issue_stance": "Entrepreneurs should be appreciated more than they are taxed. Four out of five jobs are created in small and medium-sized companies. Therefore, it is worrying that new business in Sweden is the lowest in ten years. At the same time, headquarters leave the country. It must be easier to start, run, develop and own companies in Sweden. Entrepreneurs should have the prerequisites to want and dare to invest in their ideas. Work on implementing regulatory improvements will be prioritized, both at home and at EU level. Taxes should not put sticks in the wheel for companies that want to grow. In order to take advantage of the opportunities of the new technology and to develop Sweden's international competitiveness, a coherent and offensive digitization policy is needed.",
-              "policy_wants": [""],
+              "issue_stance": "Entrepreneurs should be appreciated more than being taxed.  Four out of five jobs are created in small and medium-sized companies.  Therefore, it is worrying that the formation of new businesses in Sweden is the lowest in ten years.  It must be easier to start, run, develop and own companies in Sweden.  Entrepreneurs should have the prerequisites to want to invest in their ideas.  Work on implementing regulatory improvements should be prioritzied, both at home and in the EU.  Taxes should not be wrenches in the wheel for companies that want to grow.  In order to take advantage of the opportunities that new technologies are providing us and to develop Sweden's international competitivness, a coherent and aggressive digitization policy is needed.",
+              "policy_wants": [
+                "- Strengthen Swedish companies' competitiveness through better rules for employee stock options",
+                "- Companies should be able to provide information to all authorities through a single portal.  A submission should only be made once",
+                "- Sweden should be the world leader in exploiting the potential of digitization",
+                "- Initiate tax reform for better conditions on corporate investment and lower taxes on work"
+              ],
               "voter_percent_importance": 3
             }
           ],
