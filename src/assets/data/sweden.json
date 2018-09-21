@@ -744,7 +744,7 @@
             "Euroscepticism"
           ],
           "political_position": "left-wing",
-          "bloc_affiliation": "Red-Greens (non-member)",
+          "bloc_affiliation": "Red-Greens",
           "policy_stances": [
             {
               "issue_id": 1,
@@ -855,7 +855,7 @@
             {
               "issue_id": 10,
               "issue_area": "Economy",
-              "issue_stance": "Jobs are created when innovations made in business are translated into new products and services, not by competing with lowr wages and poorer conditions.  Our policy for small and medium-sized businesses is about creating long-term conditions for growth.  This also includes security for both the individual entrepreneur and employees.",
+              "issue_stance": "Jobs are created when innovations made in business are translated into new products and services, not by competing with lower wages and poorer conditions.  Our policy for small and medium-sized businesses is about creating long-term conditions for growth.  This also includes security for both the individual entrepreneur and employees.",
               "policy_wants": [
                 "- For small companies, sick pay can be burdensome.  Therefore we want companies with up to 10 employees to not pay completely for 14 days sick leave",
                 "- In order to increase exports from smaller companies, state and industry cooperation in the area of exports should be improved",
@@ -1184,71 +1184,131 @@
             {
               "issue_id": 1,
               "issue_area": "Immigration",
-              "issue_stance": "We Social Democrats support regulated immigration. It is essential that people fleeing from danger get help and be entitled to receive asylum. But there must be more responsible immigration policy. We have revised legislation so that more people apply for asylum in other countries rather than Sweden. As the receiving of refugees must by met with solidarity with others in the EU, so to must our refugees be received and distributed throughout the country. We want new and more restrictive asylum legisation that does not differ significantly from others in the EU. We want to continue to work both globally and within the EU to get more countries to take responsibility for refugees. And that our current model of accomodations for refugees and migrants should be replaced with a better system that counteracts segregation.",
-              "policy_wants": [""],
+              "issue_stance": "We Social Democrats support regulated immigration.  It is essential that people fleeing from danger get help and be entitled to receive asylum.  But there has to be a more responsible immigration policy.  We have revised legislation so that more people apply for asylum in other countries rather than Sweden.  As the intake of refugees should be in solidarity with others in the EU, so too must our refugees be received and evenly distributed throughout Sweden.",
+              "policy_wants": [
+                "- We want a new, more restrictive asylum legislation that does not differ significantly from others in the EU",
+                "- Continue to work both internationally and in the EU to get more countries to take responsibility for refugees",
+                "- The current model of accomodations for refugees and migrants should be wound up and replaced with a better system that counteracts segregation"
+              ],
               "voter_percent_importance": 27
             },
             {
               "issue_id": 2,
               "issue_area": "Healthcare",
-              "issue_stance": "Healthcare is part of what makes Sweden unique. Swedish healthcare is available to all and is of very good quality, even of world class. But it's not enough. Every third patient waits longer than the 90 days for treatment, and every fourth may wait too long for a specialist. This is unacceptable and is not worthy of a strong welfare state like ours. Therefore, we Social Democrats want another 3 billion kronor invested into our care services as well as 14000 more care workers by 2022.",
-              "policy_wants": [""],
+              "issue_stance": "Healthcare is part of what makes Sweden unique.  Swedish healthcare is of high quality and available to all.  But it's not enough.  One third of patients waits longer than the 90 days guarantee for treatment and surgery, and one fourth may wait too long to visit a specialist.  This is unacceptable and it is not worthy of a strong welfare state like ours.",
+              "policy_wants": [
+                "- Employ 14000 more healthcare workers until 2022",
+                "- Draw up a national plan to invest SEK 3 billion to cut care queues",
+                "- Invest SEK 500 million a year in ambulance care and expand the operation of ambulance helicopters in the country to improve response times",
+                "- Invest half a billion annually on new and advanced cancer initiatives to shorten waiting times and to buold six new regional cancer centers",
+                "- Introduce a work environment promise.  Everyone who works in welfare should be able to have good working conditions and give good care to patients",
+                "- Prioritize investment in healthcare instead of tax cuts.  Stop privatizations of emergency hospitals"
+              ],
               "voter_percent_importance": 19
             },
             {
               "issue_id": 3,
               "issue_area": "Education",
-              "issue_stance": "In a strong society there are educational opportunities for everyone - no matter where you live or where you are in life. Education and knowledge enable us as individuals to realize our dreams and is also a prerequisite for Sweden to be a competitive country. Investments in education and research lay the foundation for job and welfare. We have tried tax cuts and privatizations. It did not make Sweden better. Instead, unemployment rose and competitiveness fell. Knowledge outcomes fell and the number of places in education are declining. The result was a recruitment gap in the labor market and sky-high youth unemployment. We need to continue investing in the entire education system, from pre-school to college, educate and hire more teachers and other educational staff, breaking up with marketing and competition, rebuilding educational institutions in society, religious independent schools should be banned, and we should improve the ability for people to receive training throughout lives.",
-              "policy_wants": [""],
+              "issue_stance": "In a strong society, you should have faith that there is a school there for you and your child.  All schools should be good - and knowledge should always come first.  This requires major investments and more well-trained teachers who can feel that society supports them.  For us, it is more important than tax cuts and privatizations.  Teachers should be treated with respect and given good working conditions.  They should be able to focus on their teaching that is based on order and study, and to make sure that no student is left behind or held back.  Security is important in our schools and all school staff should be allowed to intervene when someone is violated, threatened or injured.  Pupil health should be better and mandatory screening of children and young people's mental health should be done at school.",
+              "policy_wants": [
+                "- Employ more staff and more teachers",
+                "- Stop the hunt for profits schools and ban religious schools",
+                "- Introduce homework assurance for all students at risk of not being eligible for high school",
+                "- Ensure that there is order and a good study environment by banning mobile phones and strengthened leadership in the classroom",
+                "- Make big investments to improve equality in our schools and reduce school segregation"
+              ],
               "voter_percent_importance": 15
             },
             {
               "issue_id": 4,
               "issue_area": "Environment",
-              "issue_stance": "Sweden is an environmental country. In a stronger society we can manage Swedish environmental goals through investments and new rules that reduce greenhouse gas emissions, protect biodiversity, create a poison-free environment and a better marine environment. Sweden must be the first fossil-free welfare state, we need to enforce tougher chemicals rules in the EU and introduce domestic taxes on hazardous substances.",
-              "policy_wants": [""],
+              "issue_stance": "Sweden is at the forefront of environmental development.  We can manage Swedish environmental goals through investments and new rules that reduce greenhouse gas emissions, protects biodiversity, creates a toxin-free environment and a better marine environment.",
+              "policy_wants": [
+                "- Reduce greenhouse gas emissions. Sweden will be the first fossil-free welfare state",
+                "- Enforce tougher chemical rules in the EU and introduce domestic taxes on hazardous substances",
+                "- Protect clean drinking water",
+                "- Preserve valuable nature and marine areas to promote biodiversity"
+              ],
               "voter_percent_importance": 10
             },
             {
               "issue_id": 5,
               "issue_area": "Elder care",
-              "issue_stance": "Social Democrats want older people to decide for themselves about their lives, whether it's about participation in working life or what they want to get help from home care. Social Democrats want to stop the profit hunt in elderly care and improve staff conditions to increase the safety of the elderly, we want to introduce a permanent care contact in home care and more social cohesion through a commitment to sports and outdoor living for the elderly, employ more people in elderly care, improve working conditions and strengthen their knowledge and skills, develop a long-term quality plan for elderly care. Our goal is to achieve a balanced and equal quality of care for the elderly throughout the country.",
-              "policy_wants": [""],
+              "issue_stance": "Social Democrats want older people to be able to decide for themselves what they want to do with their lives, whether it's about participation in working life or what type of care they receive.  By making sure that we can guarantee those things, then we can create a stronger society and a safer Sweden.",
+              "policy_wants": [
+                "- Stop the hunt for profits in elderly care and improve staff conditions to increase the safety of the elderly",
+                "- Introduce a permanent contact with a care worker in home care, promote social cohesion through a commitment to sports and outdoor living for the elderly",
+                "- Employ more workers in elderly care, strengthen worker's knowledge and skills",
+                "- Develop a long-term quality plan for elderly care.  Our goal is to achieve a balanced and equal quality of care for the elderly throughout the country",
+                "- Build more retirement homes"
+              ],
               "voter_percent_importance": 8
             },
             {
               "issue_id": 6,
               "issue_area": "Employment",
-              "issue_stance": "Everyone who can work should work and a person who works should be able to live on his salary and have a safe working environment. We will live in a country where women and men go to work, feel safe and can combine family and work. Social Democrats want to introduce full-time jobs as a norm and increase job security and reduce stress and mental health in working life. We want to make major investments in education and that social partners with the state should develop better systems for skills supply, conversion and rehabilitation. We want to improve the system of short-term work in a recession so that wage earners can develop skills while retaining their employment and introduce an extra week's leave a year for all parents",
-              "policy_wants": [""],
+              "issue_stance": "Everyone who can work should work and a person who works should be able to live on their salary and have a safe working environment.  We will live in a country where women and men go to work, feel safe and can have the time to balance family and work.  Social Democrats want to introduce full-time jobs as a norm and increase job security and reduce stress and mental health in working life.",
+              "policy_wants": [
+                "- Help to create more jobs across the country with better conditions and a living wage",
+                "- Have full-time jobs as the norm, increase job security and reduce stress and mental illness in working life",
+                "- Make major investments in education and making sure that social partners and the state can develop better systems for skills and labor supply",
+                "- Improve the system of short-term work in a recession so that wage earners can develop their skills while retaining employment",
+                "- Introduce an extra week's leave a year for all parents"
+              ],
               "voter_percent_importance": 7
             },
             {
               "issue_id": 7,
               "issue_area": "Law and order",
-              "issue_stance": "Violence poses a threat to the whole of democratic society and it should to be combated by all means. It is when faith in the future is lost that gangs and violence becomes an option. We will fight the crimes, but also the causes of the crime. The most effective way to prevent young people from choosing crime is to offer something better: a good education, something meaningful to do in your spare time, a first job, the opportunity to move away from home. Successful law enforcement requires early prevention efforts and the whole of society's commitment. Social Democrats want 10000 more police officers by 2024, and that 7.3 billion extra kronor be made available for our police services. Stopping gangs by abolishing penalties for 18-21 year olds, and introducing social intervention for groups. We want to fight men's violence against women by raising the punishment for rape and that sexual offenses should lead to more convictions.",
-              "policy_wants": [""],
+              "issue_stance": "Violence poses a threat to our democratic society and has to be combatted by all means.  It is only when faith in the future is lost that gangs and violence becomes an option.  We will not only fight crimes, but also the causes of crime",
+              "policy_wants": [
+                "- We want 10000 more police employees by 2024.  Police services should receive SEK 7.3 billion extra in the period of 2018-2020",
+                "- Gang recruitment must be stopped.  A variety of methods must be used to counteract gangs, such as abolished penalties for 18 to 21 year olds coupled with better social interventions",
+                "- Raise the minimum punishment for rape, open rape receptions for victims and tighten the demands of convicted rapists receiving treatment.  Give children who witness a violent crime the status as victims and that affected women should receive support and protection"
+              ],
               "voter_percent_importance": 5
             },
             {
               "issue_id": 8,
               "issue_area": "Welfare",
-              "issue_stance": "Our common welfare model is part of what makes Sweden amazing. By demanding each other and helping us, we develop our common community model. When welfare works and covers all, we dare more; change jobs, start a business, form a family and get children, move or start studying. We all earn it. When welfare embraces all, the freedom of individual human beings can grow. Then everyone can get the chance to realize their life dreams. This is the basis of social democratic policy. Therefore, we prioritize investment in education, welfare, infrastructure and housing. Responsible economic policy is the guarantor of Swedish welfare. With more jobs we can afford a welfare to be proud of.",
-              "policy_wants": [""],
+              "issue_stance": "Our common welfare model is part of what makes Sweden amazing.  By helping each other out, we develop our common community model.  When welfare works and covers all, we further ambitions; change jobs, start a business, form a family and get children, move or start studying.  When welfare embraces all, the freedom of individual human beings can grow and everyone can get the chance to realize their life dreams.  This is the basis of social democratic policy. Therefore, we prioritize investment in education, welfare, infrastructure and housing.  Responsible economic policy is the guarantor of Swedish welfare.  With more jobs we can afford a welfare to be proud of.",
+              "policy_wants": [
+                "- Invest in better welfare.  We want to hire more care workers, nurses and doctors to shorten care queues.  And hire more teachers so that students can learn more",
+                "- Invest in good care throughout the country, employ 14000 more in healthcare with an additional SEK 3 billion and a gneral plan to improve healthcare waiting times",
+                "- Establish a permanent care worker contact for the elderly, more social activities such as sports and outdoor living for the elderly",
+                "- Focus on faster support for mentally ill young people, screening for children and young peope at school and digital healtchare services that can be accessed on a mobile phone"
+              ],
               "voter_percent_importance": 4
             },
             {
               "issue_id": 9,
               "issue_area": "Taxes",
-              "issue_stance": "Taxes are needed to finance what we together benefit from. Sweden has major investment in railways, roads, housing, education and research. Police and security against crime need to be strengthened. Efforts to combat tax fraud should be increased. The municipal tax alleviation and state subsidies to the municipal sector are important for reducing county and municipal taxes.",
-              "policy_wants": [""],
+              "issue_stance": "Taxes are needed to finance the welfare that we all enjoy.  We want to see a stronger society with more resources for schools and healthcare, higher pensions and an uncompromising struggle against crime and its causes.  Future investments are before major tax cuts.",
+              "policy_wants": [
+                "- New resources for welfare take priority over tax cuts and tax subsidies",
+                "- Ensure a strongly progressive tax system",
+                "- Abolish the tax gap between pensioners and wage earners",
+                "- Fight tax fraud and tax evasion",
+                "- Having cross-border tax reform"
+              ],
               "voter_percent_importance": 3
             },
             {
               "issue_id": 10,
               "issue_area": "Economy",
-              "issue_stance": "A strong economy is the foundation of a stronger society. Social Democrats want to increase investment in welfare by at least 30 billion, invest more into the labor market, support local job training, education, validation and language training that leads to more people coming to work, and safeguard the fiscal framework that sets targets for public saving and create long-term stability in public finances.",
-              "policy_wants": [""],
+              "issue_stance": "A strong economy is the foundation for a stronger society.  Social Democrats want to use our economic strength to invest in more jobs, better schools and healthcare, this should be preceded before any major tax cuts.  In order to create a stronger society, Sweden needs to have a competitive business community, both based on large export companies to small ane medium-sized companies.  We want to take advantage of the growth of entrepreneurship in our country and strengthen the business climate so that existing companies and new potential business can grow, export and employ more.",
+              "policy_wants": [
+                "- Increase welfare investment by SEK 30 billion by the next term in office",
+                "- Investments into the labor market through local job training, vocational training and language training in order to get more people into work",
+                "- Safeguard the existing fiscal framework that sets targets for public saving and creating long-term stability in public finances",
+                "- Provide small businesses and entrepreneurs with better opportunities to grow and develop",
+                "- Increase opportunities for companies to finance expansion",
+                "- Simplify current rules so that more businesses can grow and employ more workers",
+                "- Ensuring that Sweden will continue to be a strong start-up country",
+                "- Continuing the growth grant that makes it cheaper for small businesses to hire their first employees",
+                "- Continuing tax credits for employee stock options",
+                "- Continuing to take advantage of digitization technologies to make it easier for business owners to submit their annual reports"
+              ],
               "voter_percent_importance": 3
             }
           ],
@@ -1273,71 +1333,113 @@
             {
               "issue_id": 1,
               "issue_area": "Immigration",
-              "issue_stance": "Sweden's migration policy has been dealt with in an ignorant manner for decades, with serious consequences for Swedish society. A very high level of asylum and relatives has fragmented society, cultivated exclusion, and worsened welfare. At the same time, security has been jeopardized because demands and controls have been weak, both in terms of residence in the country or the granting of citizenship. Today tens of thousands of people live illegally within the country's borders, and Sweden has become known internationally for unrest, rape and civilians active in terror networks. We suggest that there should be a change in asylum legislation so that Sweden only receives asylum seekers from our neighbors and stop all asylum reception as long as Sweden's vicinity is safe. We suggest a change in regulations for labor immigration so that the needs of the Swedish labor market comes first. We suggest that we should make it impossible for employers to use foreign labor to circumvent Swedish working conditions.",
-              "policy_wants": [""],
+              "issue_stance": "Sweden's migration policy has been dealt with in an ignorant manner for decades, with serious consequences for Swedish society.  A very high level of asylum seekers and their relatives has fragmented society, cultivated exclusion, and worsened welfare.  At the same time, security has been jeopardized because demands and controls have been weak, both in terms of residence in the country or the granting of citizenship.  Today tens of thousands of people live illegally within the country's borders, and Sweden has become known internationally for unrest, rape and civilians active in terror networks.",
+              "policy_wants": [
+                "- Change current asylum legislation so that Sweden only receives asylum seekers from our neighbors and stop the flow of refugees until Sweden is safe",
+                "- Change current regulations for labor immigration so that the needs of Swedish labor market comes first",
+                "- Make it impossible for employers to use foreign labor to circumvent Swedish working conditions",
+                "- Steepen the requirements for dependencies on family immigration as well as tightened family checks to make it impossible to abuse the welfare system",
+                "- Strengthen the requirements on becoming a Swedish citizen, include language and social literacy tests, allow for the revocation of citizenships granted on an incorrect basis",
+                "- Contribute to re-migration through providing a clear mission to the Swedish Migration Board to prioritize this as well as efforts on providing financial support and adapted education to those that leave",
+                "- Fight the shadow community by providing the police with the tools and resources needed in order to seek out those staying illegally in the country, increase custody sites and allow for longer stays in custody if expulsion cannot be enforced immediately"
+              ],
               "voter_percent_importance": 27
             },
             {
               "issue_id": 2,
               "issue_area": "Healthcare",
-              "issue_stance": "Swedish healthcare has previously been a model for the rest of the world. Unfortunately, it's no longer the case. Today, Sweden has one of the longest care queues in Europe, and too many patients have to wait longer than the 90-day care guarantee. Corresponding development is within emergency care, where even the youngest and most vulnerable are affected because there are no intensive care facilities for children. Sweden Democrats therefore see accessibility in primary care and shorter waiting times for emergency services as particularly prioritized areas. In Sweden, all citizens must be offered the best possible healthcare within a reasonable time, regardless of location or wallet. We want to give the healthcare staff the appreciation they deserve in terms of reasonable wages and a good working environment. We want to see Sweden where quality, accessibility and security are guaranteed by well-trained and committed staff, a Sweden where native Swedes are not discriminated against in relation to persons staying illegally in the country.",
-              "policy_wants": [""],
+              "issue_stance": "Swedish healthcare has previously been a model for the rest of the world.  It is unfortunately no longer the case.  Today, Sweden has one of the longest care queues in Europe, and too many patients have to wait longer than the 90 day care guarantee.  There are also corresponding problems within emergency care, where even the youngest and most vulnerable are affected because there are no dedicated intensive care facilities for children.  Sweden Democrats therefore see accessibility in primary care and shorter waiting times for emergency services as particularly prioritzed areas.",
+              "policy_wants": [
+                "- Limit waiting times for specialists to a maximum of 30 days, 14 days for particularly serious illnesses and mental illness among children and young people",
+                "- Improve working conditions and improve the status of our welfare state through skills training, professional identification for nurses, and allowing for the employment of additional staff and other workers that can relieve healthcare staff.  Extend the possibility for full-time and part-time care for healthcare professionals",
+                "- Abolish the practice of giving free medical and dental care to illegal immigrants, introduce clear rules for non-citizens' rights on access to tax-funded welfare",
+                "- Improve the availability of obstetrics, child welfare services, primary care and emergency care",
+                "- Clearer national regulations on healthcare to make it more available and investigating the possibility of eventually moving away from a centralized health authority and transfering their powers to county councils",
+                "- Introduce a new patient rights guarantee that strengthens a patient's legal status and provides them the opportunity to choose between healthcare providers across the country",
+                ""
+              ],
               "voter_percent_importance": 19
             },
             {
               "issue_id": 3,
               "issue_area": "Education",
-              "issue_stance": "International surveys show that Sweden is lagging behind. Within the primary and secondary school there is no clear knowledge focus and opportunity for the student to develop at his own pace. Tools also need to be addressed to solve these problems and there should be good career paths for teachers. In addition, there is a need for effective school health care and study guidance and that teachers are relieved in the administrative work. The Swedish Democrats' education policy is partly based on a return to what has worked well, partly on inspiration from the countries that are doing the best today.",
-              "policy_wants": [""],
+              "issue_stance": "International studies have shown that Sweden is lagging behind on core subjects.  Within primary and secondary schools, there is no clear educational focus or opportunities for students to develop at their own pace.  More tools are needed to solve the problems in our education system and that there should be good career paths for teachers.  In addition, there needs to be effective school health and study guidance, and that teachers should be relieved from administrative work.  The Swedish Democrats' education policy is party based on a return to what worked well before, party based on inspiration from other countries that are doing well today.",
+              "policy_wants": [
+                "- Allow teachers to resolve the problems by allowing them to report on students who need special supervision and allowing them to intervene when students commit serious abuse",
+                "- Create attractive career paths for teachers with better payrolls",
+                "- Create financial incentives for educational choice as demanded by the labor market and creating labor market balance by getting more people to choose vocational education"
+              ],
               "voter_percent_importance": 15
             },
             {
               "issue_id": 4,
               "issue_area": "Environment",
-              "issue_stance": "Sweden has a rich and valuable nature that must be protected and preserved. We value the varied cultural landscape, beautiful scenery should be experienced and we want it to be possible to live in the countryside. Therefore, we emphasize the management spirit and active agriculture and forestry in parallel with the work to preserve untouched nature. Biodiversity is found in forests and nature reserves, but also in farmland. Sweden's greenhouse gas emissions are low for an industrialized country. The Swedish Democrats' environmental policy is constructive, realistic and is based on how we can combat global environmental pollution and greenhouse gas emissions globally, in the most cost-effective way, without losing weight for rural and industrial areas. Environmental problems in general and greenhouse gases in particular do not take national boundaries into account. Based on the principle most beneficial per capita, we prefer investments on international measures and research in the face of increased fuel prices, vehicle taxes and other measures that fight Swedish jobs and rural areas without any measurable impact on environmental problems globally.",
-              "policy_wants": [""],
+              "issue_stance": "Swedish nature is a rich and valuable treasure that must be protected and preserved.  We emphasize that there should be a managerial spirit that promotes active agriculture and forestry in parallel with work that preserves untouched nature.  Sweden's greenhouse gase emissions are the lowest of any industrialized country.  The Sweden Democrats' environmental policy is constructive, realistic and based on how we can combat global environmental pollution and greenhouse gases globally in a cost-effective way that does not negatively impact our rural and industrial areas.",
+              "policy_wants": [
+                "- Support safe and efficient nuclear power through research and development of fourth generation reactors",
+                "- Work against eutrophication in lakes, streams and seas, clean up tens of thousands of polluted areas found around Sweden",
+                "- Promote the electrification of the transport sector through ivestments on infrastructure with more charging posts and a hydrogen strategy",
+                "- Focus on energy efficiency and energy research"
+              ],
               "voter_percent_importance": 10
             },
             {
               "issue_id": 5,
               "issue_area": "Elder care",
-              "issue_stance": "Sweden's elderly deserve to get the world's best care for the elderly. We can not accept that the elderly die alone, ending their lives socially isolated or that people feel strongly worried about getting old due to lack of care and poorer pension conditions. All people should be able to age with dignity. On the day of struggling, society will come in and provide the help needed for the elderly to continue to live a safe and meaningful life. Older people should be able to stay at home, even if care needs increased. No one should be forced to separate from friends, relatives and pets other than when necessary for, for example, hospital care. Sweden's elderly should not have to face stressed and exhausted staff. We therefore prioritize the issue of the elderly care working conditions through proposals for the elimination of involuntary shared trips. We also want to give staff a greater influence over working hours and ensure sufficient skills through a special ID for the Nursing profession.",
-              "policy_wants": [""],
+              "issue_stance": "The elderly deserve to get the world's best care.  We cannot accept that there are some who die alone, their lives ending in social isolation, or that people feel strongly worried about getting old due to the lack of care and poorer pension conditions.  All people should be able to age with dignity.  When someone is struggling, society should be there to come in and provide the help that they need so that the elderly can continue to live a safe and meaningful life.  Older people should be able to stay in their homes, even if that means care costs increase.  No one should be forced away from their friends, relatives and pets other than in cases of necessity like hospital care.",
+              "policy_wants": [
+                "- Increase the housing allowance and guarantee pensions, cancel the pension tax",
+                "- Establish a mandatory 24-hour crew at retiremnt homes and discontinue the involuntary shared hours for staff",
+                "- Introduce food reform with minimum requirements for freshly prepared, tasty and nutritious foods",
+                "- Introduce elderly care centers to improve efficiency in elderly care, establish a fast track policy in emergency care to improve health and to provide an elderly specialist.  Offer free elderly care for people aged 85 years or older and increase dental care",
+                "- Provide a tax reduction and a statutory right to work part-time for the elderly who remain in the labor market"
+              ],
               "voter_percent_importance": 8
             },
             {
               "issue_id": 6,
               "issue_area": "Employment",
-              "issue_stance": "The problems in the Swedish labor market today are complex, and education and unemployment levels differ strongly between groups. The Swedish Democrats seek an active but clearly defined labor market policy. We assume a pragmatic, cross-political attitude with the aim of safeguarding the nation's overall interests. This means that we do not carry either classic right or left politics. Instead, we are based on a target image based on labor market balance, unemployment in times of unemployment, improved conditions for SMEs, safe workplaces and cost-effective matching. We also see the need to give the country's entrepreneurs the recognition and support they deserve. We want to see Sweden where it pays to work, create jobs and take risks for a better future.",
-              "policy_wants": [""],
+              "issue_stance": "The problems in the Swedish labor market today are complex, and education and employment levels diffir strongly between groups.  The Swedish Democrats seek an active but clearly defined labor market policy.  We want a pragmatic, cross-political attitude with the aim of safeguarding the nation's overall interests.  This means that we do not subscribe to either right or left politics.  Instead, our policy is based on a target image that is based on labor market balance, support in times of unemployment, improved conditons for small and medium-sized enterprises, safe workplaces and cost-effective matching.",
+              "policy_wants": [
+                "- Abolish ineffective labor market measures such as New Start Jobs, Establishment Jobs and Introductory Jobs, and instead focus on small businesses through expanded start-up funds, reduced sick pay, reduced employer fees and a more comprehensive industrial strategy",
+                "- Improve conditions in the public sector such as a right to full-time",
+                "- Abolish employment services in its current form, open up to a wide range of actors and establish an agency for oversight and effectivenss assessments on private employment agencies"
+              ],
               "voter_percent_importance": 7
             },
             {
               "issue_id": 7,
               "issue_area": "Law and order",
-              "issue_stance": "Our country is not good. Women, children and elderly are afraid to go out alone in the evening. There are fights in the streets between rival suburbs. Police officers and their families are shrouded at home and their cars blasted while police support is unclear. Current and former governments have seriously damaged confidence in the judiciary. Police officers resign themselves as a result of poor working conditions and a growing threats. Fire brigades and ambulances can not enter in immigrant domains without armed escort. Those who live and work in our suburbs may have their shops robbed, closed down or taken over by criminals. The few perpetrators who are actually convicted of gross crimes are released with mild punishment, while their victims barely receive support. As a result of uncontrolled immigration, terrorists with war experience travel freely on streets and squares and exploit our welfare and asylum system. Antisemitism is growing stronger and Jews fly Swedish cities. Sweden Democrats want a Sweden where people can feel safe - no matter what time of day, regardless of location. A country characterized by loyalty, solidarity and trust towards each other and where the public space is not controlled by criminals. A society where victims of crime receive support and resettlement while the perpetrators receive a punishment in proportion to the seriousness of the crime. A modern public home where we meet those who maintain the system with respect - and not with hatred and violence.",
-              "policy_wants": [""],
+              "issue_stance": "The state of safety in our country is not good.  Women, children and the elderly are too afraid to go out alone in the evening.  There are street fights between rival suburbs and police support is unclear.  Current and past governments have seriously damaged public confidence in the judiciary.  Police officers are resigning as a result of poor working conditions and growing threats.  Fire brigades and ambulances cannot enter immigrant neighborhoods without an armed escort.  Sweden Democrats want a Sweden where people can feel safe - no matter what time of the day and regardless of location.  We want a country based on loyalty, solidarity and trust towards each other, where the public place is not taken over by criminals.  We want a society where victims of crime receive support and where perpetrators receive a punishment in proportion to the seriousness of their crime.",
+              "policy_wants": [
+                "- The state will guarantee the damges made to victims and then claim that amount from the perpetrator",
+                "- Introduce mandatory expulsion for gross crimes committed by foreigners and introduce the possibility of revoking one's citizenship in cases of terrorist offences",
+                "- Make it more attractive to become a police officer through increased funding for the police service, increased wages and more career paths",
+                "- Make it safer for police officers on duty through increasing penalties for assaulting an officer.  Facilitate the use of police surveillance cameras",
+                "- Greatly increase the number of police officers",
+                "- Introduce broad penalties and raise the minimum punishment for repeated and serious crime, cross-border crime, weapons smuggling, and introduce life sentences for particularly dangerous offenders"
+              ],
               "voter_percent_importance": 5
             },
             {
               "issue_id": 8,
               "issue_area": "Welfare",
-              "issue_stance": "We think Swedish welfare should prioritize Swedish citizens. Medical care should be available throughout our country, regardless of the size of the wallet. We want to provide healthcare staff with an improved work environment, good development opportunities and a good salary level. We want a school that prioritizes knowledge and order, where both teachers and students enjoy and can perform. In our Sweden, older people get a pension that they can really live on.",
-              "policy_wants": [""],
+              "issue_stance": "We think Swedish welfare should prioritize Swedish citizens.  Medical care should be available throughout our country, regardless of the size of one's wallet.  We want to provide healthcare staff with an improved work environment, good development opportunities and a good salary level.  We want a school that prioritizes knowledge and order.  In our Sweden, older people should get a pension that they can live on.",
+              "policy_wants": [],
               "voter_percent_importance": 4
             },
             {
               "issue_id": 9,
               "issue_area": "Taxes",
-              "issue_stance": "",
-              "policy_wants": [""],
+              "issue_stance": "The tax system has to be simplified, transparent and easier to understand with less complicated special rules.  Comprehensive rules such as those few companies' corporate tax rules should be discontinued.  Fairer and simpler rules can also be achieved through increased harmonization of tax rates on different tax bases.  Swedish taxpayers should feel motivated to pay taxes, because welfare and security should live up to our expectations, and that work should always be taxed reasonably.",
+              "policy_wants": [],
               "voter_percent_importance": 3
             },
             {
               "issue_id": 10,
               "issue_area": "Economy",
               "issue_stance": "",
-              "policy_wants": [""],
+              "policy_wants": [],
               "voter_percent_importance": 3
             }
           ],
