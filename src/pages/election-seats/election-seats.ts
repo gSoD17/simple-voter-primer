@@ -12,7 +12,7 @@ export class ElectionSeatsPage {
   }
 
   // Chart Components
-  public doughnutChartLabls: string[] = [
+  public doughnutChartLabels: string[] = [
     'Party 1',
     'Party 2',
     'Party 3',
@@ -31,7 +31,7 @@ export class ElectionSeatsPage {
   public doughnutChartType: string = 'doughnut';
 
   // Chart Click Events
-  public chartClick(event: any) {
+  public chartClicked(event: any) {
     console.log(event);
   }
 
