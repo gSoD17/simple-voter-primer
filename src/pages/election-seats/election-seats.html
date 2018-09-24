@@ -9,4 +9,15 @@
 
 <ion-content padding>
 
+  <div>
+      <canvas baseChart
+        [data]="doughnutChartData"
+        [labels]="doughnutChartLabels"
+        [chartType]="doughnutChartType"
+        (chartHover)="chartHovered($event)"
+        (chartClick)="chartClicked($event)"
+      ></canvas>
+
+  </div>
+
 </ion-content>

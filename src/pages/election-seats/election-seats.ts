@@ -11,8 +11,32 @@ export class ElectionSeatsPage {
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad ElectionSeatsPage');
+  // Chart Components
+  public doughnutChartLabls: string[] = [
+    'Party 1',
+    'Party 2',
+    'Party 3',
+    'Party 4',
+    'Party 5'
+  ];
+
+  public doughnutChartData: number[] = [
+    17,
+    141,
+    80,
+    32,
+    30
+  ];
+
+  public doughnutChartType: string = 'doughnut';
+
+  // Chart Click Events
+  public chartClick(event: any) {
+    console.log(event);
+  }
+
+  public chartHovered(event: any) {
+    console.log(event)
   }
 
 }
