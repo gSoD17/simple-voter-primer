@@ -14,6 +14,21 @@ export class ElectionSeatsPage {
   public doughnutChartData: number[] = [];
   public doughnutChartType: string = 'doughnut';
 
+  public doughnutChartColors: Array<any> = [
+    { 
+      backgroundColor: [
+        '#39944a', 
+        '#2d338e',
+        '#84c0ac',
+        '#b00000',
+        '#0069b4',
+        '#019cdb',
+        '#ed1b34',
+        '#fedf09'
+      ]
+    }
+  ]
+
   constructor(
     public navCtrl: NavController, 
     public navParams: NavParams,
@@ -42,28 +57,6 @@ export class ElectionSeatsPage {
     })
 
   }
-
-  // // Chart Components
-  // public doughnutChartLabels: string[] = [
-  //   'Party 1',
-  //   'Party 2',
-  //   'Party 3',
-  //   'Party 4',
-  //   'Party 5',
-  //   'Party 6',
-  //   'Party 7',
-  //   'Party 8'
-  // ];
-
-  // public doughnutChartData: number[] = [
-  //   17,
-  //   141,
-  //   80,
-  //   32,
-  //   30
-  // ];
-
-  // public doughnutChartType: string = 'doughnut';
 
   // Chart Click Events
   public chartClicked(event: any):void {
