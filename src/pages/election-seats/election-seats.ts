@@ -13,6 +13,13 @@ export class ElectionSeatsPage {
   public doughnutChartLabels: string[] = [];
   public doughnutChartData: number[] = [];
   public doughnutChartType: string = 'doughnut';
+  public doughnutChartOptions: any = {
+    title: {
+      text: '2018',
+      fontSize: 15,
+      display: true
+    }
+  }
 
   public doughnutChartColors: Array<any> = [
     { 
