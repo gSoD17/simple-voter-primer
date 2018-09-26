@@ -9,16 +9,23 @@
 
 <ion-content padding>
 
-  <div style="display: block" class="wrapper">
-    <canvas baseChart 
-      *ngIf = "doughnutChartData.length > 0"
-      [data]="doughnutChartData"
-      [labels]="doughnutChartLabels"
-      [options]="doughnutChartOptions"
-      [chartType]="doughnutChartType"
-      (chartHover)="chartHovered($event)"
-      (chartClick)="chartClicked($event)"
-    ></canvas>
-  </div>
+  <ion-grid>
+
+    <ion-row>
+      <ion-col col-12>
+          <canvas baseChart 
+            *ngIf="doughnutChartData.length > 0"
+
+            width="25vh" height="25vh"
+            [data]="doughnutChartData"
+            [labels]="doughnutChartLabels"
+            [chartType]="doughnutChartType"
+            (chartHover)="chartHovered($event)"
+            (chartClick)="chartClicked($event)"
+          ></canvas>
+      </ion-col>
+    </ion-row>
+
+  </ion-grid>
 
 </ion-content>

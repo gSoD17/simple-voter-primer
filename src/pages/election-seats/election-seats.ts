@@ -13,10 +13,6 @@ export class ElectionSeatsPage {
   public doughnutChartLabels: string[] = [];
   public doughnutChartData: number[] = [];
   public doughnutChartType: string = 'doughnut';
-  public doughnutChartOptions: any = {
-    responsive: true,
-    maintainAspectRatio: false
-  }
 
   constructor(
     public navCtrl: NavController, 
