@@ -12,7 +12,7 @@ export class DataFetcherProvider {
 
   fetchLocalData() {
     console.log('function called')
-    return this.http.get(this.filePath);
+    return this.http.get<any[]>(this.filePath);
   }
 
 }
