@@ -460,16 +460,6 @@
               "voter_percent_importance": 3
             }
           ],
-          "seat_share": [
-            {
-              "year": 2018,
-              "seats": 31
-            },
-            {
-              "year": 2014,
-              "seats": 22
-            }
-          ],
           "note": "Centerpartiet"
         },
         {
@@ -601,16 +591,6 @@
                 ""
               ],
               "voter_percent_importance": 3
-            }
-          ],
-          "seat_share": [
-            {
-              "year": 2018,
-              "seats": 22
-            },
-            {
-              "year": 2014,
-              "seats": 16
             }
           ],
           "note": "Kristdemokraterna"
@@ -748,16 +728,6 @@
               "voter_percent_importance": 3
             }
           ],
-          "seat_share": [
-            {
-              "year": 2018,
-              "seats": 16
-            },
-            {
-              "year": 2014,
-              "seats": 25
-            }
-          ],
           "note": "Miljopartiet de Grona"
         },
         {
@@ -892,16 +862,6 @@
                 "- Strengthen local savings banks' ability to compete with major banks and contribute to the development of local businesses"
               ],
               "voter_percent_importance": 3
-            }
-          ],
-          "seat_share": [
-            {
-              "year": 2018,
-              "seats": 28
-            },
-            {
-              "year": 2014,
-              "seats": 21
             }
           ],
           "note": "Vansterpartiet"
@@ -1062,16 +1022,6 @@
               "voter_percent_importance": 3
             }
           ],
-          "seat_share": [
-            {
-              "year": 2018,
-              "seats": 20
-            },
-            {
-              "year": 2014,
-              "seats": 19
-            }
-          ],
           "note": "Liberalerna"
         },
         {
@@ -1213,16 +1163,6 @@
                 "- Initiate tax reform for better conditions on corporate investment and lower taxes on work"
               ],
               "voter_percent_importance": 3
-            }
-          ],
-          "seat_share": [
-            {
-              "year": 2018,
-              "seats": 70
-            },
-            {
-              "year": 2014,
-              "seats": 84
             }
           ],
           "note": "Moderaterna"
@@ -1372,16 +1312,6 @@
               "voter_percent_importance": 3
             }
           ],
-          "seat_share": [
-            {
-              "year": 2018,
-              "seats": 100
-            },
-            {
-              "year": 2014,
-              "seats": 113
-            }
-          ],
           "note": "Socialdemokraterna"
         },
         {
@@ -1511,16 +1441,6 @@
               "issue_stance": "The Sweden Democrats want to make huge tax cuts for wage earners and small businesses while proposing extensive support for those who are most vulnerable, such as tax cuts for retirees, strengthened pensions, along with incresaed cash and housing allowances.  Our starting point is to take responsibility for public finances and implement financial reforms as the need arises.  Savings can also be ensured by stopping the increased costs associated with excessive immigration.",
               "policy_wants": [],
               "voter_percent_importance": 3
-            }
-          ],
-          "seat_share": [
-            {
-              "year": 2018,
-              "seats": 62
-            },
-            {
-              "year": 2014,
-              "seats": 49
             }
           ],
           "note": "Sverigedemokraterna"

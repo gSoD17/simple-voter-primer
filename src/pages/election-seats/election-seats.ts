@@ -43,10 +43,6 @@ export class ElectionSeatsPage {
     ) {
   }
 
-  ionViewWillEnter() {
-    this.dataFetch.fetchLocalData()
-  }
-
   // ionViewWillEnter() {
 
   //   let seatsData = [];
