@@ -1446,6 +1446,663 @@
           "note": "Sverigedemokraterna"
         }
       ],
+      "political_parties_election_seats": [
+        {
+          "year": 2018,
+          "party_seats": [
+            {
+              "party": "Left Party",
+              "seats": 28
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 100
+            },
+            {
+              "party": "Green Party",
+              "seats": 16
+            },
+            {
+              "party": "Liberals",
+              "seats": 20
+            },
+            {
+              "party": "Center Party",
+              "seats": 31
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 70
+            },
+            {
+              "party": "Christian Democrats",
+              "seats": 22
+            },
+            {
+              "party": "Sweden Democrats",
+              "seats": 62
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "party_seats": [
+            {
+              "party": "Left Party",
+              "seats": 21
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 113
+            },
+            {
+              "party": "Green Party",
+              "seats": 25
+            },
+            {
+              "party": "Liberals",
+              "seats": 19
+            },
+            {
+              "party": "Center Party",
+              "seats": 22
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 84
+            },
+            {
+              "party": "Christian Democrats",
+              "seats": 16
+            },
+            {
+              "party": "Sweden Democrats",
+              "seats": 49
+            }
+          ]
+        },
+        {
+          "year": 2010,
+          "party_seats": [
+            {
+              "party": "Left Party",
+              "seats": 19
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 112
+            },
+            {
+              "party": "Green Party",
+              "seats": 25
+            },
+            {
+              "party": "Liberals",
+              "seats": 24
+            },
+            {
+              "party": "Center Party",
+              "seats": 23
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 107
+            },
+            {
+              "party": "Christian Democrats",
+              "seats": 19
+            },
+            {
+              "party": "Sweden Democrats",
+              "seats": 20
+            }
+          ]
+        },
+        {
+          "year": 2006,
+          "party_seats": [
+            {
+              "party": "Left Party",
+              "seats": 22
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 130
+            },
+            {
+              "party": "Green Party",
+              "seats": 19
+            },
+            {
+              "party": "Liberals",
+              "seats": 28
+            },
+            {
+              "party": "Center Party",
+              "seats": 29
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 97
+            },
+            {
+              "party": "Christian Democrats",
+              "seats": 24
+            }
+          ]
+        },
+        {
+          "year": 2002,
+          "party_seats": [
+            {
+              "party": "Left Party",
+              "seats": 30
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 144
+            },
+            {
+              "party": "Green Party",
+              "seats": 17
+            },
+            {
+              "party": "Liberals",
+              "seats": 48
+            },
+            {
+              "party": "Center Party",
+              "seats": 22
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 55
+            },
+            {
+              "party": "Christian Democrats",
+              "seats": 33
+            }
+          ]
+        },
+        {
+          "year": 1998,
+          "party_seats": [
+            {
+              "party": "Left Party",
+              "seats": 43
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 131
+            },
+            {
+              "party": "Green Party",
+              "seats": 16
+            },
+            {
+              "party": "Liberals",
+              "seats": 17
+            },
+            {
+              "party": "Center Party",
+              "seats": 18
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 82
+            },
+            {
+              "party": "Christian Democrats",
+              "seats": 42
+            }
+          ]
+        },
+        {
+          "year": 1994,
+          "party_seats": [
+            {
+              "party": "Left Party",
+              "seats": 22
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 161
+            },
+            {
+              "party": "Green Party",
+              "seats": 18
+            },
+            {
+              "party": "Liberals",
+              "seats": 26
+            },
+            {
+              "party": "Center Party",
+              "seats": 27
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 80
+            },
+            {
+              "party": "Christian Democrats",
+              "seats": 15
+            }
+          ]
+        },
+        {
+          "year": 1991,
+          "party_seats": [
+            {
+              "party": "Left Party",
+              "seats": 16
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 138
+            },
+            {
+              "party": "Liberals",
+              "seats": 33
+            },
+            {
+              "party": "Center Party",
+              "seats": 31
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 80
+            },
+            {
+              "party": "Christian Democrats",
+              "seats": 26
+            },
+            {
+              "party": "New Democracy",
+              "seats": 25
+            }
+          ]
+        },
+        {
+          "year": 1988,
+          "party_seats": [
+            {
+              "party": "Left Party - Communists",
+              "seats": 21
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 156
+            },
+            {
+              "party": "Green Party",
+              "seats": 20
+            },
+            {
+              "party": "Liberals",
+              "seats": 44
+            },
+            {
+              "party": "Center Party",
+              "seats": 42
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 66
+            }
+          ]
+        },
+        {
+          "year": 1985,
+          "party_seats": [
+            {
+              "party": "Left Party - Communists",
+              "seats": 19
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 159
+            },
+            {
+              "party": "Liberals",
+              "seats": 51
+            },
+            {
+              "party": "Center Party",
+              "seats": 43
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 76
+            }
+          ]
+        },
+        {
+          "year": 1982,
+          "party_seats": [
+            {
+              "party": "Left Party - Communists",
+              "seats": 20
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 166
+            },
+            {
+              "party": "Liberals",
+              "seats": 21
+            },
+            {
+              "party": "Center Party",
+              "seats": 56
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 86
+            }
+          ]
+        },
+        {
+          "year": 1979,
+          "party_seats": [
+            {
+              "party": "Left Party - Communists",
+              "seats": 20
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 154
+            },
+            {
+              "party": "Liberals",
+              "seats": 38
+            },
+            {
+              "party": "Center Party",
+              "seats": 64
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 73
+            }
+          ]
+        },
+        {
+          "year": 1976,
+          "party_seats": [
+            {
+              "party": "Left Party - Communists",
+              "seats": 17
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 152
+            },
+            {
+              "party": "Liberals",
+              "seats": 39
+            },
+            {
+              "party": "Center Party",
+              "seats": 86
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 55
+            }
+          ]
+        },
+        {
+          "year": 1973,
+          "party_seats": [
+            {
+              "party": "Left Party - Communists",
+              "seats": 19
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 156
+            },
+            {
+              "party": "Liberals",
+              "seats": 34
+            },
+            {
+              "party": "Center Party",
+              "seats": 90
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 51
+            }
+          ]
+        },
+        {
+          "year": 1970,
+          "party_seats": [
+            {
+              "party": "Left Party - Communists",
+              "seats": 17
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 163
+            },
+            {
+              "party": "Liberals",
+              "seats": 58
+            },
+            {
+              "party": "Center Party",
+              "seats": 71
+            },
+            {
+              "party": "Moderate Party",
+              "seats": 41
+            }
+          ]
+        },
+        {
+          "year": 1968,
+          "party_seats": [
+            {
+              "party": "Left Party - Communists",
+              "seats": 3
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 125
+            },
+            {
+              "party": "Liberals",
+              "seats": 34
+            },
+            {
+              "party": "Center Party",
+              "seats": 39
+            },
+            {
+              "party": "Rightest Party",
+              "seats": 32
+            }
+          ]
+        },
+        {
+          "year": 1964,
+          "party_seats": [
+            {
+              "party": "Communist Party",
+              "seats": 8
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 113
+            }
+            {
+              "party": "Liberals",
+              "seats": 43
+            },
+            {
+              "party": "Center Party",
+              "seats": 35
+            },
+            {
+              "party": "Rightest Party",
+              "seats": 33
+            }
+          ]
+        },
+        {
+          "year": 1960,
+          "party_seats": [
+            {
+              "party": "Communist Party",
+              "seats": 5
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 114
+            },
+            {
+              "party": "Liberals",
+              "seats": 40
+            },
+            {
+              "party": "Center Party",
+              "seats": 34
+            },
+            {
+              "party": "Rightest Party",
+              "seats": 39
+            }
+          ]
+        },
+        {
+          "year": 1958,
+          "party_seats": [
+            {
+              "party": "Communist Party",
+              "seats": 5
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 111
+            },
+            {
+              "party": "Liberals",
+              "seats": 38
+            },
+            {
+              "party": "Center Party",
+              "seats": 32
+            },
+            {
+              "party": "Rightest Party",
+              "seats": 45
+            }
+          ]
+        },
+        {
+          "year": 1956,
+          "party_seats": [
+            {
+              "party": "Communist Party",
+              "seats": 6
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 106
+            },
+            {
+              "party": "Liberals",
+              "seats": 58
+            },
+            {
+              "party": "Farmer's League",
+              "seats": 19
+            },
+            {
+              "party": "Rightest Party",
+              "seats": 42
+            }
+          ]
+        },
+        {
+          "year": 1952,
+          "party_seats": [
+            {
+              "party": "Communist Party",
+              "seats": 5
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 110
+            },
+            {
+              "party": "Liberals",
+              "seats": 58
+            },
+            {
+              "party": "Farmer's League",
+              "seats": 26
+            },
+            {
+              "party": "Rightest Party",
+              "seats": 31
+            }
+          ]
+        },
+        {
+          "year": 1948,
+          "party_seats": [
+            {
+              "party": "Communist Party",
+              "seats": 8
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 112
+            },
+            {
+              "party": "Liberals",
+              "seats": 57
+            },
+            {
+              "party": "Farmer's League",
+              "seats": 30
+            },
+            {
+              "party": "National Organisation of the Right",
+              "seats": 23
+            }
+          ]
+        },
+        {
+          "year": 1944,
+          "party_seats": [
+            {
+              "party": "Communist Party",
+              "seats": 15
+            },
+            {
+              "party": "Social Democratic Party",
+              "seats": 115
+            },
+            {
+              "party": "Liberals",
+              "seats": 26
+            },
+            {
+              "party": "Farmer's League",
+              "seats": 35
+            },
+            {
+              "party": "National Organisation of the Right",
+              "seats": 39
+            }
+          ]
+        }
+      ],
       "international_organization_participation": [
         {
           "organization": "ADB ",
