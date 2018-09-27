@@ -17,7 +17,7 @@
           <button ion-item
           *ngFor="let info of electionSeatsData"
           text-center
-          (click)="gotoChartsPage(info)">
+          (click)="gotoChartsPage(info.party_seats)">
             {{info.year}}
           </button>
         </ion-list>

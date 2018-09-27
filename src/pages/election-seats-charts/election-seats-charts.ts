@@ -8,11 +8,13 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class ElectionSeatsChartsPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
-  }
+  seatsLink: any;
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad ElectionSeatsChartsPage');
+  constructor(
+    public navCtrl: NavController, 
+    public navParams: NavParams
+    ) {
+      this.seatsLink = this.navParams.get('dataLink')
   }
 
 }
