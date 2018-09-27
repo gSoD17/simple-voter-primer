@@ -1452,34 +1452,42 @@
           "party_seats": [
             {
               "party": "Left Party",
+              "color_code": "#b00000",
               "seats": 28
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 100
             },
             {
               "party": "Green Party",
+              "color_code": "#80aa4e",
               "seats": 16
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 20
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 31
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 70
             },
             {
               "party": "Christian Democrats",
+              "color_code": "#2d338e",
               "seats": 22
             },
             {
               "party": "Sweden Democrats",
+              "color_code": "#fedf09",
               "seats": 62
             }
           ]
@@ -1489,34 +1497,42 @@
           "party_seats": [
             {
               "party": "Left Party",
+              "color_code": "#b00000",
               "seats": 21
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 113
             },
             {
               "party": "Green Party",
+              "color_code": "#80aa4e",
               "seats": 25
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 19
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 22
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 84
             },
             {
               "party": "Christian Democrats",
+              "color_code": "#2d338e",
               "seats": 16
             },
             {
               "party": "Sweden Democrats",
+              "color_code": "#fedf09",
               "seats": 49
             }
           ]
@@ -1526,34 +1542,42 @@
           "party_seats": [
             {
               "party": "Left Party",
+              "color_code": "#b00000",
               "seats": 19
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 112
             },
             {
               "party": "Green Party",
+              "color_code": "#80aa4e",
               "seats": 25
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 24
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 23
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 107
             },
             {
               "party": "Christian Democrats",
+              "color_code": "#2d338e",
               "seats": 19
             },
             {
               "party": "Sweden Democrats",
+              "color_code": "#fedf09",
               "seats": 20
             }
           ]
@@ -1563,30 +1587,37 @@
           "party_seats": [
             {
               "party": "Left Party",
+              "color_code": "#b00000",
               "seats": 22
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 130
             },
             {
               "party": "Green Party",
+              "color_code": "#80aa4e",
               "seats": 19
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 28
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 29
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 97
             },
             {
               "party": "Christian Democrats",
+              "color_code": "#2d338e",
               "seats": 24
             }
           ]
@@ -1596,30 +1627,37 @@
           "party_seats": [
             {
               "party": "Left Party",
+              "color_code": "#b00000",
               "seats": 30
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 144
             },
             {
               "party": "Green Party",
+              "color_code": "#80aa4e",
               "seats": 17
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 48
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 22
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 55
             },
             {
               "party": "Christian Democrats",
+              "color_code": "#2d338e",
               "seats": 33
             }
           ]
@@ -1629,30 +1667,37 @@
           "party_seats": [
             {
               "party": "Left Party",
+              "color_code": "#b00000",
               "seats": 43
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 131
             },
             {
               "party": "Green Party",
+              "color_code": "#80aa4e",
               "seats": 16
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 17
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 18
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 82
             },
             {
               "party": "Christian Democrats",
+              "color_code": "#2d338e",
               "seats": 42
             }
           ]
@@ -1662,30 +1707,37 @@
           "party_seats": [
             {
               "party": "Left Party",
+              "color_code": "#b00000",
               "seats": 22
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 161
             },
             {
               "party": "Green Party",
+              "color_code": "#80aa4e",
               "seats": 18
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 26
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 27
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 80
             },
             {
               "party": "Christian Democrats",
+              "color_code": "#2d338e",
               "seats": 15
             }
           ]
@@ -1695,30 +1747,37 @@
           "party_seats": [
             {
               "party": "Left Party",
+              "color_code": "#b00000",
               "seats": 16
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 138
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 33
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 31
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 80
             },
             {
               "party": "Christian Democrats",
+              "color_code": "#2d338e",
               "seats": 26
             },
             {
               "party": "New Democracy",
+              "color_code": "#fedf09",
               "seats": 25
             }
           ]
@@ -1728,26 +1787,32 @@
           "party_seats": [
             {
               "party": "Left Party - Communists",
+              "color_code": "#b00000",
               "seats": 21
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 156
             },
             {
               "party": "Green Party",
+              "color_code": "#80aa4e",
               "seats": 20
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 44
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 42
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 66
             }
           ]
@@ -1757,22 +1822,27 @@
           "party_seats": [
             {
               "party": "Left Party - Communists",
+              "color_code": "#b00000",
               "seats": 19
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 159
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 51
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 43
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 76
             }
           ]
@@ -1782,22 +1852,27 @@
           "party_seats": [
             {
               "party": "Left Party - Communists",
+              "color_code": "#b00000",
               "seats": 20
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 166
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 21
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 56
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 86
             }
           ]
@@ -1807,22 +1882,27 @@
           "party_seats": [
             {
               "party": "Left Party - Communists",
+              "color_code": "#b00000",
               "seats": 20
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 154
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 38
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 64
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 73
             }
           ]
@@ -1832,22 +1912,27 @@
           "party_seats": [
             {
               "party": "Left Party - Communists",
+              "color_code": "#b00000",
               "seats": 17
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 152
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 39
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 86
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 55
             }
           ]
@@ -1857,22 +1942,27 @@
           "party_seats": [
             {
               "party": "Left Party - Communists",
+              "color_code": "#b00000",
               "seats": 19
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 156
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 34
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 90
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 51
             }
           ]
@@ -1882,22 +1972,27 @@
           "party_seats": [
             {
               "party": "Left Party - Communists",
+              "color_code": "#b00000",
               "seats": 17
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 163
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 58
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 71
             },
             {
               "party": "Moderate Party",
+              "color_code": "#019cdb",
               "seats": 41
             }
           ]
@@ -1907,22 +2002,27 @@
           "party_seats": [
             {
               "party": "Left Party - Communists",
+              "color_code": "#b00000",
               "seats": 3
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 125
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 34
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 39
             },
             {
               "party": "Rightest Party",
+              "color_code": "#019cdb",
               "seats": 32
             }
           ]
@@ -1932,22 +2032,27 @@
           "party_seats": [
             {
               "party": "Communist Party",
+              "color_code": "#b00000",
               "seats": 8
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 113
-            }
+            },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 43
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 35
             },
             {
               "party": "Rightest Party",
+              "color_code": "#019cdb",
               "seats": 33
             }
           ]
@@ -1957,22 +2062,27 @@
           "party_seats": [
             {
               "party": "Communist Party",
+              "color_code": "#b00000",
               "seats": 5
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 114
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 40
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 34
             },
             {
               "party": "Rightest Party",
+              "color_code": "#019cdb",
               "seats": 39
             }
           ]
@@ -1982,22 +2092,27 @@
           "party_seats": [
             {
               "party": "Communist Party",
+              "color_code": "#b00000",
               "seats": 5
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 111
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 38
             },
             {
               "party": "Center Party",
+              "color_code": "#39944a",
               "seats": 32
             },
             {
               "party": "Rightest Party",
+              "color_code": "#019cdb",
               "seats": 45
             }
           ]
@@ -2007,22 +2122,27 @@
           "party_seats": [
             {
               "party": "Communist Party",
+              "color_code": "#b00000",
               "seats": 6
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 106
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 58
             },
             {
               "party": "Farmer's League",
+              "color_code": "#39944a",
               "seats": 19
             },
             {
               "party": "Rightest Party",
+              "color_code": "#019cdb",
               "seats": 42
             }
           ]
@@ -2032,22 +2152,27 @@
           "party_seats": [
             {
               "party": "Communist Party",
+              "color_code": "#b00000",
               "seats": 5
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 110
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 58
             },
             {
               "party": "Farmer's League",
+              "color_code": "#39944a",
               "seats": 26
             },
             {
               "party": "Rightest Party",
+              "color_code": "#019cdb",
               "seats": 31
             }
           ]
@@ -2057,22 +2182,27 @@
           "party_seats": [
             {
               "party": "Communist Party",
+              "color_code": "#b00000",
               "seats": 8
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 112
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 57
             },
             {
               "party": "Farmer's League",
+              "color_code": "#39944a",
               "seats": 30
             },
             {
               "party": "National Organisation of the Right",
+              "color_code": "#019cdb",
               "seats": 23
             }
           ]
@@ -2082,22 +2212,27 @@
           "party_seats": [
             {
               "party": "Communist Party",
+              "color_code": "#b00000",
               "seats": 15
             },
             {
               "party": "Social Democratic Party",
+              "color_code": "#ed1b34",
               "seats": 115
             },
             {
               "party": "Liberals",
+              "color_code": "#0069b4",
               "seats": 26
             },
             {
               "party": "Farmer's League",
+              "color_code": "#39944a",
               "seats": 35
             },
             {
               "party": "National Organisation of the Right",
+              "color_code": "#019cdb",
               "seats": 39
             }
           ]
