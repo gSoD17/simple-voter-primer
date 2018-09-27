@@ -10,6 +10,8 @@ import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
 })
 export class ElectionSeatsPage {
 
+  electionSeatsData: any;
+
   // public doughnutChartLabels: string[] = [];
   // public doughnutChartData: number[] = [];
   // public doughnutChartType: string = 'doughnut';
@@ -41,6 +43,17 @@ export class ElectionSeatsPage {
     public navParams: NavParams,
     public dataFetch: DataFetcherProvider
     ) {
+  }
+
+  ionViewWillEnter() {
+
+    this.dataFetch.fetchLocalData()
+      .subscribe(data=> {
+        data.forEach(countryData => {
+          this.electionSeatsData = countryData.government.political_parties_election_seats
+        })
+      })
+
   }
 
   // ionViewWillEnter() {

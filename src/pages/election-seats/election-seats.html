@@ -11,6 +11,18 @@
 
   <ion-grid>
 
+    <ion-row>
+      <ion-col col-12>
+        <ion-list>
+          <button ion-item
+          *ngFor="let info of electionSeatsData"
+          text-center>
+            {{info.year}}
+          </button>
+        </ion-list>
+      </ion-col>
+    </ion-row>
+
     <!-- <ion-row>
       <ion-col col-12>
           <canvas baseChart 
