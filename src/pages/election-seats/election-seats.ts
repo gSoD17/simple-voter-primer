@@ -56,6 +56,10 @@ export class ElectionSeatsPage {
 
   }
 
+  gotoChartsPage(data) {
+    this.navCtrl.push('ElectionSeatsChartsPage', { dataLink: data })
+  }
+
   // ionViewWillEnter() {
 
   //   let seatsData = [];
