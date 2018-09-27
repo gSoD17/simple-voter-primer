@@ -22,16 +22,23 @@ export class ElectionSeatsChartsPage {
 
       let chartData = [];
       let chartLabels = [];
+      let chartColors = [
+        {
+          backgroundColor: []
+        }
+      ]
 
       this.seatsLink = this.navParams.get('dataLink');
       this.seatsLink.forEach(data => {
         chartData.push(data.seats);
         chartLabels.push(data.party);
+        chartColors[0].backgroundColor.push(data.color_code)
       })
 
       console.log(chartLabels)
       this.doughNutChartLabels = chartLabels;
       this.doughnutChartData = chartData;
+      this.doughnutChartColors = chartColors;
   }
 
   // Chart Click Events
