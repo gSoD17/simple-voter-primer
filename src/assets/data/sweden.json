@@ -464,6 +464,10 @@
             {
               "year": 2018,
               "seats": 31
+            },
+            {
+              "year": 2014,
+              "seats": 22
             }
           ],
           "note": "Centerpartiet"
@@ -603,6 +607,10 @@
             {
               "year": 2018,
               "seats": 22
+            },
+            {
+              "year": 2014,
+              "seats": 16
             }
           ],
           "note": "Kristdemokraterna"
@@ -744,6 +752,10 @@
             {
               "year": 2018,
               "seats": 16
+            },
+            {
+              "year": 2014,
+              "seats": 25
             }
           ],
           "note": "Miljopartiet de Grona"
@@ -886,6 +898,10 @@
             {
               "year": 2018,
               "seats": 28
+            },
+            {
+              "year": 2014,
+              "seats": 21
             }
           ],
           "note": "Vansterpartiet"
@@ -1050,6 +1066,10 @@
             {
               "year": 2018,
               "seats": 20
+            },
+            {
+              "year": 2014,
+              "seats": 19
             }
           ],
           "note": "Liberalerna"
@@ -1199,6 +1219,10 @@
             {
               "year": 2018,
               "seats": 70
+            },
+            {
+              "year": 2014,
+              "seats": 84
             }
           ],
           "note": "Moderaterna"
@@ -1352,6 +1376,10 @@
             {
               "year": 2018,
               "seats": 100
+            },
+            {
+              "year": 2014,
+              "seats": 113
             }
           ],
           "note": "Socialdemokraterna"
@@ -1489,6 +1517,10 @@
             {
               "year": 2018,
               "seats": 62
+            },
+            {
+              "year": 2014,
+              "seats": 49
             }
           ],
           "note": "Sverigedemokraterna"

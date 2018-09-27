@@ -21,9 +21,10 @@ export class HomePage {
 
   ionViewDidLoad() {
     
-    this.dataFetch.fetchLocalData().subscribe(data => {
-      this.countryData = data;
-    })
+    this.dataFetch.fetchLocalData()
+      .subscribe(data => {
+        this.countryData = data;
+      })
     
   }
 

@@ -10,7 +10,8 @@ export class PartyPositionModalPage {
 
   stanceLink: {}[];
 
-  constructor(public navCtrl: NavController, 
+  constructor(
+    public navCtrl: NavController, 
     public navParams: NavParams,
     public viewCtrl: ViewController
     ) {

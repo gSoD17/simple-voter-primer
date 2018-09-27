@@ -22,9 +22,10 @@ export class PartiesPage {
 
   ionViewDidLoad() {
 
-    this.dataFetch.fetchLocalData().subscribe(data => {
-      this.countryData = data;
-    })
+    this.dataFetch.fetchLocalData()
+      .subscribe(data => {
+        this.countryData = data;
+      })
 
   }
 
