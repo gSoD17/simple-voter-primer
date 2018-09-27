@@ -10,11 +10,37 @@ export class ElectionSeatsChartsPage {
 
   seatsLink: any;
 
+  public doughNutChartLabels: string[] = [];
+  public doughnutChartData: number[] = [];
+  public doughnutChartColors: Array<any> = [];
+  public doughnutChartType: string = 'doughnut';
+
   constructor(
     public navCtrl: NavController, 
     public navParams: NavParams
     ) {
-      this.seatsLink = this.navParams.get('dataLink')
+
+      let chartData = [];
+      let chartLabels = [];
+
+      this.seatsLink = this.navParams.get('dataLink');
+      this.seatsLink.forEach(data => {
+        chartData.push(data.seats);
+        chartLabels.push(data.party);
+      })
+
+      console.log(chartLabels)
+      this.doughNutChartLabels = chartLabels;
+      this.doughnutChartData = chartData;
+  }
+
+  // Chart Click Events
+  public chartClicked(event: any):void {
+    console.log(event);
+  }
+
+  public chartHovered(event: any):void {
+    console.log(event)
   }
 
 }

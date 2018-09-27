@@ -12,11 +12,18 @@
   <ion-grid>
     <ion-row>
       <ion-col col-12>
-        <p *ngFor="let infos of seatsLink">
-          {{infos.party}}
-          {{infos.seats}}
-        </p>
-        <!-- <canvas baseChart></canvas> -->
+
+        <canvas baseChart 
+          *ngIf="doughnutChartData.length > 0"
+
+          width="25vh" height="25vh"
+          [data]="doughnutChartData"
+          [labels]="doughnutChartLabels"
+          [chartType]="doughnutChartType"
+          (chartHover)="chartHovered($event)"
+          (chartClick)="chartClicked($event)"
+        ></canvas>
+
       </ion-col>
     </ion-row>
   </ion-grid>
