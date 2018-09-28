@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { NavController, IonicPage } from 'ionic-angular';
+import { NavController, IonicPage, } from 'ionic-angular';
 
 import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
 
@@ -15,15 +15,17 @@ export class HomePage {
   constructor(
     public navCtrl: NavController, 
     public dataFetch: DataFetcherProvider
-    ) {
+    ) {  
+      this.dataFetch.fetchLocalData()
 
   }
 
   ionViewDidLoad() {
     
-    this.dataFetch.fetchLocalData()
+    this.dataFetch.countryGetter
       .subscribe(data => {
         this.countryData = data;
+        console.log(this.countryData, "sdfg")
       })
     
   }
