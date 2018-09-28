@@ -10,7 +10,7 @@ export class ElectionSeatsChartsPage {
 
   seatsLink: any;
 
-  public doughNutChartLabels: string[] = [];
+  public doughnutChartLabels: string[] = [];
   public doughnutChartData: number[] = [];
   public doughnutChartColors: Array<any> = [];
   public doughnutChartType: string = 'doughnut';
@@ -35,19 +35,16 @@ export class ElectionSeatsChartsPage {
         chartColors[0].backgroundColor.push(data.color_code)
       })
 
-      console.log(chartLabels)
-      this.doughNutChartLabels = chartLabels;
+      this.doughnutChartLabels = chartLabels;
       this.doughnutChartData = chartData;
       this.doughnutChartColors = chartColors;
   }
 
   // Chart Click Events
-  public chartClicked(event: any):void {
-    console.log(event);
+  public chartClicked():void {
   }
 
-  public chartHovered(event: any):void {
-    console.log(event)
+  public chartHovered():void {
   }
 
 }
