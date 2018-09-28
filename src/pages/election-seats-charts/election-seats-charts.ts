@@ -29,7 +29,7 @@ export class ElectionSeatsChartsPage {
       ]
 
       this.seatsLink = this.navParams.get('dataLink');
-      this.seatsLink.forEach(data => {
+      this.seatsLink.reverse().forEach(data => {
         chartData.push(data.seats);
         chartLabels.push(data.party);
         chartColors[0].backgroundColor.push(data.color_code)

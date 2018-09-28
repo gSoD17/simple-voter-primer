@@ -50,7 +50,7 @@ export class ElectionSeatsPage {
     this.dataFetch.fetchLocalData()
       .subscribe(data=> {
         data.forEach(countryData => {
-          this.electionSeatsData = countryData.government.political_parties_election_seats
+          this.electionSeatsData = countryData.government.political_parties_election_seats;
         })
       })
 
