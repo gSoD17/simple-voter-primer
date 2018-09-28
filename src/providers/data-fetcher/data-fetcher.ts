@@ -15,10 +15,9 @@ export class DataFetcherProvider {
 
     this.http.get<any[]>(this.filePath)
       .subscribe(data => {
-
         this.countryGetter.next(data)
-        //console.log(data)
       });
+
   }
 
 }

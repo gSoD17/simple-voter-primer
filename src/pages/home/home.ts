@@ -20,12 +20,12 @@ export class HomePage {
 
   }
 
-  ionViewDidLoad() {
+  ionViewWillEnter() {
     
     this.dataFetch.countryGetter
       .subscribe(data => {
         this.countryData = data;
-        console.log(this.countryData, "sdfg")
+        console.log(this.countryData)
       })
     
   }

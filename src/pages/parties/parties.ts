@@ -20,7 +20,7 @@ export class PartiesPage {
 
   }
 
-  ionViewDidLoad() {
+  ionViewWillEnter() {
 
     this.dataFetch.countryGetter
       .subscribe(data => {
