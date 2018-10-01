@@ -25,7 +25,6 @@ export class HomePage {
     this.dataFetch.countryGetter
       .subscribe(data => {
         this.countryData = data;
-        console.log(this.countryData)
       })
     
   }
