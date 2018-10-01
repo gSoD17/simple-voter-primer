@@ -30,6 +30,7 @@ export class ElectionSeatsChartsPage {
           }
         }
       },
+      legend: { position: 'bottom' }
     }
   };
   public doughnutChartType: string = 'doughnut';
