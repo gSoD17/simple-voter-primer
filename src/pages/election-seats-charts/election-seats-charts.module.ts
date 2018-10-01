@@ -3,6 +3,8 @@ import { IonicPageModule } from 'ionic-angular';
 import { ElectionSeatsChartsPage } from './election-seats-charts';
 import { ChartsModule } from 'ng2-charts';
 
+import 'chartjs-plugin-labels';
+
 @NgModule({
   declarations: [
     ElectionSeatsChartsPage,
