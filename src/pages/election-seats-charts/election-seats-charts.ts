@@ -13,6 +13,25 @@ export class ElectionSeatsChartsPage {
   public doughnutChartLabels: string[] = [];
   public doughnutChartData: number[] = [];
   public doughnutChartColors: Array<any> = [];
+  public ChartOptions: any = {
+    options: {
+      tooltips: {
+        enabled: true,
+        callbacks: {
+          label: (tooltipItem, data) => {
+            let dataset = data.datasets[tooltipItem.datasetIndex];
+            let total = dataset.data.reduce((previousValue, currentValue) => {
+              return previousValue + currentValue;
+            });
+  
+            let currentValue = dataset.data[tooltipItem.index];
+            let percentage = Math.floor(((currentValue / total) * 100) + 0.5)
+            return percentage + '% of parliamentary seats';
+          }
+        }
+      },
+    }
+  };
   public doughnutChartType: string = 'doughnut';
 
   constructor(

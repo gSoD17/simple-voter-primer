@@ -1,7 +1,7 @@
 <ion-header>
 
-  <ion-navbar>
-    <ion-title>election-seats-charts</ion-title>
+  <ion-navbar text-center>
+    <ion-title>Seats After Election</ion-title>
   </ion-navbar>
 
 </ion-header>
@@ -21,6 +21,7 @@
           [labels]="doughnutChartLabels"
           [colors]="doughnutChartColors"
           [chartType]="doughnutChartType"
+          [options]="ChartOptions.options" 
           (chartHover)="chartHovered($event)"
           (chartClick)="chartClicked($event)"
         ></canvas>
