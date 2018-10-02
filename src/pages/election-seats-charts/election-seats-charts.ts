@@ -34,7 +34,9 @@ export class ElectionSeatsChartsPage {
           fontColor: '#ffffff',
           fontStyle: 'bold'
         }
-      }
+      },
+      rotation: 1 * Math.PI,
+      circumference: 1 * Math.PI
     }
   };
   public doughnutChartType: string = 'doughnut';
@@ -53,7 +55,7 @@ export class ElectionSeatsChartsPage {
       ]
 
       this.seatsLink = this.navParams.get('dataLink');
-      this.seatsLink.reverse().forEach(data => {
+      this.seatsLink.forEach(data => {
         chartData.push(data.seats);
         chartLabels.push(data.party);
         chartColors[0].backgroundColor.push(data.color_code)
