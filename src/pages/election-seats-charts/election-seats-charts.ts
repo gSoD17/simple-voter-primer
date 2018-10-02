@@ -10,6 +10,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 export class ElectionSeatsChartsPage {
 
   seatsLink: any;
+  selectedYear: string;
 
   public doughnutChartLabels: string[] = [];
   public doughnutChartData: number[] = [];
