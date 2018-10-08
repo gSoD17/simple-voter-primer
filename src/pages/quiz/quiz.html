@@ -1,12 +1,26 @@
 <ion-header>
 
-  <ion-navbar>
-    <ion-title>quiz</ion-title>
+  <ion-navbar text-center>
+    <ion-title>Quiz</ion-title>
   </ion-navbar>
 
 </ion-header>
 
 
 <ion-content padding>
+
+  <ion-slides>
+    <ion-slide *ngFor="let data of quizData">
+      <h2>Question {{data.questionNumber}}</h2>
+      <p>{{data.statement}}</p>
+
+      <ion-list no-lines radio-group>
+        <ion-item *ngFor="let selection of data.responses">
+          <ion-radio></ion-radio>
+          <ion-label>{{selection.answer}}</ion-label>
+        </ion-item>
+      </ion-list>
+    </ion-slide>
+  </ion-slides>
 
 </ion-content>

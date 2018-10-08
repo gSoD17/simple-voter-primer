@@ -254,7 +254,7 @@
     {
         "questionNumber": 22,
         "axesType": "Economic-Left-Right",
-        "statement": "There should be extra taxes levied on large fortunes and speculative trading.",
+        "statement": "There should be extra taxes levied on large fortunes.",
         "responses": [
             {"answer": "Strongly Agree", "value": -2, "selected": false},
             {"answer": "Agree", "value": -1, "selected": false},

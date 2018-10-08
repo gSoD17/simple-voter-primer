@@ -11,7 +11,6 @@ import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
 export class ElectionSeatsPage {
 
   electionSeatsData: any;
-  countryData: any;
 
   constructor(
     public navCtrl: NavController, 

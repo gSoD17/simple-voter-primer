@@ -9,7 +9,6 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 export class MyApp {
   
   rootPage:any = 'TabsPage';
-  countryData: any
 
   constructor(
     platform: Platform, 
