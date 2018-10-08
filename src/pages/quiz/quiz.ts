@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
@@ -9,6 +9,8 @@ import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
   templateUrl: 'quiz.html',
 })
 export class QuizPage {
+
+  @ViewChild('slides') slides: any
 
   quizData: any
 
@@ -25,5 +27,11 @@ export class QuizPage {
       .subscribe(data => this.quizData = data)
 
   }
+
+  // startSlides() {
+  //   this.slides.lockSwipes(false);        
+  //   this.slides.slideNext();
+  //   this.slides.lockSwipes(true);
+  // }
 
 }

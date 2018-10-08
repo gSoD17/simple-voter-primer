@@ -10,6 +10,10 @@
 <ion-content padding>
 
   <ion-slides>
+    <ion-slide>
+      <button ion-button color="primary">Go To Quiz</button>
+    </ion-slide>
+
     <ion-slide *ngFor="let data of quizData">
       <h2>Question {{data.questionNumber}}</h2>
       <p>{{data.statement}}</p>
