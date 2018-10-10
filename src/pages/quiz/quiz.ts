@@ -13,7 +13,16 @@ export class QuizPage {
   @ViewChild('slides') slides: any;
 
   quizData: any;
-  choice: any;
+  selection: number;
+
+  someArray = []
+
+  mockChartInput = [
+    {
+      x: null,
+      y: null
+    }
+  ]
 
   constructor(
     public navCtrl: NavController, 
@@ -30,11 +39,31 @@ export class QuizPage {
 
   }
 
+  startQuiz() {
+    this.slides.lockSwipes(false);        
+    this.slides.slideNext();
+    this.slides.lockSwipes(true);
+  }
+
   nextSlide() {
     this.slides.lockSwipes(false);        
     this.slides.slideNext();
     this.slides.lockSwipes(true);
-    console.log(this.choice)
+
+    this.someArray.push(this.selection)
+    this.selection = null;
+    console.log(this.someArray)
+  }
+
+  submit() {
+    let result = this.someArray
+      .map(v => parseInt(v, 10))
+      .reduce((acc, curr) => {
+        return acc + curr;
+      }, 0)
+
+    this.mockChartInput[0].x = result
+    console.log(this.mockChartInput)
   }
 
 }

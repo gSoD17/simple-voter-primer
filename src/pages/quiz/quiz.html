@@ -11,17 +11,17 @@
 
   <ion-slides #slides>
     <ion-slide>
-      <button ion-button color="primary" (click)="nextSlide()">Go To Quiz</button>
+      <button ion-button color="primary" (click)="startQuiz()">Go To Quiz</button>
     </ion-slide>
 
     <ion-slide *ngFor="let data of quizData">
       <h5>Question {{data.questionNumber}}</h5>
       <p>{{data.statement}}</p>
 
-      <ion-list no-lines radio-group [(ngModel)]="choice">
-        <ion-item *ngFor="let selection of data.responses">
-          <ion-radio value="{{selection.value}}"></ion-radio>
-          <ion-label>{{selection.answer}}</ion-label>
+      <ion-list no-lines radio-group [(ngModel)]="selection">
+        <ion-item *ngFor="let answerSelection of data.responses">
+          <ion-radio value="{{answerSelection.value}}"></ion-radio>
+          <ion-label>{{answerSelection.answer}}</ion-label>
         </ion-item>
       </ion-list>
       <button ion-button color="primary" (click)="nextSlide()">Next</button>
@@ -29,7 +29,7 @@
 
     
     <ion-slide>
-        <button ion-button color="primary">Submit</button>
+        <button ion-button color="primary" (click)="submit()">Submit</button>
     </ion-slide>
   </ion-slides>
 
