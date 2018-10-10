@@ -134,7 +134,7 @@
     {
         "questionNumber": 12,
         "axesType": "Economic-Left-Right",
-        "statement": "Education should not be treated like a private business, therefore it is necessary to introduce stronger profit constraints on private entities operating within our education services.",
+        "statement": "It is necessary to introduce stronger profit constraints on private entities operating within our education services.",
         "responses": [
             {"answer": "Strongly Agree", "value": -2, "selected": false},
             {"answer": "Agree", "value": -1, "selected": false},
@@ -194,7 +194,7 @@
     {
         "questionNumber": 17,
         "axesType": "Economic-Left-Right",
-        "statement": "A green tax shift is necessary for a sustainable society through lower taxes on jobs and work with higher taxes on environemtnally damaging activities.",
+        "statement": "There should be a green tax shift that lowers taxes on work and increases taxes on environmentally damaging activities.",
         "responses": [
             {"answer": "Strongly Agree", "value": -2, "selected": false},
             {"answer": "Agree", "value": -1, "selected": false},

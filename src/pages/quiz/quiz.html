@@ -9,21 +9,27 @@
 
 <ion-content padding>
 
-  <ion-slides>
+  <ion-slides #slides>
     <ion-slide>
-      <button ion-button color="primary">Go To Quiz</button>
+      <button ion-button color="primary" (click)="nextSlide()">Go To Quiz</button>
     </ion-slide>
 
     <ion-slide *ngFor="let data of quizData">
-      <h2>Question {{data.questionNumber}}</h2>
+      <h5>Question {{data.questionNumber}}</h5>
       <p>{{data.statement}}</p>
 
-      <ion-list no-lines radio-group>
+      <ion-list no-lines radio-group [(ngModel)]="choice">
         <ion-item *ngFor="let selection of data.responses">
-          <ion-radio></ion-radio>
+          <ion-radio value="{{selection.value}}"></ion-radio>
           <ion-label>{{selection.answer}}</ion-label>
         </ion-item>
       </ion-list>
+      <button ion-button color="primary" (click)="nextSlide()">Next</button>
+    </ion-slide>
+
+    
+    <ion-slide>
+        <button ion-button color="primary">Submit</button>
     </ion-slide>
   </ion-slides>
 
