@@ -11,6 +11,7 @@
 
   <ion-slides #slides>
     <ion-slide>
+      <p>placeholder text</p>
       <button ion-button color="primary" (click)="startQuiz()">Go To Quiz</button>
     </ion-slide>
 
@@ -24,6 +25,7 @@
           <ion-label>{{answerSelection.answer}}</ion-label>
         </ion-item>
       </ion-list>
+      <button ion-button color="primary" (click)="previousSlide()">Go Back</button>
       <button ion-button color="primary" (click)="nextSlide()">Next</button>
     </ion-slide>
 

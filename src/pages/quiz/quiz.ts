@@ -15,7 +15,7 @@ export class QuizPage {
   quizData: any;
   selection: number;
 
-  someArray = []
+  authLibScoreArray = [];
 
   mockChartInput = [
     {
@@ -45,18 +45,32 @@ export class QuizPage {
     this.slides.lockSwipes(true);
   }
 
-  nextSlide() {
-    this.slides.lockSwipes(false);        
-    this.slides.slideNext();
-    this.slides.lockSwipes(true);
+  nextSlide() {      
+    if(!this.selection) {
+      this.slides.lockSwipes(true)
+    }
+    else if(this.selection) {
+      this.slides.lockSwipes(false);  
+      this.slides.slideNext();
 
-    this.someArray.push(this.selection)
-    this.selection = null;
-    console.log(this.someArray)
+      this.authLibScoreArray.push(this.selection)
+      this.selection = null;
+    }
+    
+    console.log(this.authLibScoreArray)
+  }
+
+  previousSlide() {
+    this.slides.lockSwipes(false);  
+    this.slides.slidePrev();
+    this.slides.lockSwipes(true)
+
+    this.authLibScoreArray.splice(-1, 1);
+    console.log(this.authLibScoreArray);
   }
 
   submit() {
-    let result = this.someArray
+    let result = this.authLibScoreArray
       .map(v => parseInt(v, 10))
       .reduce((acc, curr) => {
         return acc + curr;
