@@ -57,6 +57,7 @@ export class QuizPage {
       this.selection = null;
     }
     
+    this.slides.lockSwipes(true)
     console.log(this.authLibScoreArray)
   }
 
