@@ -20,13 +20,29 @@
       <p>{{data.statement}}</p>
 
       <ion-list no-lines radio-group [(ngModel)]="selection">
-        <ion-item *ngFor="let answerSelection of data.responses">
-          <ion-radio value="{{answerSelection.value}}"></ion-radio>
-          <ion-label>{{answerSelection.answer}}</ion-label>
+        <ion-item>
+          <ion-radio value=2></ion-radio>
+          <ion-label>Strongly Agree</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-radio value=1></ion-radio>
+          <ion-label>Agree</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-radio value=0></ion-radio>
+          <ion-label>Neutral / Not Sure</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-radio value=-2></ion-radio>
+          <ion-label>Disagree</ion-label>
+        </ion-item>
+        <ion-item>
+          <ion-radio value=1></ion-radio>
+          <ion-label>Strongly Disagree</ion-label>
         </ion-item>
       </ion-list>
-      <button ion-button color="primary" (click)="previousSlide()">Go Back</button>
-      <button ion-button color="primary" (click)="nextSlide()">Next</button>
+      <button ion-button color="primary" (click)="previousSlide(data)">Go Back</button>
+      <button ion-button color="primary" (click)="nextSlide(data)">Next</button>
     </ion-slide>
 
     

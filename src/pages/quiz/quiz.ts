@@ -16,6 +16,7 @@ export class QuizPage {
   selection: number;
 
   authLibScoreArray = [];
+  leftRightScoreArray = [];
 
   mockChartInput = [
     {
@@ -35,7 +36,7 @@ export class QuizPage {
     this.slides.lockSwipes(true);
 
     this.dataFetch.fetchQuizData()
-      .subscribe(data => this.quizData = data)
+      .subscribe(data => this.quizData = data);
 
   }
 
@@ -45,29 +46,44 @@ export class QuizPage {
     this.slides.lockSwipes(true);
   }
 
-  nextSlide() {      
+  nextSlide(quizData) {      
     if(!this.selection) {
-      this.slides.lockSwipes(true)
+      this.slides.lockSwipes(true);
     }
-    else if(this.selection) {
+    else if(this.selection && quizData.axesType === 'Authoritarian-Libertarian') {
       this.slides.lockSwipes(false);  
       this.slides.slideNext();
 
-      this.authLibScoreArray.push(this.selection)
+      this.authLibScoreArray.push(this.selection);
       this.selection = null;
     }
+    else if(this.selection && quizData.axesType === 'Economic-Left-Right') {
+      this.slides.lockSwipes(false);
+      this.slides.slideNext();
+
+      this.leftRightScoreArray.push(this.selection);
+      this.selection = null
+    }
     
-    this.slides.lockSwipes(true)
-    console.log(this.authLibScoreArray)
+    this.slides.lockSwipes(true);
+    console.log(this.authLibScoreArray);
+    console.log(this.leftRightScoreArray);
   }
 
-  previousSlide() {
+  previousSlide(quizData) {
     this.slides.lockSwipes(false);  
     this.slides.slidePrev();
-    this.slides.lockSwipes(true)
+    this.slides.lockSwipes(true);
 
-    this.authLibScoreArray.splice(-1, 1);
+    if(quizData.axesType === 'Authoritarian-Libertarian') {
+      this.authLibScoreArray.splice(-1, 1);
+    }
+    else if(quizData.axesType === 'Economic-Left-Right') {
+      this.leftRightScoreArray.splice(-1, 1);
+    }
+
     console.log(this.authLibScoreArray);
+    console.log(this.leftRightScoreArray);
   }
 
   submit() {
@@ -75,10 +91,10 @@ export class QuizPage {
       .map(v => parseInt(v, 10))
       .reduce((acc, curr) => {
         return acc + curr;
-      }, 0)
+      }, 0);
 
-    this.mockChartInput[0].x = result
-    console.log(this.mockChartInput)
+    this.mockChartInput[0].x = result;
+    console.log(this.mockChartInput);
   }
 
 }
