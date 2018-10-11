@@ -87,13 +87,20 @@ export class QuizPage {
   }
 
   submit() {
-    let result = this.authLibScoreArray
+    let resultXAxis = this.leftRightScoreArray
       .map(v => parseInt(v, 10))
       .reduce((acc, curr) => {
         return acc + curr;
       }, 0);
 
-    this.mockChartInput[0].x = result;
+    let resultYAxis = this.authLibScoreArray
+      .map(v => parseInt(v, 10))
+      .reduce((acc, curr) => {
+        return acc + curr;
+      }, 0);
+
+    this.mockChartInput[0].x = resultXAxis;
+    this.mockChartInput[0].y = resultYAxis;
     console.log(this.mockChartInput);
   }
 
