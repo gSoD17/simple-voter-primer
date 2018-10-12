@@ -1,5 +1,5 @@
 import { Component, ViewChild } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { IonicPage, NavController, NavParams, ModalController } from 'ionic-angular';
 
 import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
 
@@ -28,7 +28,8 @@ export class QuizPage {
   constructor(
     public navCtrl: NavController, 
     public navParams: NavParams,
-    public dataFetch: DataFetcherProvider
+    public dataFetch: DataFetcherProvider,
+    public modalCtrl: ModalController
     ) {
   }
 
@@ -105,6 +106,8 @@ export class QuizPage {
   }
 
   submit() {
+    let quizChartModal = this.modalCtrl.create('QuizResultChartModalPage');
+
     let resultXAxis = this.leftRightScoreArray
       .reduce((acc, curr) => {
         return acc + curr;
@@ -118,6 +121,8 @@ export class QuizPage {
     this.mockChartInput[0].x = resultXAxis;
     this.mockChartInput[0].y = resultYAxis;
     console.log(this.mockChartInput);
+
+    quizChartModal.present();
   }
 
 }
