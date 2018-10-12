@@ -3,336 +3,168 @@
         "questionNumber": 1,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Countries do not have the right to choose their residents but that people have the right to choose where they live.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 2,
         "axesType": "Authoritarian-Libertarian",
         "statement": "It should be the norm that those seeking asylum should receive a permanent residence permit.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 3,
         "axesType": "Authoritarian-Libertarian",
         "statement": "We should incentivize migrants currently residing in the country to leave.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 4,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Sweden is better off having an open immigration policy that encourages more people to come here to work and study.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 5,
         "axesType": "Authoritarian-Libertarian",
         "statement": "It is preferable to have a more regulated immigration policy that balances national concerns with humanitarian concerns.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 6,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Immigrants and asylum seekers should have the same access to welfare benefits as native Swedes.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 7,
         "axesType": "Economic-Left-Right",
         "statement": "So long as our healthcare remains universal, there is nothing wrong with having private health comapnies operating within our health services.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 8,
         "axesType": "Economic-Left-Right",
         "statement": "Private, for-profit companies operating within our health services should be banned.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 9,
         "axesType": "Authoritarian-Libertarian",
         "statement": "We should end the practice of giving free medical and dental care to illegal immigrants.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 10,
         "axesType": "Economic-Left-Right",
         "statement": "Rules for healthcare should also apply to dental care in order for everyone to have universal dental coverage.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 11,
         "axesType": "Economic-Left-Right",
-        "statement": "Charter schools improve our education system by allowing parents greater freedom of choice.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "statement": "We should continue to have charter schools in our education service.",
+        "flipResponseValues": true
     },
     {
         "questionNumber": 12,
         "axesType": "Economic-Left-Right",
-        "statement": "It is necessary to introduce stronger profit constraints on private entities operating within our education services.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "statement": "It is necessary to introduce stronger profit constraints on private entities operating within our education service.",
+        "flipResponseValues": false
     },
     {
         "questionNumber": 13,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Niqabs should be banned from schools.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 14,
         "axesType": "Authoritarian-Libertarian",
         "statement": "It is important that the central government take back responsibility of managing our schools from municipalities.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 15,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Education should emphasize more on teaching traditional Swedish values and order.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 16,
         "axesType": "Economic-Left-Right",
         "statement": "Protecting the environment should take precedence over a business' profit interests.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 17,
         "axesType": "Economic-Left-Right",
         "statement": "There should be a green tax shift that lowers taxes on work and increases taxes on environmentally damaging activities.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 18,
         "axesType": "Authoritarian-Libertarian",
         "statement": "It is necessary that there should be a zero-tolernce policy towards crime. including minor crimes.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 19,
         "axesType": "Authoritarian-Libertarian",
         "statement": "There should be greater civic oversight and diversity within our police services.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 20,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Begging should be banned.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 21,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Police should have greater access to camera surveillance.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 22,
         "axesType": "Economic-Left-Right",
         "statement": "There should be extra taxes levied on large fortunes.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 23,
         "axesType": "Economic-Left-Right",
         "statement": "There should be an additional air tax on travel to protect the environment.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 24,
         "axesType": "Economic-Left-Right",
         "statement": "There should be a bank tax.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 25,
         "axesType": "Economic-Left-Right",
         "statement": "We should allow for the creation of entry-level jobs at 70% of normal pay.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 26,
         "axesType": "Economic-Left-Right",
         "statement": "We need to encourage more entrepreneurship through streamlining regulations and lower taxes.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": true
     },
     {
         "questionNumber": 27,
         "axesType": "Economic-Left-Right",
         "statement": "The working day should be lowered from 8 hours to 6 hours.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": -2, "selected": false},
-            {"answer": "Agree", "value": -1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": 1, "selected": false},
-            {"answer": "Strongly Disagree", "value": 2, "selected": false}
-        ]
+        "flipResponseValues": false
     },
     {
         "questionNumber": 28,
         "axesType": "Economic-Left-Right",
         "statement": "The retirement age should be raised from 61 to 63.",
-        "responses": [
-            {"answer": "Strongly Agree", "value": 2, "selected": false},
-            {"answer": "Agree", "value": 1, "selected": false},
-            {"answer": "Neutral/Not Sure", "value": 0, "selected": false},
-            {"answer": "Disagree", "value": -1, "selected": false},
-            {"answer": "Strongly Disagree", "value": -2, "selected": false}
-        ]
+        "flipResponseValues": false
     }
 ]

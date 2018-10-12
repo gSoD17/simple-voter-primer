@@ -51,18 +51,36 @@ export class QuizPage {
       this.slides.lockSwipes(true);
     }
     else if(this.selection && quizData.axesType === 'Authoritarian-Libertarian') {
-      this.slides.lockSwipes(false);  
-      this.slides.slideNext();
+      if(quizData.flipResponseValues === true) {
+        this.slides.lockSwipes(false);  
+        this.slides.slideNext();
 
-      this.authLibScoreArray.push(this.selection);
-      this.selection = null;
+        this.authLibScoreArray.push(this.selection * -1);
+        this.selection = null;
+      }
+      else {
+        this.slides.lockSwipes(false);
+        this.slides.slideNext();
+
+        this.authLibScoreArray.push(this.selection * 1);
+        this.selection = null;
+      }
     }
     else if(this.selection && quizData.axesType === 'Economic-Left-Right') {
-      this.slides.lockSwipes(false);
-      this.slides.slideNext();
+      if(quizData.flipResponseValues === true) {
+        this.slides.lockSwipes(false);
+        this.slides.slideNext();
 
-      this.leftRightScoreArray.push(this.selection);
-      this.selection = null
+        this.leftRightScoreArray.push(this.selection * -1);
+        this.selection = null;
+      }
+      else {
+        this.slides.lockSwipes(false);
+        this.slides.slideNext();
+  
+        this.leftRightScoreArray.push(this.selection * 1);
+        this.selection = null
+      }
     }
     
     this.slides.lockSwipes(true);
@@ -88,13 +106,11 @@ export class QuizPage {
 
   submit() {
     let resultXAxis = this.leftRightScoreArray
-      .map(v => parseInt(v, 10))
       .reduce((acc, curr) => {
         return acc + curr;
       }, 0);
 
     let resultYAxis = this.authLibScoreArray
-      .map(v => parseInt(v, 10))
       .reduce((acc, curr) => {
         return acc + curr;
       }, 0);
