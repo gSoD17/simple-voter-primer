@@ -80,7 +80,7 @@ export class QuizPage {
         this.slides.slideNext();
   
         this.leftRightScoreArray.push(this.selection * 1);
-        this.selection = null
+        this.selection = null;
       }
     }
     
@@ -106,8 +106,6 @@ export class QuizPage {
   }
 
   submit() {
-    let quizChartModal = this.modalCtrl.create('QuizResultChartModalPage');
-
     let resultXAxis = this.leftRightScoreArray
       .reduce((acc, curr) => {
         return acc + curr;
@@ -117,6 +115,8 @@ export class QuizPage {
       .reduce((acc, curr) => {
         return acc + curr;
       }, 0);
+
+    let quizChartModal = this.modalCtrl.create('QuizResultChartModalPage', {resultLink1: resultXAxis, resultLink2: resultYAxis});
 
     this.mockChartInput[0].x = resultXAxis;
     this.mockChartInput[0].y = resultYAxis;
