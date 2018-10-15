@@ -20,19 +20,19 @@
     {
         "questionNumber": 4,
         "axesType": "Authoritarian-Libertarian",
-        "statement": "Sweden is better off having an open immigration policy that encourages more people to come here to work and study.",
+        "statement": "Continuing our open migration policy makes Sweden a better country.",
         "flipResponseValues": false
     },
     {
         "questionNumber": 5,
         "axesType": "Authoritarian-Libertarian",
-        "statement": "It is preferable to have a more regulated immigration policy that balances national concerns with humanitarian concerns.",
+        "statement": "Further regulating Sweden's current migration policy to align with national interests is needed.",
         "flipResponseValues": true
     },
     {
         "questionNumber": 6,
         "axesType": "Authoritarian-Libertarian",
-        "statement": "Immigrants and asylum seekers should have the same access to welfare benefits as native Swedes.",
+        "statement": "Immigrants and asylum seekers should be able to access welfare benefits.",
         "flipResponseValues": false
     },
     {
@@ -56,7 +56,7 @@
     {
         "questionNumber": 10,
         "axesType": "Economic-Left-Right",
-        "statement": "Rules for healthcare should also apply to dental care in order for everyone to have universal dental coverage.",
+        "statement": "Current rules which makes healthcare universal, should also apply to dental care.",
         "flipResponseValues": false
     },
     {
@@ -86,7 +86,7 @@
     {
         "questionNumber": 15,
         "axesType": "Authoritarian-Libertarian",
-        "statement": "Education should emphasize more on teaching traditional Swedish values and order.",
+        "statement": "Education should emphasize more on teaching traditional Swedish values.",
         "flipResponseValues": true
     },
     {
@@ -110,7 +110,7 @@
     {
         "questionNumber": 19,
         "axesType": "Authoritarian-Libertarian",
-        "statement": "There should be greater civic oversight and diversity within our police services.",
+        "statement": "There should be greater civic oversight within our police services.",
         "flipResponseValues": false
     },
     {

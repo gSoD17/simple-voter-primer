@@ -14,7 +14,7 @@ export class QuizResultChartModalPage {
 
   quizResults = {
     x: null,
-    y: 10
+    y: null
   }
 
   myChart: any;
@@ -26,30 +26,33 @@ export class QuizResultChartModalPage {
 
   ionViewWillEnter() {
     this.quizResults.x = this.navParams.get('resultLink1');
+    this.quizResults.y = this.navParams.get('resultLink2');
     
     this.myChart = new Chart(this.scatterCanvas.nativeElement, {
       type: 'scatter',
       data: {
-        datasets: [{
-          label: 'Scatter Dataset',
-          data: [
-            this.quizResults,
-            {
-              x: -5,
-              y: 11
-            },
-            {
-              x: 1,
-              y: -3
-            }
-          ]
-        }]
+        datasets: [
+          { label: 'Your Results', data: [this.quizResults] }
+        ]
       },
       options: {
+        responsive: true,
         scales: {
           xAxes: [{
-            type: 'linear',
-            position: 'bottom'
+            ticks: {
+              display: false,
+              beginAtZero: true,
+              min: -28,
+              max: 28
+            }
+          }],
+          yAxes: [{
+            ticks: {
+              display: false,
+              beginAtZero: true,
+              min: -28,
+              max: 28
+            }
           }]
         }
       }
