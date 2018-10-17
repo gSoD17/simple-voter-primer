@@ -33,14 +33,23 @@ export class QuizResultChartModalPage {
       data: {
         datasets: [
           { label: 'You', data: [this.quizResults], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#FF69B4' },
-          { label: "Green Party", data: [{x: -15, y: -28}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#80aa4e' },
-          { label: "Centre Party", data: [{x: 17, y: -7}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#39944a' }
+          { label: "Centre Party", data: [{x: 9, y: -7}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#39944a' },
+          { label: "Christian Democrats", data: [{x: 12, y: 1}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#2d338e' },
+          { label: "Green Party", data: [{x: -12, y: -27}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#80aa4e' },
+          { label: "Left Party", data: [{x: -26, y: -12}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#b00000' },
+          { label: "Liberals", data: [{x: 10, y: -4}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#0069b4' },
+          { label: "Moderate Party", data: [{x: 16, y: 8}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#019cdb' },
+          { label: "Social Democratic Party", data: [{x: -7, y: -4}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#ed1b34' },
+          { label: "Sweden Democrats", data: [{x: 8, y: 26}], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#fedf09' }
         ]
       },
       options: {
         responsive: true,
         legend: {
           position: 'bottom'
+        },
+        tooltips: {
+          enabled: true
         },
         scales: {
           xAxes: [{
@@ -56,8 +65,8 @@ export class QuizResultChartModalPage {
             ticks: {
               display: false,
               beginAtZero: true,
-              min: -28,
-              max: 28
+              min: -30,
+              max: 30
             }
           }, {
             id: 'Libertarian',
@@ -72,8 +81,8 @@ export class QuizResultChartModalPage {
             ticks: {
               display: false,
               beginAtZero: true,
-              min: -28,
-              max: 38
+              min: -30,
+              max: 30
             }
           }],
           yAxes: [{
@@ -89,8 +98,8 @@ export class QuizResultChartModalPage {
             ticks: {
               display: false,
               beginAtZero: true,
-              min: -28,
-              max: 28
+              min: -30,
+              max: 30
             }
           }, {
             id: 'Right-Wing',
@@ -105,8 +114,8 @@ export class QuizResultChartModalPage {
             ticks: {
               display: false,
               beginAtZero: true,
-              min: -28,
-              max: 28
+              min: -30,
+              max: 30
             }
           }]
         }

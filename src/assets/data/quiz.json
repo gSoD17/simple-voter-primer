@@ -38,131 +38,143 @@
     {
         "questionNumber": 7,
         "axesType": "Economic-Left-Right",
+        "statement": "It is important that we continue to have a single-payer healthcare system.",
+        "flipResponseValues": false
+    },
+    {
+        "questionNumber": 8,
+        "axesType": "Economic-Left-Right",
         "statement": "So long as our healthcare remains universal, there is nothing wrong with having private health comapnies operating within our health services.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 8,
+        "questionNumber": 9,
         "axesType": "Economic-Left-Right",
         "statement": "Private, for-profit companies operating within our health services should be banned.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 9,
+        "questionNumber": 10,
         "axesType": "Authoritarian-Libertarian",
         "statement": "We should end the practice of giving free medical and dental care to illegal immigrants.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 10,
+        "questionNumber": 11,
         "axesType": "Economic-Left-Right",
         "statement": "Current rules which makes healthcare universal, should also apply to dental care.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 11,
+        "questionNumber": 12,
         "axesType": "Economic-Left-Right",
         "statement": "We should continue to have charter schools in our education service.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 12,
+        "questionNumber": 13,
         "axesType": "Economic-Left-Right",
         "statement": "It is necessary to introduce stronger profit constraints on private entities operating within our education service.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 13,
+        "questionNumber": 14,
+        "axesType": "Authoritarian-Libertarian",
+        "statement": "Same sex couples should have the same adoption rights as heterosexual couples.",
+        "flipResponseValues": false
+    },
+    {
+        "questionNumber": 15,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Niqabs should be banned from schools.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 14,
+        "questionNumber": 16,
         "axesType": "Authoritarian-Libertarian",
         "statement": "It is important that the central government take back responsibility of managing our schools from municipalities.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 15,
+        "questionNumber": 17,
         "axesType": "Authoritarian-Libertarian",
-        "statement": "Education should emphasize more on teaching traditional Swedish values.",
+        "statement": "Education should emphasize more on teaching traditional values.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 16,
+        "questionNumber": 18,
         "axesType": "Economic-Left-Right",
-        "statement": "Protecting the environment should take precedence over a business' profit interests.",
+        "statement": "The welfare state must be protected.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 17,
+        "questionNumber": 19,
         "axesType": "Economic-Left-Right",
         "statement": "There should be a green tax shift that lowers taxes on work and increases taxes on environmentally damaging activities.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 18,
+        "questionNumber": 20,
         "axesType": "Authoritarian-Libertarian",
         "statement": "It is necessary that there should be a zero-tolernce policy towards crime. including minor crimes.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 19,
+        "questionNumber": 21,
         "axesType": "Authoritarian-Libertarian",
         "statement": "There should be greater civic oversight within our police services.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 20,
+        "questionNumber": 22,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Begging should be banned.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 21,
+        "questionNumber": 23,
         "axesType": "Authoritarian-Libertarian",
         "statement": "Police should have greater access to camera surveillance.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 22,
+        "questionNumber": 24,
         "axesType": "Economic-Left-Right",
         "statement": "There should be extra taxes levied on large fortunes.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 23,
+        "questionNumber": 25,
         "axesType": "Economic-Left-Right",
         "statement": "There should be an additional air tax on travel to protect the environment.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 24,
+        "questionNumber": 26,
         "axesType": "Economic-Left-Right",
-        "statement": "There should be a bank tax.",
+        "statement": "Tuition for post-secondary education should be universal and funded through general taxation.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 25,
+        "questionNumber": 27,
         "axesType": "Economic-Left-Right",
         "statement": "We should allow for the creation of entry-level jobs at 70% of normal pay.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 26,
+        "questionNumber": 28,
         "axesType": "Economic-Left-Right",
         "statement": "We need to encourage more entrepreneurship through streamlining regulations and lower taxes.",
         "flipResponseValues": true
     },
     {
-        "questionNumber": 27,
+        "questionNumber": 29,
         "axesType": "Economic-Left-Right",
         "statement": "The working day should be lowered from 8 hours to 6 hours.",
         "flipResponseValues": false
     },
     {
-        "questionNumber": 28,
+        "questionNumber": 30,
         "axesType": "Economic-Left-Right",
         "statement": "The retirement age should be raised from 61 to 63.",
         "flipResponseValues": false
