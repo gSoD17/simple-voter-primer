@@ -56,7 +56,7 @@
     {
         "questionNumber": 10,
         "axesType": "Authoritarian-Libertarian",
-        "statement": "We should end the practice of giving free medical and dental care to illegal immigrants.",
+        "statement": "We should allow same-sex marriages.",
         "flipResponseValues": true
     },
     {
@@ -80,7 +80,7 @@
     {
         "questionNumber": 14,
         "axesType": "Authoritarian-Libertarian",
-        "statement": "Same sex couples should have the same adoption rights as heterosexual couples.",
+        "statement": "Same-sex couples should have the same adoption rights as heterosexual couples.",
         "flipResponseValues": false
     },
     {
