@@ -17,10 +17,21 @@ export class QuizResultChartModalPage {
   myOptions = {
     responsive: true,
     legend: {
+      display:  false,
       position: 'bottom'
     },
     tooltips: {
       enabled: true,
+      mode: 'index',
+      position: "average",
+      backgroundColor: "rgba(0,0,0,0)",
+      bodyFontSize: 10,
+      bodyFontStyle: "bold",
+      bodyFontColor: 'black',
+      caretSize: 0,
+      displayColors: false,
+      xAlign: 'right',
+      yAlign: 'bottom',
       callbacks: {
          label: function(tooltipItem, data) {
             var xLabel = data.datasets[tooltipItem.datasetIndex].label;
