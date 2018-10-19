@@ -12,5 +12,16 @@
 <ion-content padding>
 
   <canvas #scatterCanvas height="500vh"></canvas>
+  
+  <h4 text-center *ngIf="quizResults.x < 2 && quizResults.x > -2 && quizResults.y < 2 && quizResults.y > -2">You are a pure Centrist</h4>
+  <h5 text-center *ngIf="quizResults.x < 10 && quizResults.x > 0 && quizResults.y > -10 && quizResults.y < 0">You share similarities with the Centre Party</h5>
+  <h5 text-center *ngIf="quizResults.x < 12 && quizResults.x > 9 && quizResults.y > -7 && quizResults.y < 0">You share similarities with the Liberals</h5>
+  <h5 text-center *ngIf="quizResults.x < 0 && quizResults.x > -26 && quizResults.y > -12 && quizResults.y < 0">You share similarities with the Social Democrats</h5>
+  <h5 text-center *ngIf="quizResults.x < 0 && quizResults.x > -26 && quizResults.y > -30 && quizResults.y < -12">You share similarities with the Green Party</h5>
+  <h5 text-center *ngIf="quizResults.x < -12 && quizResults.x > -30 && quizResults.y > -27 && quizResults.y < 0">You share similarities with the Left Party</h5>
+
+  <h5 text-center *ngIf="quizResults.x < 19 && quizResults.x > 12 && quizResults.y > 0 && quizResults.y < 7">You share similarities with the Moderates</h5>
+  <h5 text-center *ngIf="quizResults.x < 16 && quizResults.x > 10 && quizResults.y > 0 && quizResults.y < 4">You share similarities with the Christian Democrats</h5>
+  <h5 text-center *ngIf="quizResults.x < 12 && quizResults.x > 0 && quizResults.y > 20 && quizResults.y < 30">You share similarities with the Sweden Democrats</h5>
 
 </ion-content>

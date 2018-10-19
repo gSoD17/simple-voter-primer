@@ -12,6 +12,11 @@ export class QuizResultChartModalPage {
 
   @ViewChild('scatterCanvas') scatterCanvas;
 
+  quizResults = {
+    x: null,
+    y: null
+  }
+
   myChart: any;
 
   myOptions = {
@@ -23,10 +28,10 @@ export class QuizResultChartModalPage {
     tooltips: {
       enabled: true,
       mode: 'index',
-      position: "average",
-      backgroundColor: "rgba(0,0,0,0)",
+      position: 'average',
+      backgroundColor: 'rgba(0,0,0,0)',
       bodyFontSize: 10,
-      bodyFontStyle: "bold",
+      bodyFontStyle: 'bold',
       bodyFontColor: 'black',
       caretSize: 0,
       displayColors: false,
@@ -34,18 +39,18 @@ export class QuizResultChartModalPage {
       yAlign: 'bottom',
       callbacks: {
          label: function(tooltipItem, data) {
-            var xLabel = data.datasets[tooltipItem.datasetIndex].label;
+            let xLabel = data.datasets[tooltipItem.datasetIndex].label;
             return xLabel;
          }
       }
     },
     scales: {
       xAxes: [{
-        id: 'Authoritarian',
+        id: 'Conservative',
         position: 'top',
         scaleLabel: {
           display: true,
-          labelString: 'Authoritarian'
+          labelString: 'Conservative'
         },
         gridLines: {
           color: '#ffffff'
@@ -57,11 +62,11 @@ export class QuizResultChartModalPage {
           max: 30
         }
       }, {
-        id: 'Libertarian',
+        id: 'Progressive',
         position: 'bottom',
         scaleLabel: {
           display: true,
-          labelString: 'Libertarian'
+          labelString: 'Progressive'
         },
         gridLines: {
           color: '#ffffff'
@@ -160,11 +165,6 @@ export class QuizResultChartModalPage {
     }
   }
 
-  quizResults = {
-    x: null,
-    y: null
-  }
-
   constructor(
     public navCtrl: NavController, 
     public navParams: NavParams,
@@ -179,15 +179,17 @@ export class QuizResultChartModalPage {
       type: 'scatter',
       data: {
         datasets: [
-          { label: 'You', data: [this.quizResults], pointRadius: 5, pointHoverRadius: 5, backgroundColor: '#000000' },
-          { label: "Centre Party", data: [{x: 9, y: -7}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#39944a' },
-          { label: "Christian Democrats", data: [{x: 12, y: 1}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#2d338e' },
-          { label: "Green Party", data: [{x: -12, y: -27}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#80aa4e' },
-          { label: "Left Party", data: [{x: -26, y: -12}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#b00000' },
-          { label: "Liberals", data: [{x: 10, y: -4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#0069b4' },
-          { label: "Moderate Party", data: [{x: 16, y: 4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#019cdb' },
-          { label: "Social Democratic Party", data: [{x: -7, y: -4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#ed1b34' },
-          { label: "Sweden Democrats", data: [{x: 8, y: 25}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#fedf09' }
+          { label: 'You', data: [this.quizResults], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#000000' },
+          { label: 'Centre Party', data: [{x: 9, y: -7}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#39944a' },
+          { label: 'Christian Democrats', data: [{x: 12, y: 1}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#2d338e' },
+          { label: 'Green Party', data: [{x: -12, y: -27}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#80aa4e' },
+          { label: 'Left Party', data: [{x: -26, y: -12}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#b00000' },
+          { label: 'Liberals', data: [{x: 10, y: -4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#0069b4' },
+          { label: 'Moderate Party', data: [{x: 16, y: 4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#019cdb' },
+          { label: 'Social Democratic Party', data: [{x: -7, y: -4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#ed1b34' },
+          { label: 'Sweden Democrats', data: [{x: 8, y: 25}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#fedf09' },
+          { label: 'Republicans (USA)', data: [{x: 27, y: 22}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#800000' },
+          { label: 'Democrats (USA)', data: [{x: 16, y: -2}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#000080' }
         ]
       },
       options: this.myOptions,
@@ -197,7 +199,8 @@ export class QuizResultChartModalPage {
   }
 
   dismissModal() {
-    this.viewCtrl.dismiss();
+    // this.viewCtrl.dismiss();
+    this.navCtrl.setRoot('TabsPage');
   }
 
 }

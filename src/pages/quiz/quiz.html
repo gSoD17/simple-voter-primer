@@ -10,13 +10,14 @@
 <ion-content padding>
 
   <ion-slides #slides>
-    <ion-slide>
+    <!-- <ion-slide>
         <button ion-button color="primary" (click)="submit()">Submit</button>
-    </ion-slide>
+    </ion-slide> -->
 
     <ion-slide>
-      <p>placeholder text</p>
-      <button ion-button color="primary" (click)="startQuiz()">Go To Quiz</button>
+      <h3>Welcome!</h3>
+      <p>The following test will feature a set of statements where you will grade how much you agree or disagree with it. After you are done with the test, there will be a chart displaying your results and where you land politically in comparison to other Swedish political parties.</p>
+      <button ion-button color="primary" (click)="startQuiz()">Start</button>
     </ion-slide>
 
     <ion-slide *ngFor="let data of quizData">

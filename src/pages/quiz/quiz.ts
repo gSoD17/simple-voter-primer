@@ -1,5 +1,5 @@
 import { Component, ViewChild } from '@angular/core';
-import { IonicPage, NavController, NavParams, ModalController } from 'ionic-angular';
+import { IonicPage, NavController, NavParams, ModalController, AlertController } from 'ionic-angular';
 
 import { DataFetcherProvider } from '../../providers/data-fetcher/data-fetcher';
 
@@ -29,7 +29,8 @@ export class QuizPage {
     public navCtrl: NavController, 
     public navParams: NavParams,
     public dataFetch: DataFetcherProvider,
-    public modalCtrl: ModalController
+    public modalCtrl: ModalController,
+    public alertCtrl: AlertController
     ) {
   }
 
@@ -50,6 +51,7 @@ export class QuizPage {
   nextSlide(quizData) {      
     if(!this.selection) {
       this.slides.lockSwipes(true);
+      this.noSelectionAlert();
     }
     else if(this.selection && quizData.axesType === 'Authoritarian-Libertarian') {
       if(quizData.flipResponseValues === true) {
@@ -85,8 +87,6 @@ export class QuizPage {
     }
     
     this.slides.lockSwipes(true);
-    console.log(this.authLibScoreArray);
-    console.log(this.leftRightScoreArray);
   }
 
   previousSlide(quizData) {
@@ -100,9 +100,6 @@ export class QuizPage {
     else if(quizData.axesType === 'Economic-Left-Right') {
       this.leftRightScoreArray.splice(-1, 1);
     }
-
-    console.log(this.authLibScoreArray);
-    console.log(this.leftRightScoreArray);
   }
 
   submit() {
@@ -123,6 +120,16 @@ export class QuizPage {
     console.log(this.mockChartInput);
 
     quizChartModal.present();
+  }
+
+  noSelectionAlert() {
+    let alert = this.alertCtrl.create({
+      title: 'No Answer Selected!',
+      subTitle: 'Please select an answer before continuing.',
+      buttons: ['Ok']
+    })
+
+    alert.present();
   }
 
 }
