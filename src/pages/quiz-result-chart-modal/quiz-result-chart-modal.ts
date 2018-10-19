@@ -181,12 +181,12 @@ export class QuizResultChartModalPage {
         datasets: [
           { label: 'You', data: [this.quizResults], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#000000' },
           { label: 'Centre Party', data: [{x: 9, y: -7}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#39944a' },
-          { label: 'Christian Democrats', data: [{x: 12, y: 1}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#2d338e' },
+          { label: 'Liberals', data: [{x: 10, y: -4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#0069b4' },
+          { label: 'Social Democratic Party', data: [{x: -7, y: -4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#ed1b34' },
           { label: 'Green Party', data: [{x: -12, y: -27}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#80aa4e' },
           { label: 'Left Party', data: [{x: -26, y: -12}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#b00000' },
-          { label: 'Liberals', data: [{x: 10, y: -4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#0069b4' },
           { label: 'Moderate Party', data: [{x: 16, y: 4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#019cdb' },
-          { label: 'Social Democratic Party', data: [{x: -7, y: -4}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#ed1b34' },
+          { label: 'Christian Democrats', data: [{x: 12, y: 2}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#2d338e' },
           { label: 'Sweden Democrats', data: [{x: 8, y: 25}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#fedf09' },
           { label: 'Republicans (USA)', data: [{x: 27, y: 22}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#800000' },
           { label: 'Democrats (USA)', data: [{x: 16, y: -2}], pointRadius: 4, pointHoverRadius: 4, backgroundColor: '#000080' }
