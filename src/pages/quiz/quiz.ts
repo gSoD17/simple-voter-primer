@@ -117,7 +117,6 @@ export class QuizPage {
 
     this.mockChartInput[0].x = resultXAxis;
     this.mockChartInput[0].y = resultYAxis;
-    console.log(this.mockChartInput);
 
     quizChartModal.present();
   }

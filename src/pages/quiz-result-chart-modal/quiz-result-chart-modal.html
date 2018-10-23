@@ -14,72 +14,72 @@
   <canvas #scatterCanvas height="500vh"></canvas>
   
   <h5 text-center 
-  *ngIf="quizResults.x < 3 
-  && quizResults.x > -3 
-  && quizResults.y < 3 
-  && quizResults.y > -3">
+  *ngIf="quizResults.x < 2 
+  && quizResults.x > -2 
+  && quizResults.y < 2 
+  && quizResults.y > -2">
     You are a Centrist
   </h5>
 
   <h5 text-center 
   *ngIf="quizResults.x < 10  
-  && quizResults.x > 3
-  && quizResults.y > -9 
-  && quizResults.y < 3"> 
+  && quizResults.x > 0
+  && quizResults.y > -12 
+  && quizResults.y < -5"> 
     You share similarities with the Centre Party
   </h5>
 
   <h5 text-center 
-  *ngIf="quizResults.x < 13
+  *ngIf="quizResults.x < 11
   && quizResults.x > 9  
-  && quizResults.y > -9
-  && quizResults.y < 3">
+  && quizResults.y > -5
+  && quizResults.y < 0">
     You share similarities with the Liberals
   </h5>
 
   <h5 text-center 
-  *ngIf="quizResults.x < -3 
-  && quizResults.x > -23  
-  && quizResults.y > -9 
-  && quizResults.y < -3">
+  *ngIf="quizResults.x < 0  
+  && quizResults.x > -12   
+  && quizResults.y > -8
+  && quizResults.y < 0">
     You share similarities with the Social Democrats
   </h5>
 
   <h5 text-center 
   *ngIf="quizResults.x < -10 
-  && quizResults.x > -23  
+  && quizResults.x > -12  
   && quizResults.y > -30
-  && quizResults.y < -15">
+  && quizResults.y < -18">
     You share similarities with the Green Party
   </h5>
 
   <h5 text-center 
-  *ngIf="quizResults.x < -15 
+  *ngIf="quizResults.x < -12 
   && quizResults.x > -30
-  && quizResults.y > -30 
-  && quizResults.y < -24">
+  && quizResults.y > -18 
+  && quizResults.y < -8">
     You share similarities with the Left Party
   </h5>
 
   <h5 text-center 
   *ngIf="quizResults.x < 22
-  && quizResults.x > 15
+  && quizResults.x > 14
   && quizResults.y > 3
-  && quizResults.y < 10">
+  && quizResults.y < 8">
     You share similarities with the Moderates
   </h5>
   
   <h5 text-center 
-  *ngIf="quizResults.x < 13
-  && quizResults.x > 11
+  *ngIf="quizResults.x < 14
+  && quizResults.x > 11 
   && quizResults.y > 0
   && quizResults.y < 3">
     You share similarities with the Christian Democrats
   </h5>
   
   <h5 text-center 
-  *ngIf="quizResults.x < 9
-  && quizResults.x > 0
+  *ngIf="quizResults.x < 11
+  && quizResults.x > -5
   && quizResults.y > 20
   && quizResults.y < 30">
     You share similarities with the Sweden Democrats
