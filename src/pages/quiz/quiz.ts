@@ -14,6 +14,7 @@ export class QuizPage {
 
   quizData: any;
   selection: number;
+  isSlideEnd: boolean;
 
   authLibScoreArray = [];
   leftRightScoreArray = [];
@@ -87,6 +88,7 @@ export class QuizPage {
     }
     
     this.slides.lockSwipes(true);
+    this.isSlideEnd = this.slides.isEnd();
   }
 
   previousSlide(quizData) {
@@ -102,23 +104,29 @@ export class QuizPage {
     }
   }
 
-  submit() {
-    let resultXAxis = this.leftRightScoreArray
-      .reduce((acc, curr) => {
-        return acc + curr;
-      }, 0);
+  submit() { 
+    if(!this.selection) {
+      this.slides.lockSwipes(true);
+    }
 
-    let resultYAxis = this.authLibScoreArray
-      .reduce((acc, curr) => {
-        return acc + curr;
-      }, 0);
-
-    let quizChartModal = this.modalCtrl.create('QuizResultChartModalPage', {resultLink1: resultXAxis, resultLink2: resultYAxis});
-
-    this.mockChartInput[0].x = resultXAxis;
-    this.mockChartInput[0].y = resultYAxis;
-
-    quizChartModal.present();
+    else {
+      let resultXAxis = this.leftRightScoreArray
+        .reduce((acc, curr) => {
+          return acc + curr;
+        }, 0);
+  
+      let resultYAxis = this.authLibScoreArray
+        .reduce((acc, curr) => {
+          return acc + curr;
+        }, 0);
+  
+      let quizChartModal = this.modalCtrl.create('QuizResultChartModalPage', {resultLink1: resultXAxis, resultLink2: resultYAxis});
+  
+      this.mockChartInput[0].x = resultXAxis;
+      this.mockChartInput[0].y = resultYAxis;
+  
+      quizChartModal.present();
+    }
   }
 
   noSelectionAlert() {

@@ -16,8 +16,8 @@
   <h5 text-center 
   *ngIf="quizResults.x < 2 
   && quizResults.x > -2 
-  && quizResults.y < 2 
-  && quizResults.y > -2">
+  && quizResults.y > -2 
+  && quizResults.y < 2">
     You are a Centrist
   </h5>
 
@@ -30,7 +30,7 @@
   </h5>
 
   <h5 text-center 
-  *ngIf="quizResults.x < 11
+  *ngIf="quizResults.x < 15
   && quizResults.x > 9  
   && quizResults.y > -5
   && quizResults.y < 0">

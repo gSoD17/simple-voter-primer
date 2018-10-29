@@ -17,6 +17,9 @@ export class ElectionSeatsChartsPage {
   public ChartOptions: any = {
     options: {
       legend: { 
+        labels: {
+          usePointStyle: true
+        },
         position: 'bottom' 
       },
       tooltips: {

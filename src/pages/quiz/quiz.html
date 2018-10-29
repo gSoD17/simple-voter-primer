@@ -45,13 +45,9 @@
       </ion-list>
 
       <button float-left ion-button color="primary" (click)="previousSlide(data)">Back</button>
-      <button float-right ion-button color="primary" (click)="nextSlide(data)">Next</button>
+      <button *ngIf="!isSlideEnd" float-right ion-button color="primary" (click)="nextSlide(data)">Next</button>
+      <button *ngIf="isSlideEnd" float-right ion-button color="secondary" (click)="submit(); nextSlide(data)">Submit</button>
 
-    </ion-slide>
-
-    
-    <ion-slide>
-        <button ion-button color="primary" (click)="submit()">Submit</button>
     </ion-slide>
   </ion-slides>
 
